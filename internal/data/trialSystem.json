@@ -1,0 +1,230 @@
+{
+	"Name": "Rawth",
+	"SectorAbbrev": "Fore",
+	"Sector": "Foreven",
+	"SectorHex": "3238",
+	"UWP": "B59A9A5-D",
+	"TravelZone":"Green",
+	"Bases":"N",
+	"TradeClassifications":[
+		"Wa",
+		"Hi",
+		"In"
+	],
+	"PopulationDigit":1,
+	"PlanetoidBelts":0,
+	"GasGiants":2,
+	"TotalWorlds":9,
+	"Allegiance":"NaHu",
+	"Importance":4,
+	"Economic":{
+		"Resources":8,
+		"Labor":8,
+		"Infrastructure":8,
+		"Efficiency":3
+	},
+	"Cultural":{
+		"Homogenity":13,
+		"Acceptance":13,
+		"Strangeness":4,
+		"Symbols":18
+	},
+	"ResourceUnits":1536,
+	"HabitalZoneVariance":0,
+	"Climate":"Temperate",
+	"MainwordType":"Planet",
+	"SatelliteOrbit":"",
+	"Stellar":{ 
+		"Primary":{
+			"SpectralType": "A",
+			"SpectralDecimal": 3,
+			"StellarSize": "V",
+			"HabitableZoneOrbit": 7,
+			"Name": "Rawth-alpha",
+			"Mass":2.54
+		},
+		"Secondary":{
+			"SpectralType": "K",
+			"SpectralDecimal": 8,
+			"StellarSize": "V",
+			"HabitableZoneOrbit":1,
+			"Orbit":6,
+			"Name":"Rawth-beta",
+			"Mass":0.5214
+		}
+	},
+	"Bodies":{
+		"Primary":[
+			{
+				"Orbit":0,
+				"Name":"Rawth-alpha-0",
+				"UWP":"Y370100-9",
+				"TradeClassifications": ["De","He","Lo","Tw"],
+				"Type":"Stormworld",
+				"Satellites": [
+					{
+						"Orbit":"Gee",
+						"Name":"Rawth-alpha-0-gee",
+						"UWP":"F000873-8",
+						"TradeClassifications": ["As","Ph","Na","Pi","Lk"],
+						"Type":"Worldlet"
+					}
+				]
+			},
+			{
+				"Orbit":4,
+				"Name":"Rawth-alpha-4",
+				"UWP":"Y475011-2",
+				"TradeClassifications": [],
+				"Type":"Stormworld",
+				"Satellites": [
+					{
+						"Orbit":"Yu",
+						"Name":"Rawth-alpha-4-yu",
+						"UWP":"Y510000-7",
+						"TradeClassifications": ["Di","Sa"],
+						"Type":"Inner world"
+					}
+				]
+			},
+			{
+				"Orbit":5,
+				"Name":"Rawth-alpha-5",
+				"UWP":"Y436000-0",
+				"TradeClassifications": ["Ba"],
+				"Type":"Radworld"
+			},
+			{
+				"Orbit":6,
+				"Name":"Rawth-beta",
+				"Type":"Secondary Star"
+			},
+			{
+				"Orbit":7,
+				"Name":"Rawth",
+				"Type":"Mainworld",
+				"Satellites": [
+					{
+						"Orbit":"Ex",
+						"Name":"Lasonooii",
+						"UWP":"Y6BA005-5",
+						"TradeClassifications": ["Fl","Sa"],
+						"Type":"Stormworld"
+					}
+				]
+			},
+			{
+				"Orbit":9,
+				"Name":"Rawth-alpha-9",
+				"Type":"Small Gas Giant",
+				"Size":22,
+				"Satellites": [
+					{
+						"Orbit":"En",
+						"Name":"Rawth-alpha-9-en",
+						"UWP":"H200623-7",
+						"TradeClassifications": ["Sa"],
+						"Type":"Worldlet"
+					},
+					{
+						"Orbit":"Tee",
+						"Name":"Rawth-alpha-9-tee",
+						"UWP":"Y864000-0",
+						"TradeClassifications": ["Ba","Sa"],
+						"Type":"Radworld"
+					},
+					{
+						"Orbit":"Yu",
+						"Name":"Rawth-alpha-9-yu",
+						"UWP":"H11046B-5",
+						"TradeClassifications": ["Sa"],
+						"Type":"Worldlet"
+					}
+				]
+			},
+			{
+				"Orbit":12,
+				"Name":"Rawth-alpha-12",
+				"UWP":"Y7C8000-0",
+				"TradeClassifications": ["Ba"],
+				"Type":"Radworld"
+			},
+			{
+				"Orbit":14,
+				"Name":"Rawth-alpha-14",
+				"Type":"Ice Giant",
+				"Size":22,
+				"Satellites": [
+					{
+						"Orbit":"En",
+						"Name":"Rawth-alpha-14-en",
+						"UWP":"Y7CA057-6",
+						"TradeClassifications": ["Sa"],
+						"Type":"Iceworld"
+					},
+					{
+						"Orbit":"Arr",
+						"Name":"Rawth-alpha-14-arr",
+						"UWP":"Y000422-9",
+						"TradeClassifications": ["As","Sa"],
+						"Type":"Iceworld"
+					},
+					{
+						"Orbit":"Es",
+						"Name":"Rawth-alpha-14-es",
+						"UWP":"Y594000-0",
+						"TradeClassifications": ["Sa"],
+						"Type":"Radworld"
+					},
+					{
+						"Orbit":"Tee",
+						"Name":"Rawth-alpha-14-tee",
+						"UWP":"Y352000-0",
+						"TradeClassifications": ["Sa"],
+						"Type":"Radworld"
+					}
+				]
+			},
+			{
+				"Orbit":12,
+				"Name":"Rawth-alpha-12",
+				"UWP":"Y7C8000-0",
+				"TradeClassifications": ["Ba"],
+				"Type":"Radworld"
+			}
+		],
+		"Secondary":[
+			{
+				"Orbit":0,
+				"Name":"Rawth-beta-0",
+				"UWP":"H3775AC-3",
+				"TradeClassifications": ["Ni","Ag","Ho","Tz","Mi"],
+				"Type":"Inner world",
+				"Satellites": [
+					{
+						"Orbit":"Que",
+						"Name":"Rawth-beta-0-que",
+						"UWP":"YR00000-0",
+						"Type":"Ring"
+					}
+				]
+			},
+			{
+				"Orbit":3,
+				"Name":"Rawth-beta-3",
+				"UWP":"Y47A000-5",
+				"TradeClassifications": ["Wa","Di","Fr"],
+				"Type":"Icworld",
+				"Satellites": [
+					{
+						"Orbit":"Dub",
+						"Name":"Rawth-beta-3-dub",
+						"UWP":"H000779-6",
+						"TradeClassifications": ["As","Sa"],
+						"Type":"Inner world"
+					}
+				]
+			}
+		]
+	}
+}

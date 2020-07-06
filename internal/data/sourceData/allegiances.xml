@@ -1,0 +1,1455 @@
+<ArrayOfAllegianceCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<AllegianceCode>
+<Code>3EoG</Code>
+<LegacyCode>Ga</LegacyCode>
+<Name>Third Empire of Gashikan</Name>
+<Location>Mend/Gash/Tren</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>4Wor</Code>
+<LegacyCode>Fw</LegacyCode>
+<Name>Four Worlds</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AkUn</Code>
+<LegacyCode>Ak</LegacyCode>
+<Name>Akeena Union</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AlCo</Code>
+<LegacyCode>Al</LegacyCode>
+<Name>Altarean Confederation</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AnTC</Code>
+<LegacyCode>Ac</LegacyCode>
+<Name>Anubian Trade Coalition</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsIf</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Iyeaao'fte</Name>
+<Location>Ustr</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsMw</Code>
+<LegacyCode>As</LegacyCode>
+<Name>
+Aslan Hierate, single multiple-world clan dominates
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr/Verg
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsOf</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Oleaiy'fte</Name>
+<Location>Ustr</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsSc</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, multiple clans split control</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsSF</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, small facility</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT0</Code>
+<LegacyCode>A0</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT1</Code>
+<LegacyCode>A1</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Khauleairl (2), Estoieie' (16), Toaseilwi (22)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT2</Code>
+<LegacyCode>A2</LegacyCode>
+<Name>Aslan Hierate, Tlaukhu control, Syoisuis (3)</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT3</Code>
+<LegacyCode>A3</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT4</Code>
+<LegacyCode>A4</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT5</Code>
+<LegacyCode>A5</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Hlyueawi (6), Isoitiyro (15)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT6</Code>
+<LegacyCode>A6</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT7</Code>
+<LegacyCode>A7</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerfearlyo (20), Yehtahikh (24)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT8</Code>
+<LegacyCode>A8</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okunir (29)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsT9</Code>
+<LegacyCode>A9</LegacyCode>
+<Name>
+Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)
+</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsTA</Code>
+<LegacyCode>Ta</LegacyCode>
+<Name>Tealou Arlaoh</Name>
+<Location>Uist/Ustr</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsTv</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, Tlaukhu vassal clan dominates</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsTz</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, Zodia clan</Name>
+<Location>Iwah</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsVc</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, vassal clan dominates</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsWc</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, single one-world clan dominates</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AsXX</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Aslan Hierate, unknown</Name>
+<Location>
+Akti/Dark/Eali/Hlak/Iwah/Reav/Rift/Stai/Troj/Uist/Ustr
+</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>AvCn</Code>
+<LegacyCode>Ac</LegacyCode>
+<Name>Avalar Consulate</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>BaCl</Code>
+<LegacyCode>Bc</LegacyCode>
+<Name>Backman Cluster</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Bium</Code>
+<LegacyCode>Bi</LegacyCode>
+<Name>The Biumvirate</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>BlSo</Code>
+<LegacyCode>Bs</LegacyCode>
+<Name>Belgardian Sojurnate</Name>
+<Location>Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>BoWo</Code>
+<LegacyCode>Bw</LegacyCode>
+<Name>Border Worlds</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CaAs</Code>
+<LegacyCode>Cb</LegacyCode>
+<Name>Carrillian Assembly</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CAEM</Code>
+<LegacyCode>Es</LegacyCode>
+<Name>Comsentient Alliance, Eslyat Magistracy</Name>
+<Location>Beyo/Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CAin</Code>
+<LegacyCode>Co</LegacyCode>
+<Name>Comsentient Alliance</Name>
+<Location>Beyo/Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CAKT</Code>
+<LegacyCode>Kt</LegacyCode>
+<Name>Comsentient Alliance, Kajaani Triumverate</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CaPr</Code>
+<LegacyCode>Ca</LegacyCode>
+<Name>Principality of Caledon</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CaTe</Code>
+<LegacyCode>Ct</LegacyCode>
+<Name>Carter Technocracy</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CoAl</Code>
+<LegacyCode>Ca</LegacyCode>
+<Name>Corsair Alliance</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CoBa</Code>
+<LegacyCode>Ba</LegacyCode>
+<Name>Confederation of Bammesuka</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CoLp</Code>
+<LegacyCode>Lp</LegacyCode>
+<Name>Council of Leh Perash</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CRAk</Code>
+<LegacyCode>CA</LegacyCode>
+<Name>Anakudnu Cultural Region</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CRGe</Code>
+<LegacyCode>CG</LegacyCode>
+<Name>Geonee Cultural Region</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CRSu</Code>
+<LegacyCode>CS</LegacyCode>
+<Name>Suerrat Cultural Region</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CRVi</Code>
+<LegacyCode>CV</LegacyCode>
+<Name>Vilani Cultural Region</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsCa</Code>
+<LegacyCode>Ca</LegacyCode>
+<Name>Client state, Principality of Caledon</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsHv</Code>
+<LegacyCode>Hc</LegacyCode>
+<Name>Client state, Hive Federation</Name>
+<Location>Cruc/Spic</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsIm</Code>
+<LegacyCode>Cs</LegacyCode>
+<Name>Client state, Third Imperium</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsMo</Code>
+<LegacyCode>Cm</LegacyCode>
+<Name>Client state, Duchy of Mora</Name>
+<Location>Spin</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsMP</Code>
+<LegacyCode>Ms</LegacyCode>
+<Name>Client state, Mal'Gnar Primarchic</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsRr</Code>
+<LegacyCode>Cr</LegacyCode>
+<Name>Client state, Republic of Regina</Name>
+<Location>Spin</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsTw</Code>
+<LegacyCode>KC</LegacyCode>
+<Name>Client state, Two Thousand Worlds</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CsZh</Code>
+<LegacyCode>Cz</LegacyCode>
+<Name>Client state, Zhodani Consulate</Name>
+<Location>Spin/Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>CyUn</Code>
+<LegacyCode>Cu</LegacyCode>
+<Name>Cytralin Unity</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DaCf</Code>
+<LegacyCode>Da</LegacyCode>
+<Name>Darrian Confederation</Name>
+<Location>Spin</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DeHg</Code>
+<LegacyCode>Dh</LegacyCode>
+<Name>Descarothe Hegemony</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DeNo</Code>
+<LegacyCode>Dn</LegacyCode>
+<Name>Demos of Nobles</Name>
+<Location>Newo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DiGr</Code>
+<LegacyCode>Dg</LegacyCode>
+<Name>Dienbach Grüpen</Name>
+<Location>Newo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DiWb</Code>
+<LegacyCode>Dw</LegacyCode>
+<Name>Die Weltbund</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DoAl</Code>
+<LegacyCode>Az</LegacyCode>
+<Name>Domain of Alntzar</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DuCf</Code>
+<LegacyCode>Cd</LegacyCode>
+<Name>Confederation of Duncinae</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>DuMo</Code>
+<LegacyCode>Mo</LegacyCode>
+<Name>Duchy of Mora</Name>
+<Location>Spin</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FCSA</Code>
+<LegacyCode>Fc</LegacyCode>
+<Name>Four Corners Sovereign Array</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FdAr</Code>
+<LegacyCode>Fa</LegacyCode>
+<Name>Federation of Arden</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FdDa</Code>
+<LegacyCode>Fd</LegacyCode>
+<Name>Federation of Daibei</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FdIl</Code>
+<LegacyCode>Fi</LegacyCode>
+<Name>Federation of Ilelish</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FeAl</Code>
+<LegacyCode>Fa</LegacyCode>
+<Name>Federation of Alsas</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FeAm</Code>
+<LegacyCode>FA</LegacyCode>
+<Name>Federation of Amil</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FeHe</Code>
+<LegacyCode>Fh</LegacyCode>
+<Name>Federation of Heron</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>FlLe</Code>
+<LegacyCode>Fl</LegacyCode>
+<Name>Florian League</Name>
+<Location>Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GaFd</Code>
+<LegacyCode>Ga</LegacyCode>
+<Name>Galian Federation</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GaRp</Code>
+<LegacyCode>Gr</LegacyCode>
+<Name>Gamma Republic</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GdKa</Code>
+<LegacyCode>Rm</LegacyCode>
+<Name>Grand Duchy of Kalradin</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GdMh</Code>
+<LegacyCode>Ma</LegacyCode>
+<Name>Grand Duchy of Marlheim</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GdSt</Code>
+<LegacyCode>Gs</LegacyCode>
+<Name>Grand Duchy of Stoner</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GeOr</Code>
+<LegacyCode>Go</LegacyCode>
+<Name>Gerontocracy of Ormine</Name>
+<Location>Dark</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GlEm</Code>
+<LegacyCode>Gl</LegacyCode>
+<Name>Glorious Empire</Name>
+<Location>Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GlFe</Code>
+<LegacyCode>Gf</LegacyCode>
+<Name>Glimmerdrift Federation</Name>
+<Location>Cruc/Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GnCl</Code>
+<LegacyCode>Gi</LegacyCode>
+<Name>Gniivi Collective</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>GrCo</Code>
+<LegacyCode>Gr</LegacyCode>
+<Name>Grossdeutchland Confederation</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>HaCo</Code>
+<LegacyCode>Hc</LegacyCode>
+<Name>Haladon Cooperative</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>HoPA</Code>
+<LegacyCode>Ho</LegacyCode>
+<Name>Hochiken People's Assembly</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>HvFd</Code>
+<LegacyCode>Hv</LegacyCode>
+<Name>Hive Federation</Name>
+<Location>Spic</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>HyLe</Code>
+<LegacyCode>Hy</LegacyCode>
+<Name>Hyperion League</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>IHPr</Code>
+<LegacyCode>IS</LegacyCode>
+<Name>I'Sred*Ni Protectorate</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImAp</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Amec Protectorate</Name>
+<Location>Dagu</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDa</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Antares</Name>
+<Location>Anta/Empt/Lish</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDc</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Sylea</Name>
+<Location>Core/Delp/Forn/Mass</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDd</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Deneb</Name>
+<Location>Dene/Reft/Spin/Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDg</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Gateway</Name>
+<Location>Glim/Hint/Ley</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDi</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Ilelish</Name>
+<Location>Daib/Ilel/Reav/Verg/Zaru</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDs</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Sol</Name>
+<Location>Alph/Dias/Magy/Olde/Solo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImDv</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Domain of Vland</Name>
+<Location>Corr/Dagu/Gush/Reft/Vlan</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImLa</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, League of Antares</Name>
+<Location>Anta</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImLc</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Lancian Cultural Region</Name>
+<Location>Corr/Dagu/Gush</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImLu</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Luriani Cultural Association</Name>
+<Location>Ley/Forn</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImSy</Code>
+<LegacyCode>Im</LegacyCode>
+<Name>Third Imperium, Sylean Worlds</Name>
+<Location>Core</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ImVd</Code>
+<LegacyCode>Ve</LegacyCode>
+<Name>Third Imperium, Vegan Autonomous District</Name>
+<Location>Solo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>IsDo</Code>
+<LegacyCode>Id</LegacyCode>
+<Name>Islaiat Dominate</Name>
+<Location>Eali</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JAOz</Code>
+<LegacyCode>Jo</LegacyCode>
+<Name>Julian Protectorate, Alliance of Ozuvon</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JaPa</Code>
+<LegacyCode>Ja</LegacyCode>
+<Name>Jarnac Pashalic</Name>
+<Location>Beyo/Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JAsi</Code>
+<LegacyCode>Ja</LegacyCode>
+<Name>Julian Protectorate, Asimikigir Confederation</Name>
+<Location>Amdu/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JCoK</Code>
+<LegacyCode>Jc</LegacyCode>
+<Name>Julian Protectorate, Constitution of Koekhon</Name>
+<Location>Amdu/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JHhk</Code>
+<LegacyCode>Jh</LegacyCode>
+<Name>Julian Protectorate, Hhkar Sphere</Name>
+<Location>Amdu/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JLum</Code>
+<LegacyCode>Jd</LegacyCode>
+<Name>Julian Protectorate, Lumda Dower</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JMen</Code>
+<LegacyCode>Jm</LegacyCode>
+<Name>Julian Protectorate, Commonwealth of Mendan</Name>
+<Location>Mend/Gash</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JPSt</Code>
+<LegacyCode>Jp</LegacyCode>
+<Name>Julian Protectorate, Pirbarish Starlane</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JRar</Code>
+<LegacyCode>Vw</LegacyCode>
+<Name>Julian Protectorate, Rar Errall/Wolves Warren</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JuHl</Code>
+<LegacyCode>Hl</LegacyCode>
+<Name>Julian Protectorate, Hegemony of Lorean</Name>
+<Location>Amdu/Empt/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JUkh</Code>
+<LegacyCode>Ju</LegacyCode>
+<Name>Julian Protectorate, Ukhanzi Coordinate</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JuNa</Code>
+<LegacyCode>Jn</LegacyCode>
+<Name>Jurisdiction of Nadon</Name>
+<Location>Cano</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JuPr</Code>
+<LegacyCode>Jp</LegacyCode>
+<Name>Julian Protectorate</Name>
+<Location>Amdu/Empt/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JuRu</Code>
+<LegacyCode>Jr</LegacyCode>
+<Name>Julian Protectorate, Rukadukaz Republic</Name>
+<Location>Empt/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>JVug</Code>
+<LegacyCode>Jv</LegacyCode>
+<Name>Julian Protectorate, Vugurar Dominion</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KaCo</Code>
+<LegacyCode>KC</LegacyCode>
+<Name>Katowice Conquest</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KaWo</Code>
+<LegacyCode>KW</LegacyCode>
+<Name>Karhyri Worlds</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KhLe</Code>
+<LegacyCode>Kl</LegacyCode>
+<Name>Khuur League</Name>
+<Location>Ley</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KkTw</Code>
+<LegacyCode>Kk</LegacyCode>
+<Name>Two Thousand Worlds</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KoEm</Code>
+<LegacyCode>Ko</LegacyCode>
+<Name>Korsumug Empire</Name>
+<Location>Thet</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KoPm</Code>
+<LegacyCode>Pm</LegacyCode>
+<Name>Percavid Marches</Name>
+<Location>Thet</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KPel</Code>
+<LegacyCode>Pe</LegacyCode>
+<Name>Kingdom of Peladon</Name>
+<Location>Thet</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>KrBu</Code>
+<LegacyCode>Kr</LegacyCode>
+<Name>Kranzbund</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>LaCo</Code>
+<LegacyCode>Lc</LegacyCode>
+<Name>Langemarck Coalition</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>LeSu</Code>
+<LegacyCode>Ls</LegacyCode>
+<Name>League of Suns</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>LnRp</Code>
+<LegacyCode>Ln</LegacyCode>
+<Name>Loyal Nineworlds Republic</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>LuIm</Code>
+<LegacyCode>Li</LegacyCode>
+<Name>Lucan's Imperium</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>LyCo</Code>
+<LegacyCode>Ly</LegacyCode>
+<Name>Lanyard Colonies</Name>
+<Location>Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MaCl</Code>
+<LegacyCode>Ma</LegacyCode>
+<Name>Mapepire Cluster</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MaEm</Code>
+<LegacyCode>Mk</LegacyCode>
+<Name>Maskai Empire</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MaPr</Code>
+<LegacyCode>MF</LegacyCode>
+<Name>Mal'Gnar Primarchic</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MaSt</Code>
+<LegacyCode>Ma</LegacyCode>
+<Name>Maragaret's Domain</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MaUn</Code>
+<LegacyCode>Mu</LegacyCode>
+<Name>Malorn Union</Name>
+<Location>Cano/Alde</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MeCo</Code>
+<LegacyCode>Me</LegacyCode>
+<Name>Megusard Corporate</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MiCo</Code>
+<LegacyCode>Mi</LegacyCode>
+<Name>Mische Conglomerate</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MnPr</Code>
+<LegacyCode>Mn</LegacyCode>
+<Name>Mnemosyne Principality</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>MrCo</Code>
+<LegacyCode>MC</LegacyCode>
+<Name>Mercantile Concord</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>NaAs</Code>
+<LegacyCode>As</LegacyCode>
+<Name>Non-Aligned, Aslan-dominated</Name>
+<Location>Akti/Dark/Eali/Rift/Uist/Ustr</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>NaDr</Code>
+<LegacyCode>Dr</LegacyCode>
+<Name>Non-Aligned, Droyne-dominated</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>NaHu</Code>
+<LegacyCode>Na</LegacyCode>
+<Name>Non-Aligned, Human-dominated</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>NaVa</Code>
+<LegacyCode>Va</LegacyCode>
+<Name>Non-Aligned, Vargr-dominated</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>NaXX</Code>
+<LegacyCode>Na</LegacyCode>
+<Name>Non-Aligned, unclaimed</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>OcWs</Code>
+<LegacyCode>Ow</LegacyCode>
+<Name>Outcasts of the Whispering Sky</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>OlWo</Code>
+<LegacyCode>Ow</LegacyCode>
+<Name>Old Worlds</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>PiFe</Code>
+<LegacyCode>Pi</LegacyCode>
+<Name>Pionier Fellowship</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>PlLe</Code>
+<LegacyCode>Pl</LegacyCode>
+<Name>Plavian League</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Prot</Code>
+<LegacyCode>Pt</LegacyCode>
+<Name>The Protectorate</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>RaRa</Code>
+<LegacyCode>Ra</LegacyCode>
+<Name>Ral Ranta</Name>
+<Location>Hint</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Reac</Code>
+<LegacyCode>Rh</LegacyCode>
+<Name>The Reach</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ReUn</Code>
+<LegacyCode>Re</LegacyCode>
+<Name>Renkard Union</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SaCo</Code>
+<LegacyCode>Sc</LegacyCode>
+<Name>Salinaikin Concordance</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Sark</Code>
+<LegacyCode>Sc</LegacyCode>
+<Name>Sarkan Constellation</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SeFo</Code>
+<LegacyCode>Sf</LegacyCode>
+<Name>Senlis Foederate</Name>
+<Location>Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SlLg</Code>
+<LegacyCode>Sl</LegacyCode>
+<Name>Shukikikar League</Name>
+<Location>Glim</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoBF</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation, Bootean Federation</Name>
+<Location>Solo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoCf</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation</Name>
+<Location>Alph/Diab/Dark/Hint/Magy/Olde/Reav/Solo/Spic/Ustr</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoCT</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation, Consolidation of Turin</Name>
+<Location>Alph</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoFr</Code>
+<LegacyCode>Fr</LegacyCode>
+<Name>
+Solomani Confederation, Third Reformed French Confederate Rebublic
+</Name>
+<Location>Alde</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoHn</Code>
+<LegacyCode>Hn</LegacyCode>
+<Name>Solomani Confederation, Hanuman Systems</Name>
+<Location>Lang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoKv</Code>
+<LegacyCode>Kv</LegacyCode>
+<Name>
+Solomani Confederation, Kostov Confederate Republic
+</Name>
+<Location>Newo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoNS</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation, New Slavic Solidarity</Name>
+<Location>Magy</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoQu</Code>
+<LegacyCode>Qu</LegacyCode>
+<Name>
+Solomani Confederation, Grand United States of Quesada
+</Name>
+<Location>Alde</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoRD</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation, Reformed Dootchen Estates</Name>
+<Location>Magy</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoRz</Code>
+<LegacyCode>So</LegacyCode>
+<Name>Solomani Confederation, Restricted Zone</Name>
+<Location>Alde/Newo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SoWu</Code>
+<LegacyCode>So</LegacyCode>
+<Name>
+Solomani Confederation, Wuan Technology Association
+</Name>
+<Location>Diab/Magy</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>StCl</Code>
+<LegacyCode>Sc</LegacyCode>
+<Name>Strend Cluster</Name>
+<Location>Troj</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>StIm</Code>
+<LegacyCode>St</LegacyCode>
+<Name>Strephon's Worlds</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SwCf</Code>
+<LegacyCode>Sw</LegacyCode>
+<Name>Sword Worlds Confederation</Name>
+<Location>Spin</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SwFW</Code>
+<LegacyCode>Sw</LegacyCode>
+<Name>Swanfei Free Worlds</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>SyRe</Code>
+<LegacyCode>Sy</LegacyCode>
+<Name>Syzlin Republic</Name>
+<Location>Cruc</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>TeCl</Code>
+<LegacyCode>Tc</LegacyCode>
+<Name>Tellerian Cluster</Name>
+<Location>Vang</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>TrBr</Code>
+<LegacyCode>Tb</LegacyCode>
+<Name>Trita Brotherhood</Name>
+<Location>Cano</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>TrCo</Code>
+<LegacyCode>Tr</LegacyCode>
+<Name>Trindel Confederacy</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>TrDo</Code>
+<LegacyCode>Td</LegacyCode>
+<Name>Trelyn Domain</Name>
+<Location>Vang/Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>TroC</Code>
+<LegacyCode>Tr</LegacyCode>
+<Name>Trooles Confederation</Name>
+<Location>Thet</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>UnGa</Code>
+<LegacyCode>Ug</LegacyCode>
+<Name>Union of Garth</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>UnHa</Code>
+<LegacyCode>Uh</LegacyCode>
+<Name>Union of Harmony</Name>
+<Location>Dark/Reav</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>V17D</Code>
+<LegacyCode>V7</LegacyCode>
+<Name>17th Disjucture</Name>
+<Location>Mesh/Wind</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>V40S</Code>
+<LegacyCode>Ve</LegacyCode>
+<Name>40th Squadron</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VA16</Code>
+<LegacyCode>V6</LegacyCode>
+<Name>Assemblage of 1116</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VAkh</Code>
+<LegacyCode>VA</LegacyCode>
+<Name>Akhstuti</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VAnP</Code>
+<LegacyCode>Vx</LegacyCode>
+<Name>Antares Pact</Name>
+<Location>Mesh/Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VARC</Code>
+<LegacyCode>Vr</LegacyCode>
+<Name>Anti-Rukh Coalition</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VAsP</Code>
+<LegacyCode>Vx</LegacyCode>
+<Name>Ascendancy Pact</Name>
+<Location>Knoe</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VAug</Code>
+<LegacyCode>Vu</LegacyCode>
+<Name>United Followers of Augurgh</Name>
+<Location>Dene/Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VBkA</Code>
+<LegacyCode>Vb</LegacyCode>
+<Name>Bakne Alliance</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VCKd</Code>
+<LegacyCode>Vk</LegacyCode>
+<Name>Commonality of Kedzudh</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VDeG</Code>
+<LegacyCode>Vd</LegacyCode>
+<Name>Democracy of Greats</Name>
+<Location>Knoe</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VDrN</Code>
+<LegacyCode>VN</LegacyCode>
+<Name>Drr'lana Network</Name>
+<Location>Gash</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VDzF</Code>
+<LegacyCode>Vf</LegacyCode>
+<Name>Dzarrgh Federate</Name>
+<Location>Dene/Prov/Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VFFD</Code>
+<LegacyCode>V1</LegacyCode>
+<Name>First Fleet of Dzo</Name>
+<Location>Mesh</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VGoT</Code>
+<LegacyCode>Vg</LegacyCode>
+<Name>Glory of Taarskoerzn</Name>
+<Location>Prov</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ViCo</Code>
+<LegacyCode>Vi</LegacyCode>
+<Name>Viyard Concourse</Name>
+<Location>Gate</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VInL</Code>
+<LegacyCode>V9</LegacyCode>
+<Name>Infinity League</Name>
+<Location>Knoe</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VIrM</Code>
+<LegacyCode>Vh</LegacyCode>
+<Name>Irrgh Manifest</Name>
+<Location>Prov</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VJoF</Code>
+<LegacyCode>Vj</LegacyCode>
+<Name>Jihad of Faarzgaen</Name>
+<Location>Prov</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VKfu</Code>
+<LegacyCode>Vk</LegacyCode>
+<Name>Kfue</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VLIn</Code>
+<LegacyCode>Vi</LegacyCode>
+<Name>Llaeghskath Interacterate</Name>
+<Location>Prov/Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VLPr</Code>
+<LegacyCode>Vl</LegacyCode>
+<Name>Lair Protectorate</Name>
+<Location>Prov</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VNgC</Code>
+<LegacyCode>Vn</LegacyCode>
+<Name>Ngath Confederation</Name>
+<Location>Wind</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VNoe</Code>
+<LegacyCode>VN</LegacyCode>
+<Name>Noefa</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VOpA</Code>
+<LegacyCode>Vo</LegacyCode>
+<Name>Opposition Alliance</Name>
+<Location>Knoe</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VOpp</Code>
+<LegacyCode>Vo</LegacyCode>
+<Name>Opposition Alliance</Name>
+<Location>Mesh</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VOuz</Code>
+<LegacyCode>VO</LegacyCode>
+<Name>Ouzvothon</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VPGa</Code>
+<LegacyCode>Vg</LegacyCode>
+<Name>Pact of Gaerr</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VRo5</Code>
+<LegacyCode>V5</LegacyCode>
+<Name>Ruler of Five</Name>
+<Location>Mesh</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VRrS</Code>
+<LegacyCode>VW</LegacyCode>
+<Name>Rranglloez Stronghold</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VRuk</Code>
+<LegacyCode>Vn</LegacyCode>
+<Name>Worlds of Leader Rukh</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VSDp</Code>
+<LegacyCode>Vs</LegacyCode>
+<Name>Saeknouth Dependency</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VSEq</Code>
+<LegacyCode>Vd</LegacyCode>
+<Name>Society of Equals</Name>
+<Location>Gvur/Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VThE</Code>
+<LegacyCode>Vt</LegacyCode>
+<Name>Thoengling Empire</Name>
+<Location>Gvur/Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VTrA</Code>
+<LegacyCode>VT</LegacyCode>
+<Name>Trae Aggregation</Name>
+<Location>Tren</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VTzE</Code>
+<LegacyCode>Vp</LegacyCode>
+<Name>Thirz Empire</Name>
+<Location>Gvur/Ziaf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VUru</Code>
+<LegacyCode>Vu</LegacyCode>
+<Name>Urukhu</Name>
+<Location>Gvur</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VVar</Code>
+<LegacyCode>Ve</LegacyCode>
+<Name>Empire of Varroerth</Name>
+<Location>Prov/Tugl/Wind</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VVoS</Code>
+<LegacyCode>Vv</LegacyCode>
+<Name>Voekhaeb Society</Name>
+<Location>Mesh</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VWan</Code>
+<LegacyCode>Vw</LegacyCode>
+<Name>People of Wanz</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VWP2</Code>
+<LegacyCode>V2</LegacyCode>
+<Name>Windhorn Pact of Two</Name>
+<Location>Tugl</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>VYoe</Code>
+<LegacyCode>VQ</LegacyCode>
+<Name>Union of Yoetyqq</Name>
+<Location>Gash</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>WiDe</Code>
+<LegacyCode>Wd</LegacyCode>
+<Name>Winston Democracy</Name>
+<Location>Alde/Newo</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Wild</Code>
+<LegacyCode>Wi</LegacyCode>
+<Name>Wilds</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>XXXX</Code>
+<LegacyCode>Xx</LegacyCode>
+<Name>Unknown</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZePr</Code>
+<LegacyCode>Zp</LegacyCode>
+<Name>Zelphic Primacy</Name>
+<Location>Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhAx</Code>
+<LegacyCode>Ax</LegacyCode>
+<Name>Zhodani Consulate, Addaxur Reserve</Name>
+<Location>Tien</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhCa</Code>
+<LegacyCode>Ca</LegacyCode>
+<Name>Zhodani Consulate, Colonnade Province</Name>
+<Location>Vang/Farf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhCh</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Chtierabl Province</Name>
+<Location>Chti</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhCo</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhIa</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Iabrensh Province</Name>
+<Location>Stia/Zdie</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhIN</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Iadr Nsobl Province</Name>
+<Location>Farf/Fore/Gvur/Spin/Yikl/Ziaf</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhJp</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Jadlapriants Province</Name>
+<Location>Tien/Zhda</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhMe</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Meqlemianz Province</Name>
+<Location>Eiap/Sidi/Eiap</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhOb</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Obrefripl Province</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhSh</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Shtochiadr Province</Name>
+<Location>Itvi/Tlab</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZhVQ</Code>
+<LegacyCode>Zh</LegacyCode>
+<Name>Zhodani Consulate, Vlanchiets Qlom Province</Name>
+<Location>various</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZiSi</Code>
+<LegacyCode>Rv</LegacyCode>
+<Name>Restored Vilani Imperium</Name>
+</AllegianceCode>
+<AllegianceCode>
+<Code>Zuug</Code>
+<LegacyCode>Zu</LegacyCode>
+<Name>Zuugabish Tripartite</Name>
+<Location>Mend</Location>
+</AllegianceCode>
+<AllegianceCode>
+<Code>ZyCo</Code>
+<LegacyCode>Zc</LegacyCode>
+<Name>Zydarian Codominium</Name>
+<Location>Beyo</Location>
+</AllegianceCode>
+</ArrayOfAllegianceCode>

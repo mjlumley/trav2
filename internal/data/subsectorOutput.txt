@@ -1,0 +1,303 @@
+Database and data retrieval menu
+
+1. Retrieve 'missing' world data from travellermap.com
+2. Retrieve 'missing' subsector data from travellermap.com
+3. Copy staged world data to production (not currently working!)
+4. Delete staged world data
+x. Exit
+
+Your choice : 2
+
+You are about to retrieve subsector data from travellermap.com. This may take
+time to complete.
+
+Are you sure [Y/n]?
+Retrieving subsector data for 168 sectors
+Are you sure [Y/n]?
+Retrieving 1 - Afaw - Afawahisa -5 , 2 from https://travellermap.com/api/metadata?sx=-5&sy=2
+Retrieving 3 - Ahki - Seven Sisters -3 , 5 from https://travellermap.com/api/metadata?sx=-3&sy=5
+Retrieving 5 - Akti - Aktifao -4 , 4 from https://travellermap.com/api/metadata?sx=-4&sy=4
+Retrieving 6 - Alde - Aldebaran 0 , 4 from https://travellermap.com/api/metadata?sx=0&sy=4
+Retrieving 8 - Amde - Amderstun 0 , 6 from https://travellermap.com/api/metadata?sx=0&sy=6
+Retrieving 9 - Amdu - Amdukan 2 , -2 from https://travellermap.com/api/metadata?sx=2&sy=-2
+Retrieving 10 - Angf - Angfutsag 3 , -4 from https://travellermap.com/api/metadata?sx=3&sy=-4
+Retrieving 11 - Anta - Antares 1 , -1 from https://travellermap.com/api/metadata?sx=1&sy=-1
+Retrieving 13 - Arzu - Arzul 3 , -2 from https://travellermap.com/api/metadata?sx=3&sy=-2
+Retrieving 14 - Astr - Astron -8 , 0 from https://travellermap.com/api/metadata?sx=-8&sy=0
+Retrieving 15 - Atau - Ataurre 5 , 5 from https://travellermap.com/api/metadata?sx=5&sy=5
+Retrieving 16 - Aver - Avereguar 7 , 3 from https://travellermap.com/api/metadata?sx=7&sy=3
+Incomplete data for subsector  {0  16 C  1 -1}
+Incomplete data for subsector  {0  16 D  1 -1}
+Incomplete data for subsector  {0  16 G  1 -1}
+Incomplete data for subsector  {0  16 H  1 -1}
+Incomplete data for subsector  {0  16 J  1 -1}
+Incomplete data for subsector  {0  16 K  1 -1}
+Incomplete data for subsector  {0  16 L  1 -1}
+Incomplete data for subsector  {0  16 M  1 -1}
+Incomplete data for subsector  {0  16 N  1 -1}
+Incomplete data for subsector  {0  16 O  1 -1}
+Incomplete data for subsector  {0  16 P  1 -1}
+Retrieving 18 - Bann - Banners -2 , 5 from https://travellermap.com/api/metadata?sx=-2&sy=5
+Retrieving 19 - Barx - Bar'kakr 7 , 0 from https://travellermap.com/api/metadata?sx=7&sy=0
+Retrieving 20 - Beyo - Beyond -5 , 0 from https://travellermap.com/api/metadata?sx=-5&sy=0
+Retrieving 22 - Blas - Blaskon 6 , 2 from https://travellermap.com/api/metadata?sx=6&sy=2
+Incomplete data for subsector  {0  22 D  1 -1}
+Incomplete data for subsector  {0  22 L  1 -1}
+Incomplete data for subsector  {0  22 M  1 -1}
+Incomplete data for subsector  {0  22 O  1 -1}
+Retrieving 26 - Caes - Caesillian 0 , -21 from https://travellermap.com/api/metadata?sx=0&sy=-21
+Retrieving 27 - Cano - Canopus -1 , 4 from https://travellermap.com/api/metadata?sx=-1&sy=4
+Retrieving 28 - Cent - Centrax 4 , 3 from https://travellermap.com/api/metadata?sx=4&sy=3
+Retrieving 30 - Chit - Chit Botshti -5 , -4 from https://travellermap.com/api/metadata?sx=-5&sy=-4
+Retrieving 31 - Chti - Chtierabl -7 , -8 from https://travellermap.com/api/metadata?sx=-7&sy=-8
+Retrieving 33 - Corr - Corridor -2 , -1 from https://travellermap.com/api/metadata?sx=-2&sy=-1
+Retrieving 34 - Cruc - Crucis Margin 3 , 1 from https://travellermap.com/api/metadata?sx=3&sy=1
+Retrieving 35 - Dagu - Dagudashaag -1 , 0 from https://travellermap.com/api/metadata?sx=-1&sy=0
+Retrieving 36 - Daib - Daibei -1 , 2 from https://travellermap.com/api/metadata?sx=-1&sy=2
+Retrieving 40 - Darr - Darret 4 , 5 from https://travellermap.com/api/metadata?sx=4&sy=5
+Retrieving 41 - Dats - Datsatl -5 , -5 from https://travellermap.com/api/metadata?sx=-5&sy=-5
+Retrieving 42 - Delp - Delphi 1 , 1 from https://travellermap.com/api/metadata?sx=1&sy=1
+Retrieving 44 - Dfot - Dfotseth 1 , -5 from https://travellermap.com/api/metadata?sx=1&sy=-5
+Retrieving 45 - Dhue - Dhuerorrg -3 , -3 from https://travellermap.com/api/metadata?sx=-3&sy=-3
+Retrieving 46 - Dias - Diaspora 0 , 2 from https://travellermap.com/api/metadata?sx=0&sy=2
+Retrieving 47 - Drak - Drakken 3 , 4 from https://travellermap.com/api/metadata?sx=3&sy=4
+Retrieving 51 - Eali - Ealiyasiyw -3 , 2 from https://travellermap.com/api/metadata?sx=-3&sy=2
+Retrieving 54 - Eiap - Eiaplial -8 , -2 from https://travellermap.com/api/metadata?sx=-8&sy=-2
+Retrieving 56 - Empt - Empty Quarter 2 , -1 from https://travellermap.com/api/metadata?sx=2&sy=-1
+Retrieving 57 - Esai - Esai'yo -7 , 3 from https://travellermap.com/api/metadata?sx=-7&sy=3
+Retrieving 58 - Etak - Etakhasoa -5 , 4 from https://travellermap.com/api/metadata?sx=-5&sy=4
+Retrieving 59 - Exto - Extolian 4 , 2 from https://travellermap.com/api/metadata?sx=4&sy=2
+Retrieving 61 - Fadz - Fa Dzaets -1 , -3 from https://travellermap.com/api/metadata?sx=-1&sy=-3
+Retrieving 62 - Fahr - Fahreahluis -7 , 5 from https://travellermap.com/api/metadata?sx=-7&sy=5
+Retrieving 63 - Faoh - Faoheiroi'iyhao -7 , 2 from https://travellermap.com/api/metadata?sx=-7&sy=2
+Retrieving 64 - Farf - Far Frontiers -6 , -1 from https://travellermap.com/api/metadata?sx=-6&sy=-1
+Retrieving 66 - Fing - Finggvakhou 3 , -5 from https://travellermap.com/api/metadata?sx=3&sy=-5
+Retrieving 67 - Folg - Folgore 6 , 3 from https://travellermap.com/api/metadata?sx=6&sy=3
+Retrieving 68 - Fore - Foreven -5 , -1 from https://travellermap.com/api/metadata?sx=-5&sy=-1
+Retrieving 69 - Forn - Fornast 1 , 0 from https://travellermap.com/api/metadata?sx=1&sy=0
+Retrieving 70 - Ftao - Ftaoiyekyu -6 , 2 from https://travellermap.com/api/metadata?sx=-6&sy=2
+Retrieving 72 - Fula - Fulani -7 , 0 from https://travellermap.com/api/metadata?sx=-7&sy=0
+Retrieving 73 - Gakg - Gakghang -4 , -5 from https://travellermap.com/api/metadata?sx=-4&sy=-5
+Retrieving 74 - Gash - Gashikan 1 , -3 from https://travellermap.com/api/metadata?sx=1&sy=-3
+Retrieving 75 - Gate - Gateway 3 , 0 from https://travellermap.com/api/metadata?sx=3&sy=0
+Retrieving 77 - Genf - Genfert 8 , 4 from https://travellermap.com/api/metadata?sx=8&sy=4
+Retrieving 78 - Ghoe - Ghoekhnael -4 , -4 from https://travellermap.com/api/metadata?sx=-4&sy=-4
+Retrieving 79 - Ghxh - Gh!hken 4 , -1 from https://travellermap.com/api/metadata?sx=4&sy=-1
+Retrieving 80 - Glim - Glimmerdrift Reaches 2 , 1 from https://travellermap.com/api/metadata?sx=2&sy=1
+Retrieving 82 - Gnxh - Gn'hk'r 4 , -2 from https://travellermap.com/api/metadata?sx=4&sy=-2
+Retrieving 85 - Grik - Grikr!ng 5 , -3 from https://travellermap.com/api/metadata?sx=5&sy=-3
+Retrieving 86 - Gur - Gur 5 , -2 from https://travellermap.com/api/metadata?sx=5&sy=-2
+Retrieving 87 - Gush - Gushemege -2 , 0 from https://travellermap.com/api/metadata?sx=-2&sy=0
+Retrieving 88 - Gvur - Gvurrdon -4 , -2 from https://travellermap.com/api/metadata?sx=-4&sy=-2
+Retrieving 89 - Gzae - Gzaekfueg 0 , -3 from https://travellermap.com/api/metadata?sx=0&sy=-3
+Retrieving 91 - Gzir - Gzirr!k'l 5 , 1 from https://travellermap.com/api/metadata?sx=5&sy=1
+Retrieving 92 - Hadj - Hadji 1 , 5 from https://travellermap.com/api/metadata?sx=1&sy=5
+Retrieving 93 - Hans - Hanstone -1 , 5 from https://travellermap.com/api/metadata?sx=-1&sy=5
+Retrieving 94 - Harb - Harbinger 7 , -5 from https://travellermap.com/api/metadata?sx=7&sy=-5
+Retrieving 95 - Hare - Harea -9 , 2 from https://travellermap.com/api/metadata?sx=-9&sy=2
+Retrieving 96 - Heak - Heakhafaw -6 , 4 from https://travellermap.com/api/metadata?sx=-6&sy=4
+Retrieving 97 - Hfiy - Hfiywitir -6 , 5 from https://travellermap.com/api/metadata?sx=-6&sy=5
+Retrieving 98 - Hint - Hinterworlds 2 , 2 from https://travellermap.com/api/metadata?sx=2&sy=2
+Retrieving 100 - Hkak - Hkakhaeaw -8 , 3 from https://travellermap.com/api/metadata?sx=-8&sy=3
+Retrieving 101 - Hlak - Hlakhoi -4 , 2 from https://travellermap.com/api/metadata?sx=-4&sy=2
+Retrieving 103 - Holo - Holowon -1 , 6 from https://travellermap.com/api/metadata?sx=-1&sy=6
+Retrieving 104 - Ilel - Ilelish -2 , 1 from https://travellermap.com/api/metadata?sx=-2&sy=1
+Retrieving 106 - Iphi - Iphigenaia -6 , 1 from https://travellermap.com/api/metadata?sx=-6&sy=1
+Retrieving 108 - Irla - Irlaftalea -5 , 5 from https://travellermap.com/api/metadata?sx=-5&sy=5
+Retrieving 109 - Irug - Irugangog 2 , -5 from https://travellermap.com/api/metadata?sx=2&sy=-5
+Retrieving 110 - Itvi - Itvikiastaf -5 , -3 from https://travellermap.com/api/metadata?sx=-5&sy=-3
+Retrieving 111 - Iwah - Iwahfuah -3 , 3 from https://travellermap.com/api/metadata?sx=-3&sy=3
+Retrieving 113 - Kaag - Kaa G!'kul 4 , 1 from https://travellermap.com/api/metadata?sx=4&sy=1
+Retrieving 114 - Karl - Karleaya -5 , 3 from https://travellermap.com/api/metadata?sx=-5&sy=3
+Retrieving 115 - Kato - Katoonah 6 , 5 from https://travellermap.com/api/metadata?sx=6&sy=5
+Retrieving 116 - Kefi - Kefiykhta -7 , 4 from https://travellermap.com/api/metadata?sx=-7&sy=4
+Retrieving 117 - Kfaz - Kfazz Ghik 2 , -4 from https://travellermap.com/api/metadata?sx=2&sy=-4
+Retrieving 118 - Khae - Khaeaw -8 , 2 from https://travellermap.com/api/metadata?sx=-8&sy=2
+Retrieving 119 - Khar - Kharrthon 0 , -4 from https://travellermap.com/api/metadata?sx=0&sy=-4
+Retrieving 121 - Kidu - Kidunal 6 , 4 from https://travellermap.com/api/metadata?sx=6&sy=4
+Incomplete data for subsector  {0  121 B  1 -1}
+Incomplete data for subsector  {0  121 C  1 -1}
+Incomplete data for subsector  {0  121 G  1 -1}
+Incomplete data for subsector  {0  121 H  1 -1}
+Incomplete data for subsector  {0  121 L  1 -1}
+Incomplete data for subsector  {0  121 M  1 -1}
+Incomplete data for subsector  {0  121 N  1 -1}
+Incomplete data for subsector  {0  121 O  1 -1}
+Incomplete data for subsector  {0  121 P  1 -1}
+Retrieving 123 - Knae - Knaeleng -1 , -4 from https://travellermap.com/api/metadata?sx=-1&sy=-4
+Retrieving 124 - Knoe - Khoellighz -4 , -3 from https://travellermap.com/api/metadata?sx=-4&sy=-3
+Retrieving 126 - Koli - Kolire 8 , 3 from https://travellermap.com/api/metadata?sx=8&sy=3
+Retrieving 127 - Koog - Koog 7 , -4 from https://travellermap.com/api/metadata?sx=7&sy=-4
+Retrieving 128 - Krin - Kring Noor 7 , -3 from https://travellermap.com/api/metadata?sx=7&sy=-3
+Incomplete data for subsector  {0  128 A  1 -1}
+Incomplete data for subsector  {0  128 B  1 -1}
+Incomplete data for subsector  {0  128 C  1 -1}
+Incomplete data for subsector  {0  128 D  1 -1}
+Incomplete data for subsector  {0  128 E  1 -1}
+Incomplete data for subsector  {0  128 F  1 -1}
+Incomplete data for subsector  {0  128 G  1 -1}
+Incomplete data for subsector  {0  128 H  1 -1}
+Incomplete data for subsector  {0  128 I  1 -1}
+Incomplete data for subsector  {0  128 J  1 -1}
+Incomplete data for subsector  {0  128 K  1 -1}
+Incomplete data for subsector  {0  128 L  1 -1}
+Incomplete data for subsector  {0  128 M  1 -1}
+Incomplete data for subsector  {0  128 N  1 -1}
+Incomplete data for subsector  {0  128 O  1 -1}
+Incomplete data for subsector  {0  128 P  1 -1}
+Retrieving 129 - Ksin - Ksinanirz -3 , -4 from https://travellermap.com/api/metadata?sx=-3&sy=-4
+Retrieving 130 - Ktee - Kteex! 6 , -4 from https://travellermap.com/api/metadata?sx=6&sy=-4
+Retrieving 131 - Ktii - Ktiin'gzat 3 , -3 from https://travellermap.com/api/metadata?sx=3&sy=-3
+Retrieving 133 - Kxtr - K'trekreer 6 , 1 from https://travellermap.com/api/metadata?sx=6&sy=1
+Incomplete data for subsector  {0  133 G  1 -1}
+Incomplete data for subsector  {0  133 H  1 -1}
+Incomplete data for subsector  {0  133 L  1 -1}
+Retrieving 134 - Lanc - Lancask 6 , 6 from https://travellermap.com/api/metadata?sx=6&sy=6
+Retrieving 135 - Lang - Langere 2 , 4 from https://travellermap.com/api/metadata?sx=2&sy=4
+Retrieving 136 - Leon - Leonidae 3 , 2 from https://travellermap.com/api/metadata?sx=3&sy=2
+Retrieving 137 - Ley - Ley 2 , 0 from https://travellermap.com/api/metadata?sx=2&sy=0
+Retrieving 139 - Lish - Lishun 0 , -1 from https://travellermap.com/api/metadata?sx=0&sy=-1
+Retrieving 140 - List - Listanaya -1 , -5 from https://travellermap.com/api/metadata?sx=-1&sy=-5
+Retrieving 141 - Lors - Lorspane 4 , 4 from https://travellermap.com/api/metadata?sx=4&sy=4
+Retrieving 142 - Lure - Luretir!girr 4 , 0 from https://travellermap.com/api/metadata?sx=4&sy=0
+Retrieving 143 - Magy - Magyar -1 , 3 from https://travellermap.com/api/metadata?sx=-1&sy=3
+Retrieving 144 - Malo - Malorn 0 , 5 from https://travellermap.com/api/metadata?sx=0&sy=5
+Retrieving 145 - Mass - Massila 0 , 1 from https://travellermap.com/api/metadata?sx=0&sy=1
+Retrieving 146 - Mavu - Mavuzog -9 , 1 from https://travellermap.com/api/metadata?sx=-9&sy=1
+Retrieving 148 - Mend - Mendan 1 , -2 from https://travellermap.com/api/metadata?sx=1&sy=-2
+Retrieving 149 - Mesh - Meshan 0 , -2 from https://travellermap.com/api/metadata?sx=0&sy=-2
+Retrieving 151 - Mikh - Mikhail 3 , 5 from https://travellermap.com/api/metadata?sx=3&sy=5
+Retrieving 152 - Muar - Muarne 5 , 6 from https://travellermap.com/api/metadata?sx=5&sy=6
+Retrieving 153 - Mugh - Mugheen't 4 , -3 from https://travellermap.com/api/metadata?sx=4&sy=-3
+Retrieving 154 - Nadi - Nadir 6 , -5 from https://travellermap.com/api/metadata?sx=6&sy=-5
+Retrieving 155 - Newo - Neworld 1 , 4 from https://travellermap.com/api/metadata?sx=1&sy=4
+Retrieving 156 - Ngat - Ngathksirz -2 , -3 from https://travellermap.com/api/metadata?sx=-2&sy=-3
+Retrieving 158 - Nooq - Nooq 7 , 2 from https://travellermap.com/api/metadata?sx=7&sy=2
+Incomplete data for subsector  {0  158 B  1 -1}
+Incomplete data for subsector  {0  158 C  1 -1}
+Incomplete data for subsector  {0  158 D  1 -1}
+Incomplete data for subsector  {0  158 F  1 -1}
+Incomplete data for subsector  {0  158 G  1 -1}
+Incomplete data for subsector  {0  158 H  1 -1}
+Incomplete data for subsector  {0  158 K  1 -1}
+Incomplete data for subsector  {0  158 L  1 -1}
+Incomplete data for subsector  {0  158 N  1 -1}
+Incomplete data for subsector  {0  158 O  1 -1}
+Incomplete data for subsector  {0  158 P  1 -1}
+Retrieving 159 - Nuug - Nuughe 7 , 1 from https://travellermap.com/api/metadata?sx=7&sy=1
+Retrieving 161 - Oegh - Oeghz Vaerrghr 1 , -4 from https://travellermap.com/api/metadata?sx=1&sy=-4
+Retrieving 162 - Ohie - Ohieraoi -8 , 5 from https://travellermap.com/api/metadata?sx=-8&sy=5
+Retrieving 165 - Olde - Old Expanses 1 , 2 from https://travellermap.com/api/metadata?sx=1&sy=2
+Retrieving 169 - Phla - Phlask 3 , 3 from https://travellermap.com/api/metadata?sx=3&sy=3
+Retrieving 170 - Plia - Pliabriebl -9 , -2 from https://travellermap.com/api/metadata?sx=-9&sy=-2
+Retrieving 172 - Porl - Porlock 5 , 4 from https://travellermap.com/api/metadata?sx=5&sy=4
+Retrieving 177 - Raak - Raakaan 6 , -1 from https://travellermap.com/api/metadata?sx=6&sy=-1
+Retrieving 179 - Reav - Reaver's Deep -2 , 2 from https://travellermap.com/api/metadata?sx=-2&sy=2
+Retrieving 180 - Reft - Reft -3 , 0 from https://travellermap.com/api/metadata?sx=-3&sy=0
+Retrieving 181 - Rfig - Rfigh 4 , -4 from https://travellermap.com/api/metadata?sx=4&sy=-4
+Retrieving 182 - Rice - Ricenden 5 , 2 from https://travellermap.com/api/metadata?sx=5&sy=2
+Retrieving 183 - Rift - Riftspan Reaches -4 , 1 from https://travellermap.com/api/metadata?sx=-4&sy=1
+Retrieving 186 - Rzak - Rzakki -2 , -5 from https://travellermap.com/api/metadata?sx=-2&sy=-5
+Retrieving 188 - Sidi - Sidiadl -8 , -3 from https://travellermap.com/api/metadata?sx=-8&sy=-3
+Retrieving 191 - Span - Spangele 5 , -5 from https://travellermap.com/api/metadata?sx=5&sy=-5
+Retrieving 192 - Spic - Spica 2 , 3 from https://travellermap.com/api/metadata?sx=2&sy=3
+Retrieving 195 - Stai - Staihaia'yo -4 , 3 from https://travellermap.com/api/metadata?sx=-4&sy=3
+Retrieving 196 - Star - Star's End 3 , -1 from https://travellermap.com/api/metadata?sx=3&sy=-1
+Retrieving 197 - Stia - Stiatlchepr -6 , -3 from https://travellermap.com/api/metadata?sx=-6&sy=-3
+Retrieving 199 - Stor - Storr 2 , 5 from https://travellermap.com/api/metadata?sx=2&sy=5
+Retrieving 202 - Tarx - Tar'G'kell'p 5 , -4 from https://travellermap.com/api/metadata?sx=5&sy=-4
+Retrieving 204 - Teah - Tahloarifu -4 , 5 from https://travellermap.com/api/metadata?sx=-4&sy=5
+Retrieving 206 - Thak - Thaku Fung -3 , -5 from https://travellermap.com/api/metadata?sx=-3&sy=-5
+
+
+Retrieving 207 - Ther - Theron -7 , 1 from https://travellermap.com/api/metadata?sx=-7&sy=1
+Retrieving 209 - Thet - Theta Borealis -8 , 1 from https://travellermap.com/api/metadata?sx=-8&sy=1
+Retrieving 210 - Tien - Tienspevnekr -6 , -2 from https://travellermap.com/api/metadata?sx=-6&sy=-2
+Retrieving 211 - Tlya - Tlyasea -9 , 3 from https://travellermap.com/api/metadata?sx=-9&sy=3
+Retrieving 212 - Touc - Touchstone -5 , 1 from https://travellermap.com/api/metadata?sx=-5&sy=1
+Retrieving 214 - Tree - Treece 7 , 4 from https://travellermap.com/api/metadata?sx=7&sy=4
+Retrieving 215 - Tren - Trenchans 2 , -3 from https://travellermap.com/api/metadata?sx=2&sy=-3
+Retrieving 217 - Tsad - Farway -8 , -1 from https://travellermap.com/api/metadata?sx=-8&sy=-1
+Retrieving 218 - Tugl - Tuglikki -3 , -2 from https://travellermap.com/api/metadata?sx=-3&sy=-2
+Retrieving 222 - Uist - Uistilao -3 , 4 from https://travellermap.com/api/metadata?sx=-3&sy=4
+Retrieving 223 - Ukaa - Ukaarriit!!b 6 , -3 from https://travellermap.com/api/metadata?sx=6&sy=-3
+Retrieving 226 - Unxk - Un'k!!k'ng 6 , -2 from https://travellermap.com/api/metadata?sx=6&sy=-2
+Retrieving 229 - Ustr - Ustral Quadrant -2 , 4 from https://travellermap.com/api/metadata?sx=-2&sy=4
+Retrieving 230 - Uuk - Uuk 7 , -1 from https://travellermap.com/api/metadata?sx=7&sy=-1
+Retrieving 233 - Vang - Vanguard Reaches -6 , 0 from https://travellermap.com/api/metadata?sx=-6&sy=0
+Retrieving 234 - Vegf - Veg Fergakh 0 , -5 from https://travellermap.com/api/metadata?sx=0&sy=-5
+Retrieving 235 - Verg - Verge -3 , 1 from https://travellermap.com/api/metadata?sx=-3&sy=1
+Retrieving 238 - Waro - Waroatahe -6 , 3 from https://travellermap.com/api/metadata?sx=-6&sy=3
+Retrieving 239 - Wind - Windhorn -1 , -2 from https://travellermap.com/api/metadata?sx=-1&sy=-2
+Retrieving 242 - Wren - Wrenton 5 , 3 from https://travellermap.com/api/metadata?sx=5&sy=3
+Retrieving 243 - Xaag - Xaagr 7 , -2 from https://travellermap.com/api/metadata?sx=7&sy=-2
+Retrieving 246 - Yahe - Yahehwe -8 , 4 from https://travellermap.com/api/metadata?sx=-8&sy=4
+Retrieving 248 - Yikl - Horizon's Edge -7 , -1 from https://travellermap.com/api/metadata?sx=-7&sy=-1
+Retrieving 249 - Zaok - Zao Kfeng Ig Grilokh -2 , -4 from https://travellermap.com/api/metadata?sx=-2&sy=-4
+Retrieving 250 - Zaru - Zarushagar -1 , 1 from https://travellermap.com/api/metadata?sx=-1&sy=1
+Retrieving 251 - Zdie - Zdiedeiant -7 , -3 from https://travellermap.com/api/metadata?sx=-7&sy=-3
+Retrieving 255 - Ziaf - Ziafrplians -5 , -2 from https://travellermap.com/api/metadata?sx=-5&sy=-2
+Retrieving 256 - Zort - Zortakh 4 , -5 from https://travellermap.com/api/metadata?sx=4&sy=-5
+Press <Enter> to continue
+
+
+You are about to retrieve subsector data from travellermap.com. This may take
+time to complete.
+
+Are you sure [Y/n]?
+Retrieving subsector data for 35 sectors
+Are you sure [Y/n]?
+Retrieving 3 - Ahki - Seven Sisters -3 , 5 from https://travellermap.com/api/metadata?sx=-3&sy=5
+Retrieving 10 - Angf - Angfutsag 3 , -4 from https://travellermap.com/api/metadata?sx=3&sy=-4
+Retrieving 26 - Caes - Caesillian 0 , -21 from https://travellermap.com/api/metadata?sx=0&sy=-21
+Retrieving 30 - Chit - Chit Botshti -5 , -4 from https://travellermap.com/api/metadata?sx=-5&sy=-4
+Retrieving 44 - Dfot - Dfotseth 1 , -5 from https://travellermap.com/api/metadata?sx=1&sy=-5
+Retrieving 58 - Etak - Etakhasoa -5 , 4 from https://travellermap.com/api/metadata?sx=-5&sy=4
+Retrieving 62 - Fahr - Fahreahluis -7 , 5 from https://travellermap.com/api/metadata?sx=-7&sy=5
+Retrieving 66 - Fing - Finggvakhou 3 , -5 from https://travellermap.com/api/metadata?sx=3&sy=-5
+Retrieving 73 - Gakg - Gakghang -4 , -5 from https://travellermap.com/api/metadata?sx=-4&sy=-5
+Retrieving 78 - Ghoe - Ghoekhnael -4 , -4 from https://travellermap.com/api/metadata?sx=-4&sy=-4
+Retrieving 94 - Harb - Harbinger 7 , -5 from https://travellermap.com/api/metadata?sx=7&sy=-5
+Retrieving 96 - Heak - Heakhafaw -6 , 4 from https://travellermap.com/api/metadata?sx=-6&sy=4
+Retrieving 97 - Hfiy - Hfiywitir -6 , 5 from https://travellermap.com/api/metadata?sx=-6&sy=5
+Retrieving 108 - Irla - Irlaftalea -5 , 5 from https://travellermap.com/api/metadata?sx=-5&sy=5
+Retrieving 109 - Irug - Irugangog 2 , -5 from https://travellermap.com/api/metadata?sx=2&sy=-5
+Retrieving 116 - Kefi - Kefiykhta -7 , 4 from https://travellermap.com/api/metadata?sx=-7&sy=4
+Retrieving 117 - Kfaz - Kfazz Ghik 2 , -4 from https://travellermap.com/api/metadata?sx=2&sy=-4
+Retrieving 119 - Khar - Kharrthon 0 , -4 from https://travellermap.com/api/metadata?sx=0&sy=-4
+Retrieving 123 - Knae - Knaeleng -1 , -4 from https://travellermap.com/api/metadata?sx=-1&sy=-4
+Retrieving 128 - Krin - Kring Noor 7 , -3 from https://travellermap.com/api/metadata?sx=7&sy=-3
+Incomplete data for subsector  {0  128 A  1 -1}
+Incomplete data for subsector  {0  128 B  1 -1}
+Incomplete data for subsector  {0  128 C  1 -1}
+Incomplete data for subsector  {0  128 D  1 -1}
+Incomplete data for subsector  {0  128 E  1 -1}
+Incomplete data for subsector  {0  128 F  1 -1}
+Incomplete data for subsector  {0  128 G  1 -1}
+Incomplete data for subsector  {0  128 H  1 -1}
+Incomplete data for subsector  {0  128 I  1 -1}
+Incomplete data for subsector  {0  128 J  1 -1}
+Incomplete data for subsector  {0  128 K  1 -1}
+Incomplete data for subsector  {0  128 L  1 -1}
+Incomplete data for subsector  {0  128 M  1 -1}
+Incomplete data for subsector  {0  128 N  1 -1}
+Incomplete data for subsector  {0  128 O  1 -1}
+Incomplete data for subsector  {0  128 P  1 -1}
+Retrieving 129 - Ksin - Ksinanirz -3 , -4 from https://travellermap.com/api/metadata?sx=-3&sy=-4
+Retrieving 130 - Ktee - Kteex! 6 , -4 from https://travellermap.com/api/metadata?sx=6&sy=-4
+Retrieving 140 - List - Listanaya -1 , -5 from https://travellermap.com/api/metadata?sx=-1&sy=-5
+Retrieving 153 - Mugh - Mugheen't 4 , -3 from https://travellermap.com/api/metadata?sx=4&sy=-3
+Retrieving 154 - Nadi - Nadir 6 , -5 from https://travellermap.com/api/metadata?sx=6&sy=-5
+Retrieving 161 - Oegh - Oeghz Vaerrghr 1 , -4 from https://travellermap.com/api/metadata?sx=1&sy=-4
+Retrieving 162 - Ohie - Ohieraoi -8 , 5 from https://travellermap.com/api/metadata?sx=-8&sy=5
+Retrieving 170 - Plia - Pliabriebl -9 , -2 from https://travellermap.com/api/metadata?sx=-9&sy=-2
+Retrieving 181 - Rfig - Rfigh 4 , -4 from https://travellermap.com/api/metadata?sx=4&sy=-4
+Retrieving 186 - Rzak - Rzakki -2 , -5 from https://travellermap.com/api/metadata?sx=-2&sy=-5
+Retrieving 204 - Teah - Tahloarifu -4 , 5 from https://travellermap.com/api/metadata?sx=-4&sy=5
+Retrieving 234 - Vegf - Veg Fergakh 0 , -5 from https://travellermap.com/api/metadata?sx=0&sy=-5
+Retrieving 246 - Yahe - Yahehwe -8 , 4 from https://travellermap.com/api/metadata?sx=-8&sy=4
+Retrieving 249 - Zaok - Zao Kfeng Ig Grilokh -2 , -4 from https://travellermap.com/api/metadata?sx=-2&sy=-4
+Retrieving 256 - Zort - Zortakh 4 , -5 from https://travellermap.com/api/metadata?sx=4&sy=-5
+
+Complete!
+Press <Enter> to continue

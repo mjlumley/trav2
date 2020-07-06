@@ -1,0 +1,1128 @@
+You can also call ImGui::LogText() to output directly to the log without a visual output.
+Copy "Hello, world!" to clipboard
+
+## Window options ##
+
+## Widgets ##
+
+## Layout ##
+> Child windows
+    (?)
+    [ ]
+    Disable Mouse Wheel
+    [ ]
+    Disable Menu
+    Goto 50
+0000: scrollable region
+0001: scrollable region
+0002: scrollable region
+0003: scrollable region
+0004: scrollable region
+0005: scrollable region
+0006: scrollable region
+0007: scrollable region
+0008: scrollable region
+0009: scrollable region
+0010: scrollable region
+0011: scrollable region
+0012: scrollable region
+0013: scrollable region
+0014: scrollable region
+0015: scrollable region
+0016: scrollable region
+0017: scrollable region
+0018: scrollable region
+0019: scrollable region
+0020: scrollable region
+0021: scrollable region
+0022: scrollable region
+0023: scrollable region
+0024: scrollable region
+0025: scrollable region
+0026: scrollable region
+0027: scrollable region
+0028: scrollable region
+0029: scrollable region
+0030: scrollable region
+0031: scrollable region
+0032: scrollable region
+0033: scrollable region
+0034: scrollable region
+0035: scrollable region
+0036: scrollable region
+0037: scrollable region
+0038: scrollable region
+0039: scrollable region
+0040: scrollable region
+0041: scrollable region
+0042: scrollable region
+0043: scrollable region
+0044: scrollable region
+0045: scrollable region
+0046: scrollable region
+0047: scrollable region
+0048: scrollable region
+0049: scrollable region
+0050: scrollable region
+0051: scrollable region
+0052: scrollable region
+0053: scrollable region
+0054: scrollable region
+0055: scrollable region
+0056: scrollable region
+0057: scrollable region
+0058: scrollable region
+0059: scrollable region
+0060: scrollable region
+0061: scrollable region
+0062: scrollable region
+0063: scrollable region
+0064: scrollable region
+0065: scrollable region
+0066: scrollable region
+0067: scrollable region
+0068: scrollable region
+0069: scrollable region
+0070: scrollable region
+0071: scrollable region
+0072: scrollable region
+0073: scrollable region
+0074: scrollable region
+0075: scrollable region
+0076: scrollable region
+0077: scrollable region
+0078: scrollable region
+0079: scrollable region
+0080: scrollable region
+0081: scrollable region
+0082: scrollable region
+0083: scrollable region
+0084: scrollable region
+0085: scrollable region
+0086: scrollable region
+0087: scrollable region
+0088: scrollable region
+0089: scrollable region
+0090: scrollable region
+0091: scrollable region
+0092: scrollable region
+0093: scrollable region
+0094: scrollable region
+0095: scrollable region
+0096: scrollable region
+0097: scrollable region
+0098: scrollable region
+0099: scrollable region
+Menu
+000 001
+002 003
+004 005
+006 007
+008 009
+010 011
+012 013
+014 015
+016 017
+018 019
+020 021
+022 023
+024 025
+026 027
+028 029
+030 031
+032 033
+034 035
+036 037
+038 039
+040 041
+042 043
+044 045
+046 047
+048 049
+050 051
+052 053
+054 055
+056 057
+058 059
+060 061
+062 063
+064 065
+066 067
+068 069
+070 071
+072 073
+074 075
+076 077
+078 079
+080 081
+082 083
+084 085
+086 087
+088 089
+090 091
+092 093
+094 095
+096 097
+098 099 --------------------------------
+Some test 0
+Some test 1
+Some test 2
+Some test 3
+Some test 4
+Some test 5
+Some test 6
+Some test 7
+Some test 8
+Some test 9
+Some test 10
+Some test 11
+Some test 12
+Some test 13
+Some test 14
+Some test 15
+Some test 16
+Some test 17
+Some test 18
+Some test 19
+Some test 20
+Some test 21
+Some test 22
+Some test 23
+Some test 24
+Some test 25
+Some test 26
+Some test 27
+Some test 28
+Some test 29
+Some test 30
+Some test 31
+Some test 32
+Some test 33
+Some test 34
+Some test 35
+Some test 36
+Some test 37
+Some test 38
+Some test 39
+Some test 40
+Some test 41
+Some test 42
+Some test 43
+Some test 44
+Some test 45
+Some test 46
+Some test 47
+Some test 48
+Some test 49 Rect of child window is: (223,794) (423,894)
+> Widgets Width
+    SetNextItemWidth/PushItemWidth(100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetWindowWidth() * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetContentRegionAvail().x * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-1) (?)
+    0.000
+    0.000
+    0.000
+> Basic Horizontal Layout
+    (Use ImGui::SameLine() to keep adding items to the right of the preceding item)
+    Two items: Hello Sailor
+    More spacing: Hello Sailor
+    Normal buttons Banana Apple Corniflower
+    Small buttons Like this one can fit within a text block.
+    Aligned x=150 x=300
+    Aligned x=150 x=300
+    [ ]
+    My [ ]
+    Tailor [ ]
+    Is [ ]
+    Rich
+    Combo 1.000
+    X 2.000
+    Y 3.000
+    Z
+    Lists:
+    A B
+    Manually wrapping:
+    Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box
+> Tabs
+    > Basic
+        Avocado
+        This is the Avocado tab!
+        blah blah blah blah blah Broccoli Cucumber
+        --------------------------------
+    > Advanced & Close Button
+        [x]
+        ImGuiTabBarFlags_Reorderable
+        [ ]
+        ImGuiTabBarFlags_AutoSelectNewTabs
+        [ ]
+        ImGuiTabBarFlags_TabListPopupButton
+        [ ]
+        ImGuiTabBarFlags_NoCloseWithMiddleMouseButton
+        [x]
+        ImGuiTabBarFlags_FittingPolicyResizeDown
+        [ ]
+        ImGuiTabBarFlags_FittingPolicyScroll
+        [x]
+        Artichoke [x]
+        Beetroot [x]
+        Celery [x]
+        Daikon
+        Artichoke
+        This is the Artichoke tab! Beetroot Celery Daikon
+        --------------------------------
+> Groups
+    (?)
+    AAA BBB
+    CCC
+    DDD
+    EEE
+    ACTION REACTION
+    LEVERAGE
+    BUZZWORD
+> Text Baseline Alignment
+    Text baseline: (?)
+    KO Blahblah
+    Some framed item (?)
+    OK Blahblah Some framed item (?)
+    TEST TEST TEST
+    Text aligned to framed item Item Item Item Item
+    Multi-line text:
+    One
+    Two
+    Three Hello
+    World Banana
+    Banana Hello
+    World One
+    Two
+    Three
+    HOP Banana Hello
+    World Banana
+    HOP Hello
+    World Banana
+    Misc items:
+    80x80 50x50 Button() SmallButton()
+    Button > Node
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    > Node Button
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    Button Bullet text
+    Node Button
+> Scrolling
+    (?)
+    [ ]
+    Decoration (?)
+    [x]
+    Track Item = 50
+    Scroll Offset +0 px
+    Scroll To Pos X/Y = 200 px
+    Top
+    854/1512
+    25%
+    809/1512
+    Center
+    764/1512
+    75%
+    719/1512
+    Bottom
+    675/1512
+    (?)
+    Left
+    2780/4701
+    25%
+    2561/4701
+    Center
+    2343/4701
+    75%
+    2125/4701
+    Right
+    0/0
+    (?)
+    7
+    Lines
+    << Scroll from code >> 0/0
+    [ ]
+    Show Horizontal contents size demo window
+> Clipping
+    On a per-widget basis we are occasionally clipping text CPU-side if it won't fit in its frame. Otherwise we are doing coarser clipping + passing a scissor rectangle to the renderer. The system is designed to try minimizing both execution and CPU/GPU rendering cost.
+    100 100
+    size
+    (Click and drag)
+
+## Popups & Modal windows ##
+
+## Columns ##
+
+## Filtering ##
+
+## Inputs, Navigation & Focus ##
+You can also call ImGui::LogText() to output directly to the log without a visual output.
+Copy "Hello, world!" to clipboard
+
+## Window options ##
+
+## Widgets ##
+
+## Layout ##
+> Child windows
+    (?)
+    [ ]
+    Disable Mouse Wheel
+    [ ]
+    Disable Menu
+    Goto 50
+0000: scrollable region
+0001: scrollable region
+0002: scrollable region
+0003: scrollable region
+0004: scrollable region
+0005: scrollable region
+0006: scrollable region
+0007: scrollable region
+0008: scrollable region
+0009: scrollable region
+0010: scrollable region
+0011: scrollable region
+0012: scrollable region
+0013: scrollable region
+0014: scrollable region
+0015: scrollable region
+0016: scrollable region
+0017: scrollable region
+0018: scrollable region
+0019: scrollable region
+0020: scrollable region
+0021: scrollable region
+0022: scrollable region
+0023: scrollable region
+0024: scrollable region
+0025: scrollable region
+0026: scrollable region
+0027: scrollable region
+0028: scrollable region
+0029: scrollable region
+0030: scrollable region
+0031: scrollable region
+0032: scrollable region
+0033: scrollable region
+0034: scrollable region
+0035: scrollable region
+0036: scrollable region
+0037: scrollable region
+0038: scrollable region
+0039: scrollable region
+0040: scrollable region
+0041: scrollable region
+0042: scrollable region
+0043: scrollable region
+0044: scrollable region
+0045: scrollable region
+0046: scrollable region
+0047: scrollable region
+0048: scrollable region
+0049: scrollable region
+0050: scrollable region
+0051: scrollable region
+0052: scrollable region
+0053: scrollable region
+0054: scrollable region
+0055: scrollable region
+0056: scrollable region
+0057: scrollable region
+0058: scrollable region
+0059: scrollable region
+0060: scrollable region
+0061: scrollable region
+0062: scrollable region
+0063: scrollable region
+0064: scrollable region
+0065: scrollable region
+0066: scrollable region
+0067: scrollable region
+0068: scrollable region
+0069: scrollable region
+0070: scrollable region
+0071: scrollable region
+0072: scrollable region
+0073: scrollable region
+0074: scrollable region
+0075: scrollable region
+0076: scrollable region
+0077: scrollable region
+0078: scrollable region
+0079: scrollable region
+0080: scrollable region
+0081: scrollable region
+0082: scrollable region
+0083: scrollable region
+0084: scrollable region
+0085: scrollable region
+0086: scrollable region
+0087: scrollable region
+0088: scrollable region
+0089: scrollable region
+0090: scrollable region
+0091: scrollable region
+0092: scrollable region
+0093: scrollable region
+0094: scrollable region
+0095: scrollable region
+0096: scrollable region
+0097: scrollable region
+0098: scrollable region
+0099: scrollable region
+Menu
+000 001
+002 003
+004 005
+006 007
+008 009
+010 011
+012 013
+014 015
+016 017
+018 019
+020 021
+022 023
+024 025
+026 027
+028 029
+030 031
+032 033
+034 035
+036 037
+038 039
+040 041
+042 043
+044 045
+046 047
+048 049
+050 051
+052 053
+054 055
+056 057
+058 059
+060 061
+062 063
+064 065
+066 067
+068 069
+070 071
+072 073
+074 075
+076 077
+078 079
+080 081
+082 083
+084 085
+086 087
+088 089
+090 091
+092 093
+094 095
+096 097
+098 099 --------------------------------
+Some test 0
+Some test 1
+Some test 2
+Some test 3
+Some test 4
+Some test 5
+Some test 6
+Some test 7
+Some test 8
+Some test 9
+Some test 10
+Some test 11
+Some test 12
+Some test 13
+Some test 14
+Some test 15
+Some test 16
+Some test 17
+Some test 18
+Some test 19
+Some test 20
+Some test 21
+Some test 22
+Some test 23
+Some test 24
+Some test 25
+Some test 26
+Some test 27
+Some test 28
+Some test 29
+Some test 30
+Some test 31
+Some test 32
+Some test 33
+Some test 34
+Some test 35
+Some test 36
+Some test 37
+Some test 38
+Some test 39
+Some test 40
+Some test 41
+Some test 42
+Some test 43
+Some test 44
+Some test 45
+Some test 46
+Some test 47
+Some test 48
+Some test 49 Rect of child window is: (223,794) (423,894)
+> Widgets Width
+    SetNextItemWidth/PushItemWidth(100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetWindowWidth() * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetContentRegionAvail().x * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-1) (?)
+    0.000
+    0.000
+    0.000
+> Basic Horizontal Layout
+    (Use ImGui::SameLine() to keep adding items to the right of the preceding item)
+    Two items: Hello Sailor
+    More spacing: Hello Sailor
+    Normal buttons Banana Apple Corniflower
+    Small buttons Like this one can fit within a text block.
+    Aligned x=150 x=300
+    Aligned x=150 x=300
+    [ ]
+    My [ ]
+    Tailor [ ]
+    Is [ ]
+    Rich
+    Combo 1.000
+    X 2.000
+    Y 3.000
+    Z
+    Lists:
+    A B
+    Manually wrapping:
+    Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box
+> Tabs
+    > Basic
+        Avocado
+        This is the Avocado tab!
+        blah blah blah blah blah Broccoli Cucumber
+        --------------------------------
+    > Advanced & Close Button
+        [x]
+        ImGuiTabBarFlags_Reorderable
+        [ ]
+        ImGuiTabBarFlags_AutoSelectNewTabs
+        [ ]
+        ImGuiTabBarFlags_TabListPopupButton
+        [ ]
+        ImGuiTabBarFlags_NoCloseWithMiddleMouseButton
+        [x]
+        ImGuiTabBarFlags_FittingPolicyResizeDown
+        [ ]
+        ImGuiTabBarFlags_FittingPolicyScroll
+        [x]
+        Artichoke [x]
+        Beetroot [x]
+        Celery [x]
+        Daikon
+        Artichoke
+        This is the Artichoke tab! Beetroot Celery Daikon
+        --------------------------------
+> Groups
+    (?)
+    AAA BBB
+    CCC
+    DDD
+    EEE
+    ACTION REACTION
+    LEVERAGE
+    BUZZWORD
+> Text Baseline Alignment
+    Text baseline: (?)
+    KO Blahblah
+    Some framed item (?)
+    OK Blahblah Some framed item (?)
+    TEST TEST TEST
+    Text aligned to framed item Item Item Item Item
+    Multi-line text:
+    One
+    Two
+    Three Hello
+    World Banana
+    Banana Hello
+    World One
+    Two
+    Three
+    HOP Banana Hello
+    World Banana
+    HOP Hello
+    World Banana
+    Misc items:
+    80x80 50x50 Button() SmallButton()
+    Button > Node
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    > Node Button
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    Button Bullet text
+    Node Button
+> Scrolling
+    (?)
+    [ ]
+    Decoration (?)
+    [x]
+    Track Item = 50
+    Scroll Offset +0 px
+    Scroll To Pos X/Y = 200 px
+    Top
+    854/1512
+    25%
+    809/1512
+    Center
+    764/1512
+    75%
+    719/1512
+    Bottom
+    675/1512
+    (?)
+    Left
+    2780/4701
+    25%
+    2561/4701
+    Center
+    2343/4701
+    75%
+    2125/4701
+    Right
+    0/0
+    (?)
+    7
+    Lines
+    << Scroll from code >> 0/0
+    [ ]
+    Show Horizontal contents size demo window
+> Clipping
+    On a per-widget basis we are occasionally clipping text CPU-side if it won't fit in its frame. Otherwise we are doing coarser clipping + passing a scissor rectangle to the renderer. The system is designed to try minimizing both execution and CPU/GPU rendering cost.
+    100 100
+    size
+    (Click and drag)
+
+## Popups & Modal windows ##
+
+## Columns ##
+
+## Filtering ##
+
+## Inputs, Navigation & Focus ##
+You can also call ImGui::LogText() to output directly to the log without a visual output.
+Copy "Hello, world!" to clipboard
+
+## Window options ##
+
+## Widgets ##
+
+## Layout ##
+> Child windows
+    (?)
+    [ ]
+    Disable Mouse Wheel
+    [ ]
+    Disable Menu
+    Goto 50
+0000: scrollable region
+0001: scrollable region
+0002: scrollable region
+0003: scrollable region
+0004: scrollable region
+0005: scrollable region
+0006: scrollable region
+0007: scrollable region
+0008: scrollable region
+0009: scrollable region
+0010: scrollable region
+0011: scrollable region
+0012: scrollable region
+0013: scrollable region
+0014: scrollable region
+0015: scrollable region
+0016: scrollable region
+0017: scrollable region
+0018: scrollable region
+0019: scrollable region
+0020: scrollable region
+0021: scrollable region
+0022: scrollable region
+0023: scrollable region
+0024: scrollable region
+0025: scrollable region
+0026: scrollable region
+0027: scrollable region
+0028: scrollable region
+0029: scrollable region
+0030: scrollable region
+0031: scrollable region
+0032: scrollable region
+0033: scrollable region
+0034: scrollable region
+0035: scrollable region
+0036: scrollable region
+0037: scrollable region
+0038: scrollable region
+0039: scrollable region
+0040: scrollable region
+0041: scrollable region
+0042: scrollable region
+0043: scrollable region
+0044: scrollable region
+0045: scrollable region
+0046: scrollable region
+0047: scrollable region
+0048: scrollable region
+0049: scrollable region
+0050: scrollable region
+0051: scrollable region
+0052: scrollable region
+0053: scrollable region
+0054: scrollable region
+0055: scrollable region
+0056: scrollable region
+0057: scrollable region
+0058: scrollable region
+0059: scrollable region
+0060: scrollable region
+0061: scrollable region
+0062: scrollable region
+0063: scrollable region
+0064: scrollable region
+0065: scrollable region
+0066: scrollable region
+0067: scrollable region
+0068: scrollable region
+0069: scrollable region
+0070: scrollable region
+0071: scrollable region
+0072: scrollable region
+0073: scrollable region
+0074: scrollable region
+0075: scrollable region
+0076: scrollable region
+0077: scrollable region
+0078: scrollable region
+0079: scrollable region
+0080: scrollable region
+0081: scrollable region
+0082: scrollable region
+0083: scrollable region
+0084: scrollable region
+0085: scrollable region
+0086: scrollable region
+0087: scrollable region
+0088: scrollable region
+0089: scrollable region
+0090: scrollable region
+0091: scrollable region
+0092: scrollable region
+0093: scrollable region
+0094: scrollable region
+0095: scrollable region
+0096: scrollable region
+0097: scrollable region
+0098: scrollable region
+0099: scrollable region
+Menu
+000 001
+002 003
+004 005
+006 007
+008 009
+010 011
+012 013
+014 015
+016 017
+018 019
+020 021
+022 023
+024 025
+026 027
+028 029
+030 031
+032 033
+034 035
+036 037
+038 039
+040 041
+042 043
+044 045
+046 047
+048 049
+050 051
+052 053
+054 055
+056 057
+058 059
+060 061
+062 063
+064 065
+066 067
+068 069
+070 071
+072 073
+074 075
+076 077
+078 079
+080 081
+082 083
+084 085
+086 087
+088 089
+090 091
+092 093
+094 095
+096 097
+098 099 --------------------------------
+Some test 0
+Some test 1
+Some test 2
+Some test 3
+Some test 4
+Some test 5
+Some test 6
+Some test 7
+Some test 8
+Some test 9
+Some test 10
+Some test 11
+Some test 12
+Some test 13
+Some test 14
+Some test 15
+Some test 16
+Some test 17
+Some test 18
+Some test 19
+Some test 20
+Some test 21
+Some test 22
+Some test 23
+Some test 24
+Some test 25
+Some test 26
+Some test 27
+Some test 28
+Some test 29
+Some test 30
+Some test 31
+Some test 32
+Some test 33
+Some test 34
+Some test 35
+Some test 36
+Some test 37
+Some test 38
+Some test 39
+Some test 40
+Some test 41
+Some test 42
+Some test 43
+Some test 44
+Some test 45
+Some test 46
+Some test 47
+Some test 48
+Some test 49 Rect of child window is: (223,794) (423,894)
+> Widgets Width
+    SetNextItemWidth/PushItemWidth(100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetWindowWidth() * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(GetContentRegionAvail().x * 0.5f) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-100) (?)
+    0.000
+    float
+    SetNextItemWidth/PushItemWidth(-1) (?)
+    0.000
+    0.000
+    0.000
+> Basic Horizontal Layout
+    (Use ImGui::SameLine() to keep adding items to the right of the preceding item)
+    Two items: Hello Sailor
+    More spacing: Hello Sailor
+    Normal buttons Banana Apple Corniflower
+    Small buttons Like this one can fit within a text block.
+    Aligned x=150 x=300
+    Aligned x=150 x=300
+    [ ]
+    My [ ]
+    Tailor [ ]
+    Is [ ]
+    Rich
+    Combo 1.000
+    X 2.000
+    Y 3.000
+    Z
+    Lists:
+    A B
+    Manually wrapping:
+    Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box Box
+> Tabs
+    > Basic
+        Avocado
+        This is the Avocado tab!
+        blah blah blah blah blah Broccoli Cucumber
+        --------------------------------
+    > Advanced & Close Button
+        [x]
+        ImGuiTabBarFlags_Reorderable
+        [ ]
+        ImGuiTabBarFlags_AutoSelectNewTabs
+        [ ]
+        ImGuiTabBarFlags_TabListPopupButton
+        [ ]
+        ImGuiTabBarFlags_NoCloseWithMiddleMouseButton
+        [x]
+        ImGuiTabBarFlags_FittingPolicyResizeDown
+        [ ]
+        ImGuiTabBarFlags_FittingPolicyScroll
+        [x]
+        Artichoke [x]
+        Beetroot [x]
+        Celery [x]
+        Daikon
+        Artichoke
+        This is the Artichoke tab! Beetroot Celery Daikon
+        --------------------------------
+> Groups
+    (?)
+    AAA BBB
+    CCC
+    DDD
+    EEE
+    ACTION REACTION
+    LEVERAGE
+    BUZZWORD
+> Text Baseline Alignment
+    Text baseline: (?)
+    KO Blahblah
+    Some framed item (?)
+    OK Blahblah Some framed item (?)
+    TEST TEST TEST
+    Text aligned to framed item Item Item Item Item
+    Multi-line text:
+    One
+    Two
+    Three Hello
+    World Banana
+    Banana Hello
+    World One
+    Two
+    Three
+    HOP Banana Hello
+    World Banana
+    HOP Hello
+    World Banana
+    Misc items:
+    80x80 50x50 Button() SmallButton()
+    Button > Node
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    > Node Button
+        Item 0..
+        Item 1..
+        Item 2..
+        Item 3..
+        Item 4..
+        Item 5..
+    Button Bullet text
+    Node Button
+> Scrolling
+    (?)
+    [ ]
+    Decoration (?)
+    [x]
+    Track Item = 50
+    Scroll Offset +0 px
+    Scroll To Pos X/Y = 200 px
+    Top
+    854/1512
+    25%
+    809/1512
+    Center
+    764/1512
+    75%
+    719/1512
+    Bottom
+    675/1512
+    (?)
+    Left
+    2780/4701
+    25%
+    2561/4701
+    Center
+    2343/4701
+    75%
+    2125/4701
+    Right
+    0/0
+    (?)
+    7
+    Lines
+    << Scroll from code >> 0/0
+    [ ]
+    Show Horizontal contents size demo window
+> Clipping
+    On a per-widget basis we are occasionally clipping text CPU-side if it won't fit in its frame. Otherwise we are doing coarser clipping + passing a scissor rectangle to the renderer. The system is designed to try minimizing both execution and CPU/GPU rendering cost.
+    100 100
+    size
+    (Click and drag)
+
+## Popups & Modal windows ##
+
+## Columns ##
+
+## Filtering ##
+
+## Inputs, Navigation & Focus ##

@@ -1,0 +1,14 @@
+{
+    "DatabaseFile": "./traveller.db",
+    "PageOptionSize": 20,
+    "WebRetrieveWait": 3,
+    "WebLineString": "\r\n",
+    "WebDelimiter": "\t",
+    "WorldFields": 17,
+    "SeedValue": 101,
+    "DataDir":"./data/",
+    "WorldOutputFile": "worlds.tab",
+    "SectorOutputFile": "sector.tab",
+    "WorldGenNumber": 16,
+    "ForevenFile": "foreven.tab"
+}

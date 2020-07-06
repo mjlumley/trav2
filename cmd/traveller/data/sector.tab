@@ -1,0 +1,32 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance
+pres	A	0503	????	C756422-6		Ni		502	As
+pres	A	0506	????	B584303-C		Lo Ni		311	As
+pres	A	0605	????	B675210-7	M	Lo Ni		802	As
+pres	B	1309	????	C778A86-C		Hi In		313	As
+pres	F	0916	????	D210247-9		Lo De Ni		705	As
+pres	F	1020	????	C200866-9		Va Na De		402	As
+pres	F	1212	????	C677336-5		Lo Ni		204	As
+pres	F	1217	????	E300597-7		Va De Ni		501	As
+pres	G	1816	????	C446688-5		Ag Ni		614	As
+pres	G	1818	????	A634595-9		Ni		205	As
+pres	I	0421	????	E58A623-6		Wa Ni Ri		024	As
+pres	J	1325	????	X310300-4		Lo De Ni	R	204	As
+pres	K	2027	????	C769441-6	M	Ni		914	As
+pres	K	2129	????	E322757-8		Na Po		604	As
+pres	K	2222	????	C666766-6		Ag Ri		911	As
+pres	K	2224	????	E7B5400-5		Fl Ni		710	As
+pres	L	2829	????	D56879C-3		Ag Ri		603	As
+pres	L	3230	????	C410754-6		Na De		304	As
+pres	M	0235	????	C574568-9		Ag Ni		213	As
+pres	M	0331	????	C89598B-5		Hi In		322	As
+pres	M	0837	????	C566556-A		Ag Ni		904	As
+pres	N	0934	????	D520354-8		Lo De Ni Po		623	As
+pres	N	1131	????	C584632-4		Ag Ni Ri		404	As
+pres	N	1338	????	C610677-7	M	Na De Ni		205	As
+pres	O	1737	????	E774332-3		Lo Ni		503	As
+pres	O	1839	????	C98A335-B	M	Lo Wa Ni		015	As
+pres	O	1939	????	B697544-8		Ag Ni		400	As
+pres	O	2240	????	B767333-9	M	Lo Ni		000	As
+pres	P	2536	????	B77A8B9-B	M	Wa		501	As
+pres	P	2537	????	D133324-8		Lo Ni Po		910	As
+pres	P	3034	????	B68A400-D	M	Wa Ni		314	As

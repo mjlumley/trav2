@@ -1,0 +1,449 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance
+Gene	A	0109	????	B6AA736-A		Fl Wa		412	Im
+Gene	A	0201	????	B68759B-8		Ag Ni		500	Im
+Gene	A	0203	????	C210335-B		Lo De Ni		502	Im
+Gene	A	0205	????	B998141-6	N	Lo Ni		921	Im
+Gene	A	0209	????	D874640-5	S	Ag Ni		125	Im
+Gene	A	0210	????	E400269-5		Va Lo De Ni		600	Im
+Gene	A	0305	????	B462587-7	N	Ni		903	Im
+Gene	A	0405	????	B721000-C		Ba		502	Im
+Gene	A	0408	????	A8328AB-A	N	Na Po		004	Im
+Gene	A	0409	????	C000120-A		As Lo Ni		704	Im
+Gene	A	0503	????	B489569-A	NS	Ni		813	Im
+Gene	A	0505	????	X745142-1		Lo Ni	R	820	Im
+Gene	A	0506	????	D369104-6	S	Lo Ni		203	Im
+Gene	A	0507	????	D532544-4		Ni Po		405	Im
+Gene	A	0508	????	C200404-A	S	Va De Ni		610	Im
+Gene	A	0606	????	C446897-5	S			315	Im
+Gene	A	0607	????	E487841-5				932	Im
+Gene	A	0608	????	E100674-7		Va Na Ni		724	Im
+Gene	A	0610	????	B6A3786-7	NS	Fl		404	Im
+Gene	A	0704	????	X456555-5		Ag Ni	R	603	Im
+Gene	A	0705	????	C12498C-D		Hi In		802	Im
+Gene	A	0708	????	B647410-7		Ni		413	Im
+Gene	A	0709	????	B757256-A		Lo Ni		102	Im
+Gene	A	0801	????	A364327-C		Lo Ni		605	Im
+Gene	A	0805	????	D548612-2	S	Ag Ni		924	Im
+Gene	A	0806	????	B799421-A	N	Ni		104	Im
+Gene	A	0807	????	A644110-C		Lo Ni		505	Im
+Gene	B	0902	????	A6659A9-A		Hi		720	Im
+Gene	B	0903	????	D110646-7		Na Ni		604	Im
+Gene	B	0906	????	C566200-5		Lo Ni		720	Im
+Gene	B	0907	????	B110666-A	S	Na Ni		624	Im
+Gene	B	0908	????	C521610-5	S	Na Ni Po		303	Im
+Gene	B	1001	????	B647576-8		Ag Ni		823	Im
+Gene	B	1002	????	B434400-C	N	Ni		102	Im
+Gene	B	1007	????	B8A6213-9		Fl Lo Ni		723	Im
+Gene	B	1008	????	E231333-5		Lo Ni Po		903	Im
+Gene	B	1101	????	C54548A-9		Ni		024	Im
+Gene	B	1102	????	B738115-C	N	Lo Ni		800	Im
+Gene	B	1103	????	B767598-8	N	Ag Ni		700	Im
+Gene	B	1104	????	E446245-8		Lo Ni		002	Im
+Gene	B	1106	????	E531569-4		Ni Po		021	Im
+Gene	B	1108	????	C436773-6	S			420	Im
+Gene	B	1110	????	C332422-B		Ni Po		304	Im
+Gene	B	1201	????	B477888-B	N			303	Im
+Gene	B	1202	????	C348420-5	S	Ni		714	Im
+Gene	B	1204	????	B666421-B		Ni		104	Im
+Gene	B	1206	????	C588530-7		Ag Ni		202	Im
+Gene	B	1208	????	B765AA8-B	S	Hi		422	Im
+Gene	B	1301	????	B442734-6		Po		524	Im
+Gene	B	1305	????	C410230-A		Lo De Ni		803	Im
+Gene	B	1306	????	B469410-9		Ni		604	Im
+Gene	B	1307	????	C624100-7	S	Lo Ni		125	Im
+Gene	B	1308	????	C333557-8	S	Ni Po		313	Im
+Gene	B	1310	????	C130685-7		Na Ni Po		702	Im
+Gene	B	1405	????	C887455-8	S	Ni		612	Im
+Gene	B	1406	????	D532569-4		Ni Po		301	Im
+Gene	B	1407	????	C254000-5		Ba		600	Im
+Gene	B	1408	????	B552797-7		Po		602	Im
+Gene	B	1505	????	B578343-A	N	Lo Ni		804	Im
+Gene	B	1510	????	E9B8573-7		Fl Ni		613	Im
+Gene	B	1602	????	B424684-7	S	Ni		100	Im
+Gene	B	1606	????	EAB7632-5		Fl Ni		423	Im
+Gene	B	1609	????	CAB7112-5		Fl Lo Ni		902	Im
+Gene	C	1701	????	A321330-D	N	Lo Ni Po		103	Im
+Gene	C	1710	????	A8C5510-D		Fl Ni		402	Im
+Gene	C	1801	????	CACA376-7	S	Fl Lo Wa Ni		503	Im
+Gene	C	1809	????	A310983-B		Na Hi De In		321	Im
+Gene	C	1905	????	X122410-1		Ni Po	R	523	Im
+Gene	C	1909	????	B9A6162-8	N	Fl Lo Ni		103	Im
+Gene	C	2002	????	C747662-7	S	Ag Ni		002	Im
+Gene	C	2003	????	C337201-8		Lo Ni		424	Im
+Gene	C	2004	????	E12088A-6		Na Po		104	Im
+Gene	C	2101	????	D553778-3	S	Po		404	Im
+Gene	C	2105	????	E510741-3		Na De		720	Im
+Gene	C	2106	????	B8BA677-B	NS	Fl Wa Ni		604	Im
+Gene	C	2107	????	E8A3357-4		Fl Lo Ni		303	Im
+Gene	C	2109	????	D7A4741-5		Fl		304	Im
+Gene	C	2201	????	D834755-8				802	Im
+Gene	C	2203	????	C200852-8		Va Na De		604	Im
+Gene	C	2204	????	D5517AA-2	S	Po		603	Im
+Gene	C	2206	????	B244A9E-C		Hi In		005	Im
+Gene	C	2207	????	C6646A8-5		Ag Ni		400	Im
+Gene	C	2208	????	C856203-5		Lo Ni		900	Im
+Gene	C	2306	????	B000662-A		As Na Ni		604	Im
+Gene	C	2307	????	E356996-9		Hi		011	Im
+Gene	C	2308	????	C565733-5		Ag		424	Im
+Gene	C	2309	????	C697833-5	S			000	Im
+Gene	C	2310	????	D577324-5	S	Lo Ni		704	Im
+Gene	C	2404	????	B4876A9-8		Ag Ni		600	Im
+Gene	C	2407	????	E343444-6		Ni Po		402	Im
+Gene	C	2409	????	D799676-5	S	Ni		303	Im
+Gene	C	2410	????	B266863-B	N			900	Im
+Gene	D	2502	????	C447441-7	S	Ni		814	Im
+Gene	D	2504	????	A434521-D	S	Ni		504	Im
+Gene	D	2505	????	A673300-E	N	Lo Ni		001	Im
+Gene	D	2507	????	D9A315A-8	S	Fl Lo Ni		803	Im
+Gene	D	2509	????	B754313-A	NS	Lo Ni		204	Im
+Gene	D	2603	????	B410130-A	N	Lo De Ni		600	Im
+Gene	D	2604	????	C20075A-7		Va Na De		113	Im
+Gene	D	2606	????	A254359-A		Lo Ni		102	Im
+Gene	D	2607	????	D9CA336-7	S	Fl Lo Wa Ni		504	Im
+Gene	D	2609	????	C23099C-A	S	Na Hi De Po		904	Im
+Gene	D	2610	????	C754210-8		Lo Ni		504	Im
+Gene	D	2705	????	C688556-5	S	Ag Ni		100	Im
+Gene	D	2708	????	B9B3276-A	NS	Fl Lo Ni		404	Im
+Gene	D	2710	????	E864446-7		Ni		423	Im
+Gene	D	2807	????	C334452-A		Ni		403	Im
+Gene	D	2808	????	A6A6447-C	S	Fl Ni		803	Im
+Gene	D	2902	????	C577756-7	S	Ag		724	Im
+Gene	D	3001	????	C565556-9	S	Ag Ni		424	Im
+Gene	D	3003	????	EAB5757-3		Fl		604	Im
+Gene	D	3006	????	B279765-7	N			605	Im
+Gene	D	3007	????	E37469A-2		Ag Ni		514	Im
+Gene	D	3009	????	C89A443-A		Wa Ni		802	Im
+Gene	D	3010	????	E7B4343-8		Fl Lo Ni		724	Im
+Gene	D	3104	????	A624520-9	N	Ni		405	Im
+Gene	D	3105	????	B334353-C	S	Lo Ni		600	Im
+Gene	D	3106	????	A242156-C		Lo Ni Po		804	Im
+Gene	D	3107	????	B523675-8		Na Ni Po		103	Im
+Gene	D	3210	????	C000221-B		As Lo Ni		905	Im
+Gene	E	0111	????	C4456AC-5		Ag Ni		623	Im
+Gene	E	0112	????	B265567-C	N	Ag Ni		804	Im
+Gene	E	0115	????	B476420-7		Ni		824	Im
+Gene	E	0119	????	A664787-8		Ag		024	Im
+Gene	E	0212	????	C9A468D-4		Fl Ni		123	Im
+Gene	E	0214	????	E74059A-3		De Ni Po		901	Im
+Gene	E	0216	????	B684543-9		Ag Ni		702	Im
+Gene	E	0219	????	B2258BA-8				202	Im
+Gene	E	0314	????	C568887-5				200	Im
+Gene	E	0317	????	D440546-3	S	De Ni Po		103	Im
+Gene	E	0319	????	D633544-4	S	Ni Po		703	Im
+Gene	E	0320	????	D573420-2		Ni		624	Im
+Gene	E	0514	????	B200302-C	N	Va Lo De Ni		804	Im
+Gene	E	0517	????	C458353-8		Lo Ni		313	Im
+Gene	E	0520	????	C410410-8		De Ni		700	Im
+Gene	E	0611	????	E657227-3		Lo Ni		613	Im
+Gene	E	0612	????	B655655-9		Ag Ni		004	Im
+Gene	E	0616	????	E6469BE-6		Hi In		803	Im
+Gene	E	0617	????	A31077B-C		Na De		404	Im
+Gene	E	0619	????	B220964-D		Na Hi De In Po		304	Im
+Gene	E	0620	????	B878541-9	N	Ag Ni		322	Im
+Gene	E	0711	????	E254548-4		Ag Ni		104	Im
+Gene	E	0712	????	D598635-1	S	Ag Ni		920	Im
+Gene	E	0714	????	C100884-8		Va Na		824	Im
+Gene	E	0716	????	A345548-D		Ag Ni		923	Im
+Gene	E	0717	????	A953434-C	N	Ni Po		203	Im
+Gene	E	0720	????	C777303-5		Lo Ni		504	Im
+Gene	E	0818	????	C699AAA-C		Hi In		004	Im
+Gene	E	0820	????	X89A652-0		Wa Ni	R	312	Im
+Gene	F	0912	????	B9C9220-A	S	Fl Lo Ni		723	Im
+Gene	F	0914	????	A78A787-A		Wa		122	Im
+Gene	F	0919	????	D300521-8		Va De Ni		904	Im
+Gene	F	1012	????	E433233-4		Lo Ni Po		510	Im
+Gene	F	1014	????	B644697-5	N	Ag Ni		704	Im
+Gene	F	1019	????	A5A48AF-D	N	Fl		723	Im
+Gene	F	1111	????	X7586A8-?		Ag Ni	R	205	Im
+Gene	F	1113	????	E761522-2		Ni		713	Im
+Gene	F	1213	????	C440564-A		De Ni Po		904	Im
+Gene	F	1217	????	E68A243-6		Lo Wa Ni		500	Im
+Gene	F	1218	????	C200511-6	S	Va De Ni		102	Im
+Gene	F	1312	????	B510502-9	N	De Ni		600	Im
+Gene	F	1315	????	C000534-9		As Ni		904	Im
+Gene	F	1320	????	B50059A-9		Va De Ni		703	Im
+Gene	F	1411	????	A477366-D	N	Lo Ni		112	Im
+Gene	F	1511	????	E567011-6				700	Im
+Gene	F	1516	????	A654455-A		Ni		402	Im
+Gene	F	1520	????	B533555-9		Ni Po		123	Im
+Gene	F	1616	????	B67536A-6	N	Lo Ni		834	Im
+Gene	F	1617	????	C123523-B		Ni Po		020	Im
+Gene	G	1712	????	B772220-7	NS	Lo Ni		820	Im
+Gene	G	1714	????	B763688-A	N	Ni		614	Im
+Gene	G	1715	????	A261375-A	N	Lo Ni		224	Im
+Gene	G	1717	????	B866435-7	S	Ni		803	Im
+Gene	G	1718	????	E668000-5		Ba		820	Im
+Gene	G	1719	????	C7A5310-8		Fl Lo Ni		520	Im
+Gene	G	1720	????	D632565-8	S	Ni Po		622	Im
+Gene	G	1812	????	C223687-5		Na Ni Po		724	Im
+Gene	G	1813	????	C532632-8	S	Na Ni Po		800	Im
+Gene	G	1814	????	B584201-8		Lo Ni		902	Im
+Gene	G	1816	????	CAE9669-9		Ni		500	Im
+Gene	G	1819	????	D244786-3	S	Ag		105	Im
+Gene	G	1915	????	C632A9B-C		Na Hi Po		404	Im
+Gene	G	1916	????	C535142-5		Lo Ni		903	Im
+Gene	G	1917	????	D8A5697-4	S	Fl Ni		004	Im
+Gene	G	2014	????	C210542-B		De Ni		005	Im
+Gene	G	2016	????	A8B7779-B		Fl		900	Im
+Gene	G	2017	????	C722527-7		Ni Po		012	Im
+Gene	G	2018	????	B558314-6	N	Lo Ni		805	Im
+Gene	G	2113	????	B120663-D		Na Ni Po		902	Im
+Gene	G	2119	????	C77A620-9		Wa Ni		600	Im
+Gene	G	2211	????	C512420-9	S	Ic Ni		803	Im
+Gene	G	2212	????	C6A6523-8		Fl Ni		200	Im
+Gene	G	2214	????	D57566A-5	S	Ag Ni		422	Im
+Gene	G	2216	????	C41057B-9		De Ni		414	Im
+Gene	G	2217	????	C100440-7		Va Ni		023	Im
+Gene	G	2219	????	E336438-8		Ni		202	Im
+Gene	G	2220	????	C000732-6		As Na		722	Im
+Gene	G	2317	????	E331764-6		Na Po		104	Im
+Gene	G	2412	????	B533448-A		Ni Po		412	Im
+Gene	G	2415	????	C300734-6	S	Va Na De		004	Im
+Gene	G	2419	????	D201200-5	S	Va Ic Lo Ni		503	Im
+Gene	H	2511	????	C169300-8		Lo Ni		703	Im
+Gene	H	2512	????	B200766-A	N	Va Na De		613	Im
+Gene	H	2611	????	D554343-4	S	Lo Ni		620	Im
+Gene	H	2615	????	D476468-5	S	Ni		602	Im
+Gene	H	2617	????	D121576-9	S	Ni Po		814	Im
+Gene	H	2618	????	C5488BC-6				523	Im
+Gene	H	2713	????	C855110-9		Lo Ni		902	Im
+Gene	H	2717	????	D796515-4	S	Ag Ni		104	Im
+Gene	H	2719	????	A359765-B	N			003	Im
+Gene	H	2812	????	A79868B-7		Ag Ni		304	Im
+Gene	H	2814	????	E200320-6		Va Lo De Ni		213	Im
+Gene	H	2817	????	C745588-9	S	Ag Ni		413	Im
+Gene	H	2914	????	B3425AF-9		Ni Po		220	Im
+Gene	H	2915	????	C233400-B		Ni Po		504	Im
+Gene	H	2919	????	D8A3243-3		Fl Lo Ni		702	Im
+Gene	H	3014	????	B200200-A		Va Lo De Ni		703	Im
+Gene	H	3111	????	C277784-8		Ag		600	Im
+Gene	H	3114	????	C62237B-6	S	Lo Ni Po		404	Im
+Gene	H	3115	????	B000120-A	S	As Lo Ni		210	Im
+Gene	H	3118	????	C458844-9	S			803	Im
+Gene	H	3119	????	C47537A-9	S	Lo Ni		515	Im
+Gene	H	3211	????	C368203-9	S	Lo Ni		804	Im
+Gene	H	3219	????	C665414-6		Ni		522	Im
+Gene	I	0121	????	B695869-5	NS			700	Im
+Gene	I	0123	????	C76A347-6		Lo Wa Ni		122	Im
+Gene	I	0125	????	C224000-6	S	Ba		624	Im
+Gene	I	0129	????	E6A79AA-4		Fl Hi		123	Im
+Gene	I	0130	????	C741889-5	S	Po		823	Im
+Gene	I	0226	????	C5488B8-7	S			813	Im
+Gene	I	0227	????	A47788B-8				522	Im
+Gene	I	0321	????	B8C5020-9	N	Fl		723	Im
+Gene	I	0325	????	B564688-9		Ag Ni		702	Im
+Gene	I	0326	????	C59A342-A		Lo Wa Ni		800	Im
+Gene	I	0328	????	B89A755-9		Wa		104	Im
+Gene	I	0330	????	A9D7203-B	NS	Lo Ni		612	Im
+Gene	I	0421	????	B363676-6		Ni		603	Im
+Gene	I	0422	????	A867666-A		Ag Ni		503	Im
+Gene	I	0425	????	B783389-7	S	Lo Ni		604	Im
+Gene	I	0427	????	C9669AB-7	S	Hi		605	Im
+Gene	I	0429	????	E334366-9		Lo Ni		204	Im
+Gene	I	0430	????	C475885-9				422	Im
+Gene	I	0523	????	B966400-8		Ni		213	Im
+Gene	I	0528	????	E524102-8		Lo Ni		200	Im
+Gene	I	0624	????	EAA6869-5		Fl		724	Im
+Gene	I	0630	????	E679ABD-B		Hi In		901	Im
+Gene	I	0721	????	B3108CH-A	N	Na De		724	Im
+Gene	I	0722	????	D0006B7-9		As Na Ni		302	Im
+Gene	I	0724	Gentarian	A410352-F		Lo De Ni		602	Im
+Gene	I	0727	????	B68A9CA-A	S	Hi Wa		323	Im
+Gene	I	0728	????	B544778-8	S	Ag		312	Im
+Gene	I	0823	????	A425256-E		Lo Ni		913	Im
+Gene	I	0824	????	A586679-C		Ag Ni		100	Im
+Gene	I	0826	????	E476789-5		Ag		700	Im
+Gene	I	0829	????	C666555-9	S	Ag Ni		511	Im
+Gene	J	0924	????	A321664-A		Na Ni Po		214	Im
+Gene	J	0929	????	C74336A-6	S	Lo Ni Po		524	Im
+Gene	J	0930	????	C640361-5		Lo De Ni Po		225	Im
+Gene	J	1023	????	D654559-3	S	Ag Ni		023	Im
+Gene	J	1025	????	D678598-3	S	Ag Ni		303	Im
+Gene	J	1028	????	E510520-7		De Ni		124	Im
+Gene	J	1121	????	D555230-6	S	Lo Ni		702	Im
+Gene	J	1124	????	C686633-6		Ag Ni		704	Im
+Gene	J	1130	????	C311410-9	S	Ic Ni		224	Im
+Gene	J	1224	????	A310579-C		De Ni		910	Im
+Gene	J	1225	????	B653657-6		Ni Po		714	Im
+Gene	J	1226	????	C542413-9		Ni Po		025	Im
+Gene	J	1229	????	AAFA698-F	N	Wa Ni		504	Im
+Gene	J	1321	????	C67399D-8		Hi In		522	Im
+Gene	J	1327	????	D738268-3		Lo Ni		004	Im
+Gene	J	1422	????	C100427-C		Va Ni		401	Im
+Gene	J	1424	????	B9B4653-A		Fl Ni		202	Im
+Gene	J	1521	????	A7A5547-B		Fl Ni		423	Im
+Gene	J	1524	????	D423997-A	S	Na Hi In Po		010	Im
+Gene	J	1527	????	D769312-7		Lo Ni		104	Im
+Gene	J	1529	????	B76A413-8		Wa Ni		020	Im
+Gene	J	1628	????	B210654-8		Na De Ni		703	Im
+Gene	K	1723	????	E687557-8		Ag Ni		003	Im
+Gene	K	1725	????	A578678-B	N	Ag Ni		522	Im
+Gene	K	1822	????	B484567-8	N	Ag Ni		923	Im
+Gene	K	1823	????	E610699-5		Na De Ni		900	Im
+Gene	K	1828	????	C425887-A				415	Im
+Gene	K	1925	????	B79A538-C	N	Wa Ni		004	Im
+Gene	K	1926	????	E1457B8-6		Ag		414	Im
+Gene	K	1930	????	B866436-7	N	Ni		605	Im
+Gene	K	2022	????	C740788-8	S	De Po		913	Im
+Gene	K	2025	????	E511100-6		Ic Lo Ni		303	Im
+Gene	K	2028	????	C6767A9-8		Ag		714	Im
+Gene	K	2122	????	B477214-B	N	Lo Ni		702	Im
+Gene	K	2127	????	C577305-7		Lo Ni		210	Im
+Gene	K	2225	????	D7796A8-6		Ni		002	Im
+Gene	K	2227	????	D55846A-2	S	Ni		825	Im
+Gene	K	2321	????	C457857-A	S			002	Im
+Gene	K	2324	????	A465267-A		Lo Ni		603	Im
+Gene	K	2326	????	X530896-3		Na De Po	R	534	Im
+Gene	K	2422	????	E778988-4		Hi In		521	Im
+Gene	K	2423	????	A684014-9	N			011	Im
+Gene	K	2424	????	E999778-7				724	Im
+Gene	K	2426	????	C147544-6		Ag Ni		025	Im
+Gene	K	2428	????	B324302-C	N	Lo Ni		104	Im
+Gene	L	2524	????	D554211-5	S	Lo Ni		523	Im
+Gene	L	2530	????	E7A4745-4		Fl		014	Im
+Gene	L	2621	????	B100345-E	N	Va Lo Ni		313	Im
+Gene	L	2624	????	B757A78-9	N	Hi		702	Im
+Gene	L	2629	????	E310863-8		Na De		804	Im
+Gene	L	2727	????	C446647-8		Ag Ni		403	Im
+Gene	L	2821	????	B9DA535-B	N	Wa Ni		624	Im
+Gene	L	2822	????	A479237-F	NS	Lo Ni		700	Im
+Gene	L	2825	????	E100410-6		Va Ni		303	Im
+Gene	L	2829	????	C777224-7	S	Lo Ni		612	Im
+Gene	L	2922	????	C669795-6	S			400	Im
+Gene	L	2925	????	C669422-9	S	Ni		304	Im
+Gene	L	2926	????	A566978-9		Hi		513	Im
+Gene	L	2928	????	A498100-A	N	Lo Ni		224	Im
+Gene	L	2929	????	C542501-6	S	Ni Po		824	Im
+Gene	L	3021	????	B400215-B		Va Lo De Ni		101	Im
+Gene	L	3023	????	B141400-B	N	Ni Po		421	Im
+Gene	L	3029	????	B433443-C	S	Ni Po		904	Im
+Gene	L	3121	????	B200673-9	S	Va Na De Ni		413	Im
+Gene	L	3123	????	C7B547A-5	S	Fl Ni		222	Im
+Gene	L	3126	????	A988564-8		Ag Ni		103	Im
+Gene	L	3130	????	C241842-4	S	Po		304	Im
+Gene	L	3222	????	A455786-D		Ag		422	Im
+Gene	L	3223	????	E231321-8		Lo Ni Po		422	Im
+Gene	L	3228	????	E772200-7		Lo Ni		601	Im
+Gene	L	3229	????	C75A312-6	S	Lo Wa Ni		903	Im
+Gene	M	0135	????	CAA9642-6		Fl Ni		404	Im
+Gene	M	0136	????	A655832-A				913	Im
+Gene	M	0236	????	E568345-7		Lo Ni		605	Im
+Gene	M	0240	????	B35198C-A	S	Hi Po		002	Im
+Gene	M	0333	????	CAB6400-9		Fl Ni		200	Im
+Gene	M	0334	????	B664498-7	N	Ni		123	Im
+Gene	M	0335	????	B422872-C		Na Po		613	Im
+Gene	M	0336	????	BABA335-B		Fl Lo Wa Ni		033	Im
+Gene	M	0338	????	C136954-B		Hi		804	Im
+Gene	M	0431	????	B526853-C	NS			903	Im
+Gene	M	0438	????	C468620-9	S	Ag Ni		724	Im
+Gene	M	0439	????	C630222-7		Lo De Ni Po		130	Im
+Gene	M	0531	????	DAA7654-5	S	Fl Ni		900	Im
+Gene	M	0537	????	B685100-9	S	Lo Ni		204	Im
+Gene	M	0538	????	A5A548C-9		Fl Ni		403	Im
+Gene	M	0631	????	A00068D-D	N	As Na Ni		804	Im
+Gene	M	0635	????	A1009CA-F	N	Va Na Hi In		512	Im
+Gene	M	0636	????	E6649CD-4		Hi		712	Im
+Gene	M	0638	????	A764551-D		Ag Ni		222	Im
+Gene	M	0735	????	B7B8154-A	NS	Fl Lo Ni		004	Im
+Gene	M	0737	????	D000875-8	S	As Na		514	Im
+Gene	M	0738	????	B696555-8		Ag Ni		424	Im
+Gene	M	0739	????	A766546-B		Ag Ni		303	Im
+Gene	M	0832	????	E7A9695-7		Fl Ni		314	Im
+Gene	M	0834	????	A535898-A	NS			113	Im
+Gene	M	0835	????	E527669-6		Ni		202	Im
+Gene	M	0836	????	B400566-A	N	Va De Ni		924	Im
+Gene	N	0933	????	C683301-9		Lo Ni		924	Im
+Gene	N	0938	????	D000201-9		As Lo Ni		210	Im
+Gene	N	0939	????	C4009A9-C		Va Na Hi De In		330	Im
+Gene	N	1031	????	A5338C8-D		Na Po		104	Im
+Gene	N	1032	????	A410100-F	NS	Lo De Ni		714	Im
+Gene	N	1035	????	B766213-A	N	Lo Ni		903	Im
+Gene	N	1036	????	E500569-5		Va De Ni		904	Im
+Gene	N	1038	????	E7BA543-A		Fl Wa Ni		101	Im
+Gene	N	1132	????	C7A4457-8	S	Fl Ni		802	Im
+Gene	N	1135	????	B579124-B	NS	Lo Ni		713	Im
+Gene	N	1139	????	C257035-9				203	Im
+Gene	N	1233	????	C8B8230-8		Fl Lo Ni		324	Im
+Gene	N	1236	????	A646220-9	N	Lo Ni		402	Im
+Gene	N	1331	????	A000669-C		As Na Ni		102	Im
+Gene	N	1333	????	A477344-9		Lo Ni		203	Im
+Gene	N	1335	????	B357488-C	N	Ni		512	Im
+Gene	N	1337	????	E7C5679-2		Fl Ni		303	Im
+Gene	N	1338	????	B86A452-B	N	Wa Ni		112	Im
+Gene	N	1340	????	A488120-E		Lo Ni		302	Im
+Gene	N	1432	????	X537544-1		Ni	R	604	Im
+Gene	N	1436	????	E433120-7		Lo Ni Po		915	Im
+Gene	N	1437	????	A310045-C		De		220	Im
+Gene	N	1438	????	B479211-C	S	Lo Ni		323	Im
+Gene	N	1531	????	A88A748-A	N	Wa		820	Im
+Gene	N	1534	????	EAB7534-4		Fl Ni		504	Im
+Gene	N	1536	????	D000777-6	S	As Na		704	Im
+Gene	N	1537	????	B7549AC-9		Hi		802	Im
+Gene	N	1540	????	D311111-9	S	Ic Lo Ni		123	Im
+Gene	N	1631	????	X420543-3		De Ni Po	R	322	Im
+Gene	N	1632	????	A48A668-C	N	Wa Ni		204	Im
+Gene	N	1633	????	D683588-3	S	Ni		313	Im
+Gene	N	1634	????	A000677-A		As Na Ni		302	Im
+Gene	O	1733	????	C533533-A		Ni Po		200	Im
+Gene	O	1736	????	B00059B-C	N	As Ni		504	Im
+Gene	O	1738	????	C100653-B		Va Na Ni		813	Im
+Gene	O	1831	????	AA99845-C				100	Im
+Gene	O	1835	????	D1548AA-7	S			300	Im
+Gene	O	1836	????	C567659-5	S	Ag Ni		805	Im
+Gene	O	1838	????	C884565-7		Ag Ni		114	Im
+Gene	O	1840	????	D122422-A		Ni Po		723	Im
+Gene	O	1934	????	B798679-9	N	Ag Ni		020	Im
+Gene	O	1935	????	B534696-6	N	Ni		204	Im
+Gene	O	1936	????	A000469-D		As Ni		223	Im
+Gene	O	2031	????	A430301-F		Lo De Ni Po		313	Im
+Gene	O	2032	????	B78A225-D	NS	Lo Wa Ni		924	Im
+Gene	O	2035	????	E9CA852-6		Fl Wa		103	Im
+Gene	O	2039	????	A430413-F	S	De Ni Po		704	Im
+Gene	O	2040	????	E5867AF-4		Ag		025	Im
+Gene	O	2133	????	E6869EE-7		Hi		223	Im
+Gene	O	2134	????	E751986-4		Hi Po		005	Im
+Gene	O	2135	????	C465558-9		Ag Ni		122	Im
+Gene	O	2137	????	C899200-B		Lo Ni		304	Im
+Gene	O	2231	????	X795645-1		Ag Ni	R	004	Im
+Gene	O	2232	????	B000647-D	NS	As Na Ni		122	Im
+Gene	O	2233	????	B757553-A		Ag Ni		403	Im
+Gene	O	2237	????	E498478-3		Ni		210	Im
+Gene	O	2333	????	A750515-8	S	De Ni Po		610	Im
+Gene	O	2336	????	D300263-8	S	Va Lo De Ni		423	Im
+Gene	O	2338	????	B000685-D		As Na Ni		004	Im
+Gene	O	2340	????	A46A526-C		Wa Ni		603	Im
+Gene	O	2436	????	B31089D-B		Na De		501	Im
+Gene	O	2438	????	D589597-5		Ni		502	Im
+Gene	O	2440	????	C466400-9	S	Ni		912	Im
+Gene	P	2531	????	D510524-7	S	De Ni		202	Im
+Gene	P	2532	????	C633101-8		Lo Ni Po		104	Im
+Gene	P	2533	????	C8D7730-9				814	Im
+Gene	P	2538	????	X420558-3		De Ni Po	R	114	Im
+Gene	P	2539	????	C210731-5	S	Na De		023	Im
+Gene	P	2540	????	A964438-9		Ni		005	Im
+Gene	P	2637	????	B100230-E	S	Va Lo Ni		503	Im
+Gene	P	2638	????	E97A599-7		Wa Ni		000	Im
+Gene	P	2639	????	B144669-9		Ag Ni		013	Im
+Gene	P	2733	????	C622402-B	S	Ni Po		421	Im
+Gene	P	2737	????	C000658-B		As Na Ni		823	Im
+Gene	P	2740	????	B898664-7	NS	Ag Ni		224	Im
+Gene	P	2831	????	C7A5226-9		Fl Lo Ni		403	Im
+Gene	P	2832	????	C646877-3	S			100	Im
+Gene	P	2835	????	C67A346-8	S	Lo Wa Ni		424	Im
+Gene	P	2838	????	D55567B-6		Ag Ni		803	Im
+Gene	P	2933	????	C231330-B		Lo Ni Po		205	Im
+Gene	P	2935	????	D620468-3		De Ni Po		213	Im
+Gene	P	2936	????	D737320-6		Lo Ni		224	Im
+Gene	P	2937	????	D668522-2		Ag Ni		920	Im
+Gene	P	3031	????	E5557A5-4		Ag		102	Im
+Gene	P	3032	????	D687643-5	S	Ag Ni		002	Im
+Gene	P	3034	????	X698102-1		Lo Ni	R	503	Im
+Gene	P	3136	????	B7A3247-B	N	Fl Lo Ni		525	Im
+Gene	P	3137	????	C00099C-9		As Na Hi In		030	Im
+Gene	P	3139	????	X110576-6		Ni	R	013	Im
+Gene	P	3140	????	D637364-4	S	Lo Ni		002	Im
+Gene	P	3231	????	C110989-8	S	Na Hi In		414	Im
+Gene	P	3233	????	B9E8144-9	N	Lo Ni		303	Im
+Gene	P	3236	????	B654632-9	S	Ag Ni		621	Im
+Gene	P	3238	????	D530557-5	S	De Ni Po		523	Im
+Gene	P	3239	????	A9B8525-D		Fl Ni		010	Im

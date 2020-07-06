@@ -1,0 +1,359 @@
+Sector	SS	Hex	Name	UWP	Bases	Remarks	Zone	PBG	Allegiance
+Fore	A	0103	????	B367479-B	N	Ni Pa		910		G1 V	{ +1 }	(A36-5)	[659B]		13	-900
+Fore	A	0104	????	A67A7A7-C	N	Wa Pi		200		G0 V	{ +2 }	(566-3)	[599D]		6	-540
+Fore	A	0202	????	B489342-D	S	Lo		500		O2 III	{ +1 }	(521+2)	[745E]		9	20
+Fore	A	0203	????	E333453-8		Po Ni		33?		M4 V	{ -3 }	(B30-1)	[412C]		6	-33
+Fore	A	0302	????	C100557-9		Va Ni		900		K4 V	{ -1 }	(945+3)	[A47B]		10	540
+Fore	A	0304	????	C33269B-5	S	Na Po Ni Co	A	530		M0 V	{ -2 }	(750-1)	[4464]		12	-35
+Fore	A	0305	????	E866123-7		Lo Ga		200		B0 Ia	{ -3 }	(701+1)	[11A4]		13	7
+Fore	A	0306	????	C340227-6		Lo De Po He		420		F6 IV M4 V BD K9 V	{ -2 }	(511+0)	[1113]		10	5
+Fore	A	0308	????	X210553-2		Ni Co	R	220		A9 Ia	{ -3 }	(543-1)	[4255]		11	-60
+Fore	A	0309	????	C68A979-8		Hi Wa Pr Ri Co		900		M6 V BD	{ +1 }	(784-2)	[8A34]		7	-448
+Fore	A	0401	????	EFB8589-3		Fl Ni Ho		800		DG BD	{ -3 }	(A43-4)	[3213]		10	-480
+Fore	A	0402	????	B7A9457-B		Fl Ni		200		K4 V BD	{ +1 }	(A34-1)	[557E]		9	-120
+Fore	A	0403	????	B100501-A	S	Va Ni Co Co		901		F3 V	{ +1 }	(346+1)	[664F]		9	72
+Fore	A	0404	????	A8C7005-9		Fl Ho		020		G4 V BD BD M9 VI	{ +0 }	(808+1)	[0000]		11	64
+Fore	A	0408	????	B310363-9		Lo		100		K4 V M5 VI BD BD	{ +0 }	(721+5)	[1394]		11	70
+Fore	A	0502	????	A744221-B	N	Lo Co Tu		700		M9 V M5 VI BD BD BD	{ +1 }	(911-5)	[136C]		10	-45
+Fore	A	0503	????	A467458-C	NS	Ni Pa		830		G3 III M2 V	{ +2 }	(C35-3)	[363B]		8	-540
+Fore	A	0504	????	D668112-7		Lo		830		M9 II BD	{ -3 }	(901-2)	[1163]		12	-18
+Fore	A	0505	????	B542841-A	N	Po He Ph Pi Ho		600		G5 V K4 V	{ +2 }	(476+0)	[8A4E]		9	168
+Fore	A	0507	????	B000200-F	N	As Lo Sa		420		F8 V BD	{ +1 }	(811+2)	[533J]		12	16
+Fore	A	0508	????	XDFA201-3		Lo Ho	R	800		A0 V	{ -3 }	(911+1)	[4143]		8	9
+Fore	A	0604	????	E689CDF-4		Hi	R	430		F0 IV M8 VI DM	{ -1 }	(7B8+3)	[CB21]		10	1848
+Fore	A	0607	????	E59A987-A		Hi Wa In Ho		600		A7 V M0 V	{ +1 }	(788-1)	[7A9E]		11	-448
+Fore	A	0610	????	A586623-7	S	Ag Ni Ri		200		K9 V BD M5 VI	{ +1 }	(852-3)	[2756]		10	-240
+Fore	A	0708	????	D4517BA-7		Po Co	A	110		K4 IV M6 V	{ -2 }	(766-1)	[5568]		12	-252
+Fore	A	0801	????	A6B5420-D		Fl Ni Co		500		A7 II	{ +1 }	(435-4)	[653D]		7	-240
+Fore	A	0807	????	C9EA99C-8		Hi Co	A	800		M4 V	{ +0 }	(787-3)	[A958]		11	-1176
+Fore	A	0810	????	A400622-9	N	Va Na Ni		900		K1 V	{ +0 }	(C53-2)	[564A]		7	-360
+Fore	B	0902	????	D510646-7		Na Ni		400		DM	{ -3 }	(853+0)	[9365]		3	120
+Fore	B	0908	????	C544005-4				020		M6 V	{ -2 }	(708+1)	[0000]		10	56
+Fore	B	0909	????	E432637-6		Na Po Ni Px		500		M7 II BD	{ -3 }	(450-1)	[7386]		8	-20
+Fore	B	0910	????	B9A7567-8		Fl Ni		600		K7 V	{ -1 }	(343-2)	[7467]		5	-72
+Fore	B	1007	????	D520324-7	S	Lo De Po He Co Sa		811		M1 V	{ -3 }	(921+5)	[2116]		9	90
+Fore	B	1102	????	B751257-8	S	Lo Po		900		G1 V DM M7 V	{ -1 }	(811+3)	[2137]		8	24
+Fore	B	1103	????	C510666-9	S	Na Ni		300		A8 V	{ -1 }	(851+0)	[7516]		9	40
+Fore	B	1109	????	D576ADB-7	S	Hi In Co	R	900		K1 V	{ -1 }	(A91+0)	[E97A]		9	90
+Fore	B	1205	????	AA66523-C		Ag Ni Pr		220		K5 V	{ +2 }	(A46+1)	[278C]		10	240
+Fore	B	1209	????	C223004-9		Po Co		010		A5 V	{ -1 }	(905-2)	[0000]		4	-90
+Fore	B	1303	????	B232632-C	S	Na Po Ni		700		M9 V BD	{ +1 }	(B55+2)	[575C]		10	550
+Fore	B	1304	????	E431444-4		Po Ni Co		830		G3 V M0 V BD	{ -3 }	(731+5)	[2134]		11	105
+Fore	B	1307	????	A756000-A	N	Ba Ga Di		000		K2 III M1 V	{ +1 }	(908-1)	[0000]		5	-72
+Fore	B	1403	????	B465446-C		Ni Pa		300		F8 IV BD	{ +1 }	(A33-1)	[355D]		8	-90
+Fore	B	1404	????	E999200-4		Lo		320		F2 V	{ -3 }	(811+3)	[1116]		9	24
+Fore	B	1405	????	E110652-5		Na Ni Ho Sa		900		A2 III F9 V	{ -3 }	(750+2)	[6316]		9	70
+Fore	B	1410	????	C10069A-7	S	Va Na Ni Ho		830		K8 V	{ -2 }	(853-4)	[4454]		11	-480
+Fore	B	1501	????	D5A7796-7	S	Fl		710		F3 V	{ -2 }	(865-2)	[2519]		10	-480
+Fore	B	1504	????	E844401-7		Ni Pa Ho Tr		720		F3 V	{ -3 }	(733-3)	[5198]		9	-189
+Fore	B	1507	????	E897722-2		Ag Pi Co		301		G2 V	{ -1 }	(36B+2)	[C631]		12	396
+Fore	B	1602	????	A300486-F		Va Ni		730		A5 V K3 VI	{ +1 }	(B36-1)	[153K]		13	-198
+Fore	C	1701	????	D45A76B-9		Wa Sa		100		K4 V	{ -1 }	(465+3)	[B67C]		7	360
+Fore	C	1703	????	B550776-5	NS	De Po Ho		600		A5 V G1 V	{ +1 }	(967+0)	[B879]		12	378
+Fore	C	1704	????	C533565-A	S	Po Ni Co		111		G2 V	{ +0 }	(845+1)	[4557]		9	160
+Fore	C	1804	????	B100203-A	N	Va Lo		10?		F9 IV	{ +1 }	(611+1)	[332D]		10	6
+Fore	C	1806	????	E655330-7		Lo Ga		320		F7 V K4 V	{ -3 }	(521+2)	[4157]		5	20
+Fore	C	1807	????	C332302-C		Lo Po		90?		B5 III	{ +0 }	(B21+0)	[734F]		10	22
+Fore	C	1808	????	A110430-C		Ni		910		A1 V M2 V M0 V F1 V	{ +1 }	(536+2)	[651F]		10	180
+Fore	C	1901	????	B4695A7-A	S	Ni Pr		500		F4 V	{ +1 }	(744+2)	[568B]		11	224
+Fore	C	1905	????	C56687A-7		Ph Pa Ri		730		A4 IV K7 V	{ +0 }	(776-5)	[C859]		16	-1470
+Fore	C	2002	????	C67A432-6		Wa Ni		800		K2 V M5 VI BD	{ -2 }	(532+2)	[6277]		9	60
+Fore	C	2003	????	E110420-A		Ni		430		K9 V BD	{ -1 }	(E30-1)	[135B]		6	-42
+Fore	C	2005	????	C554247-9	S	Lo		300		A9 V K0 V	{ -1 }	(A11+2)	[2128]		11	20
+Fore	C	2102	????	X521510-3		Po Ni He Ho	R	400		F9 V	{ -3 }	(643+2)	[5222]		8	144
+Fore	C	2103	????	B485521-A		Ag Ni Pr		930		A7 Ib	{ +2 }	(C43-2)	[475C]		8	-288
+Fore	C	2202	????	X757454-4		Ni Ga Pa Ho Tr	R	300		A7 V	{ -3 }	(231-2)	[3198]		4	-12
+Fore	C	2209	????	B210736-A		Na Pi Ho		300		G2 V	{ +2 }	(66D-4)	[995C]		3	-1872
+Fore	C	2304	????	B420202-E		Lo De Po He		510		K0 VI BD	{ +1 }	(A11+1)	[334G]		7	10
+Fore	C	2306	????	B400552-9	S	Va Ni		200		F0 V	{ +0 }	(744-4)	[3587]		12	-448
+Fore	C	2309	????	B62058A-7		De Po Ni He Co		900		G7 V M5 V	{ -1 }	(643+0)	[4445]		8	72
+Fore	C	2310	????	E583513-5		Ni Pr Co		830		A0 V	{ -3 }	(540+1)	[5212]		8	20
+Fore	D	2501	????	B964563-7		Ag Ni Pr		300		G0 VI	{ +0 }	(545+2)	[4596]		11	200
+Fore	D	2502	????	A647500-B	N	Ag Ni		100		K1 V	{ +2 }	(548-3)	[278C]		7	-480
+Fore	D	2602	????	X799566-2		Ni	R	500		M4 III BD M9 VI	{ -3 }	(B42-1)	[3251]		6	-88
+Fore	D	2603	????	A110578-D		Ni		400		A1 V	{ +1 }	(746+0)	[662G]		9	168
+Fore	D	2607	????	D140347-7	S	Lo De Po Co		230		K9 V M8 VI	{ -3 }	(721+3)	[3153]		8	42
+Fore	D	2608	????	C524103-7		Lo Co		710		M8 V	{ -2 }	(701-1)	[1143]		14	-7
+Fore	D	2610	????	E87A566-9		Wa Ni Co		400		F0 IV	{ -2 }	(741+0)	[434A]		5	28
+Fore	D	2710	????	B6A9105-B	S	Fl Lo Sa		301		K1 V DM DM	{ +1 }	(801+0)	[229B]		9	8
+Fore	D	2805	????	C533443-9		Po Ni Sa		420		G0 V	{ -1 }	(734+0)	[936B]		8	84
+Fore	D	2807	????	C520237-6		Lo De Po He		700		F8 III K1 V	{ -2 }	(711-3)	[1181]		8	-21
+Fore	D	2808	????	D650579-4		De Po Ni		600		K4 V	{ -3 }	(740+0)	[1254]		6	28
+Fore	D	2905	????	C569520-A		Ni Pr Co		500		M6 III	{ +0 }	(B41+2)	[751E]		8	88
+Fore	D	2907	????	C466102-9	S	Lo		220		DF M2 V	{ -1 }	(801+1)	[2124]		8	8
+Fore	D	2910	????	D5A5654-7		Fl Ni		600		K1 V	{ -3 }	(651+3)	[6357]		10	90
+Fore	D	3003	????	B42057A-B		De Po Ni He		110		A8 III F2 V	{ +1 }	(746+0)	[261D]		5	168
+Fore	D	3006	????	B69A577-9		Wa Ni		200		K7 V	{ +0 }	(944+1)	[4519]		5	144
+Fore	D	3107	????	C7BA9DJ-9	S	Fl Hi Wa In Co Co	R	131		M4 III	{ +1 }	(B84-5)	[6A2C]		16	-1760
+Fore	D	3108	????	A454124-E		Lo		720		K8 V M1 V BD M6 VI	{ +1 }	(901+3)	[622D]		10	27
+Fore	D	3201	????	C540635-5		De Po Ni He		30?		K1 V	{ -2 }	(651+1)	[84A9]		2	30
+Fore	D	3204	????	B489631-9		Ni Ri Sa		911		F0 V M3 V DM	{ +1 }	(A52+2)	[9768]		14	200
+Fore	D	3205	????	C866578-5		Ag Ni Ga Pr		200		F4 IV	{ -1 }	(640-3)	[7474]		11	-72
+Fore	D	3206	????	E422203-9		Lo Po He Co		100		F6 V	{ -2 }	(811-3)	[1128]		6	-24
+Fore	E	0112	????	C643785-5		Po Pi		81?		A0 V	{ -1 }	(565-3)	[4644]		10	-450
+Fore	E	0113	????	C788200-7	S	Lo		700		F2 III	{ -2 }	(211+4)	[3117]		8	8
+Fore	E	0116	????	C57527B-7		Lo		80?		K9 V	{ -2 }	(511-1)	[3133]		10	-5
+Fore	E	0211	????	D773599-5		Ni Co Tu		400		K6 V BD	{ -3 }	(340+3)	[9258]		8	36
+Fore	E	0212	????	C67A444-9	S	Wa Ni		500		M8 V BD	{ -1 }	(331+3)	[4386]		4	27
+Fore	E	0213	????	A548155-D		Lo Co		300		K7 V M1 V	{ +1 }	(401+1)	[125C]		8	4
+Fore	E	0214	????	C8C4768-7		Fl		200		G2 V M6 VI	{ -1 }	(869+4)	[6656]		10	1728
+Fore	E	0218	????	B68358B-B		Ni Pr Ho Tr		40?		G8 V DM M4 V	{ +1 }	(745+1)	[367A]		4	140
+Fore	E	0312	????	C666622-8		Ag Ni Ga Ri		32?		A3 II	{ +0 }	(553+1)	[8635]		6	75
+Fore	E	0411	????	B99A344-9		Lo Wa		520		M9 V BD BD BD	{ +0 }	(C21-2)	[1326]		8	-48
+Fore	E	0412	????	D68A777-3		Wa Ri Ho		900		A5 V	{ -1 }	(567-3)	[7655]		8	-630
+Fore	E	0418	????	B7C5565-B	S	Fl Ni		430		G8 V	{ +1 }	(C45+2)	[664E]		13	480
+Fore	E	0513	????	B300666-7	N	Va Na Ni		600		A1 V	{ -1 }	(953+4)	[2544]		6	540
+Fore	E	0516	????	D79A542-7		Wa Ni		120		A1 V	{ -3 }	(840+2)	[427B]		10	64
+Fore	E	0517	????	B540497-8		De Po Ni He		910		K1 V	{ -1 }	(934+0)	[638B]		12	108
+Fore	E	0520	????	E9C5995-8		Fl Hi In		500		K0 V	{ -1 }	(688-3)	[585C]		8	-1152
+Fore	E	0612	????	C5248CD-7	S	Ph Pi	R	700		F4 V	{ -1 }	(273-5)	[7769]		6	-210
+Fore	E	0712	????	XFC8753-4		Fl Ho	R	410		K7 V BD M4 V	{ -2 }	(764+0)	[B521]		13	168
+Fore	E	0716	????	C698014-3		Sa		001		G2 V DM M4 V	{ -2 }	(802-2)	[0000]		9	-32
+Fore	E	0717	????	D56688C-5	S	Ph Pa Ri	A	610		DK BD	{ -1 }	(777+1)	[5756]		12	343
+Fore	E	0720	????	E200401-A		Va Ni		730		F4 V M1 V M5 VI K3 V M1 V	{ -1 }	(731-1)	[831B]		6	-21
+Fore	E	0814	????	E000300-6		As Lo Co		321		K9 V BD	{ -3 }	(A21-3)	[314B]		12	-60
+Fore	E	0815	????	B000433-B	N	As Ni Sa		330		G3 V	{ +1 }	(C34+5)	[257B]		11	720
+Fore	E	0818	????	C100768-9	S	Va Na Pi		50?		F3 V	{ +0 }	(867-3)	[7765]		7	-1008
+Fore	E	0819	????	C3318A9-7		Na Po Ph		910		F4 V M9 V M9 VI BD	{ -1 }	(A77-2)	[B71B]		8	-980
+Fore	E	0820	????	C15068C-9		De Po Ni	A	310		K2 V	{ -1 }	(954-2)	[6547]		6	-360
+Fore	F	0911	????	D658100-3	S	Lo		600		K2 IV BD	{ -3 }	(501-1)	[2135]		4	-5
+Fore	F	0914	????	B575756-7		Ag Pi		700		F1 V M0 V	{ +1 }	(66B+1)	[58A9]		7	396
+Fore	F	0915	????	E510676-5		Na Ni		400		G6 V	{ -3 }	(550-3)	[6318]		11	-75
+Fore	F	0919	????	E300231-4		Va Lo Ho		910		F3 V M7 V K2 V	{ -3 }	(711-1)	[1187]		12	-7
+Fore	F	1012	????	D795556-5	S	Ag Ni		120		G0 VI K3 V BD	{ -2 }	(444+3)	[1343]		13	192
+Fore	F	1016	????	D720210-6		Lo De Po He Ho		330		F4 V K3 V M2 V	{ -3 }	(711+2)	[5193]		14	14
+Fore	F	1111	????	A647668-B		Ag Ni Co Tu		430		G3 V M5 VI	{ +2 }	(853-4)	[887B]		10	-480
+Fore	F	1112	????	B64559E-A	S	Ag Ni Co Tu	R	710		K3 V M0 V	{ +2 }	(748+2)	[673E]		11	448
+Fore	F	1115	????	C456633-9		Ag Ni		700		K3 V BD	{ +0 }	(555-1)	[261C]		11	-125
+Fore	F	1212	Zdovesil	A65588A-9	KM	Cp	
+Fore	F	1214	????	EEDA532-7		Ni Ho		510		B6 V	{ -3 }	(540+5)	[624B]		10	100
+Fore	F	1216	????	A233522-D	S	Po Ni		20?		F2 V M6 V	{ +1 }	(445-5)	[663D]		6	-400
+Fore	F	1218	????	CBB5879-4		Fl Ph		420		G5 V M2 VI	{ -1 }	(977+0)	[8751]		10	441
+Fore	F	1312	????	B9A5645-B		Fl Ni		910		K4 V BD	{ +1 }	(756-4)	[876F]		14	-840
+Fore	F	1314	????	CA65656-8		Ag Ni Ri		800		F3 V	{ +0 }	(452+0)	[6678]		8	40
+Fore	F	1316	????	C534300-7		Lo		820		F5 V K2 V	{ -2 }	(521+4)	[417A]		10	40
+Fore	F	1317	????	B140142-8		Lo De Po Co		520		M3 V BD	{ -1 }	(601-2)	[1148]		8	-12
+Fore	F	1319	????	D9DA777-4				400		F0 V BD	{ -2 }	(96A-2)	[5556]		3	-1080
+Fore	F	1411	????	C410786-9		Na Pi Co		500		K3 V BD	{ +0 }	(96A-3)	[A778]		5	-1620
+Fore	F	1412	????	D687344-3	S	Lo Ga Ho Tr		400		K9 V	{ -3 }	(821+0)	[7173]		9	16
+Fore	F	1416	????	C300569-6		Va Ni		310		F4 IV BD	{ -2 }	(842-2)	[8337]		14	-128
+Fore	F	1419	????	A5A9734-E	N	Fl Sa		101		K1 IV	{ +2 }	(56D+0)	[699A]		6	390
+Fore	F	1519	????	E659102-5		Lo		300		A0 V K0 VI DK	{ -3 }	(B01+1)	[1184]		10	11
+Fore	F	1612	????	D300458-8		Va Ni		400		K2 IV	{ -3 }	(932+0)	[8137]		12	54
+Fore	F	1617	????	D8A29DE-5		Fl Hi In He Ho	R	320		A0 V K0 V	{ -1 }	(685-2)	[8891]		11	-480
+Fore	F	1618	Tlebria	??????-?			
+Fore	F	1619	????	E594876-2		Ph Pa Pi		320		K7 V BD BD	{ -2 }	(777-3)	[8631]		7	-1029
+Fore	F	1620	????	E100484-7		Va Ni Co Sa		111		K1 V	{ -3 }	(632+3)	[2167]		6	108
+Fore	G	1712	????	BEE8267-9		Lo		510		M0 V	{ +0 }	(511+4)	[1224]		12	20
+Fore	G	1813	????	B7A5355-C		Fl Lo Ho		21?		K5 V BD BD	{ +1 }	(221+2)	[1449]		6	8
+Fore	G	1815	????	A100999-C	S	Va Na Hi In		600		F2 II K1 V	{ +3 }	(589+1)	[BC5F]		4	360
+Fore	G	1816	????	A76AABG-E	N	Hi Wa Co	R	100		M5 VI	{ +3 }	(797-5)	[8D3J]		4	-2205
+Fore	G	1817	????	C210652-7		Na Ni Ho		730		G5 V	{ -2 }	(553+3)	[B437]		10	225
+Fore	G	1915	????	C220654-7	S	Na De Po Ni		43?		F8 VI G9 VI K8 VI M4 V	{ -2 }	(A53-2)	[2437]		9	-300
+Fore	G	1920	????	A647532-D		Ag Ni Ho Co Tr		100		O9 III	{ +2 }	(344-4)	[676D]		12	-192
+Fore	G	2017	????	C54646B-6		Ni Pa Ho		32?		K7 V BD	{ -2 }	(A32+1)	[6246]		8	60
+Fore	G	2113	????	C47A345-7	S	Lo Wa		200		F3 V BD	{ -2 }	(721+1)	[414A]		11	14
+Fore	G	2211	????	B677343-8		Lo Ho Tr		600		G1 V M7 V	{ -1 }	(321+3)	[124A]		9	18
+Fore	G	2214	????	E431553-9		Po Ni		400		F3 V M0 V	{ -2 }	(440-1)	[4358]		9	-16
+Fore	G	2311	????	A5229BD-B	NS	Na Hi Po In He	R	100		B3 V	{ +4 }	(A86+1)	[9D1D]		10	480
+Fore	G	2320	????	A852435-8		Po Ni		910		K1 III M2 V BD	{ -1 }	(930+0)	[233C]		9	27
+Fore	G	2412	????	B247887-8		Ph Pa Pi		200		F3 III	{ +0 }	(478+5)	[984B]		10	1120
+Fore	H	2517	????	B59A522-C	S	Wa Ni		300		F3 V M8 VI	{ +1 }	(744+3)	[A619]		4	336
+Fore	H	2518	????	A573EFF-F		Hi In	R	600		M7 V	{ +3 }	(8D7+2)	[EH5E]		4	1456
+Fore	H	2520	????	A896378-A	S	Lo		400		O2 Ib G5 V K3 V	{ +1 }	(A21-1)	[344D]		7	-20
+Fore	H	2611	????	A734152-D		Lo Sa		510		A3 V K8 VI	{ +1 }	(501-1)	[524G]		14	-5
+Fore	H	2613	????	C656037-7		Ga		000		K1 V BD M7 VI M1 V	{ -2 }	(B02+1)	[0000]		10	22
+Fore	H	2614	????	E9A5312-6		Fl Lo Co		200		A6 III	{ -3 }	(421+2)	[1178]		7	16
+Fore	H	2615	????	C000479-8		As Ni		500		G6 V BD	{ -2 }	(630+1)	[5229]		9	18
+Fore	H	2616	????	AEF8478-C		Ni Co		410		M5 V	{ +1 }	(936+3)	[556C]		11	486
+Fore	H	2712	????	E651343-7		Lo Po		800		K6 V	{ -3 }	(421+0)	[315A]		9	8
+Fore	H	2715	????	C300AFC-A		Va Na Hi In Co	R	131		G0 V	{ +2 }	(99C+0)	[CC57]		9	972
+Fore	H	2811	????	B695579-B	N	Ag Ni		600		M2 V BD BD BD BD	{ +2 }	(543-4)	[576E]		8	-240
+Fore	H	2812	????	D41036B-8	S	Lo Co		610		F4 V	{ -3 }	(721-3)	[4157]		9	-42
+Fore	H	2814	????	DDB8352-4		Fl Lo Ho		500		A8 V	{ -3 }	(221+3)	[7163]		9	12
+Fore	H	2820	????	E30037B-7		Va Lo		630		K8 V	{ -3 }	(721+0)	[6154]		12	14
+Fore	H	2920	????	D579566-4		Ni Ho		430		DK M0 V	{ -3 }	(740+3)	[9266]		10	84
+Fore	H	3013	????	B9D8665-6		Ni Sa		530		M5 V M7 VI	{ -1 }	(552+0)	[3525]		12	50
+Fore	H	3014	????	B5A7100-C	N	Fl Lo		600		G2 IV	{ +1 }	(601+4)	[128C]		5	24
+Fore	H	3015	????	B554956-9	S	Hi Ho		130		K6 V BD	{ +2 }	(A8A+2)	[CB39]		10	1600
+Fore	H	3018	????	E9DA586-5		Ni		500		M0 V	{ -3 }	(640+3)	[5273]		7	72
+Fore	H	3020	????	C222761-7	S	Na Po Pi		930		G9 V	{ -1 }	(267-1)	[6618]		9	-84
+Fore	H	3111	????	B245120-8	N	Lo Co		300		DG	{ -1 }	(501-3)	[5119]		8	-15
+Fore	H	3115	????	C655410-7	S	Ni Ga Pa Sa		701		A6 V	{ -2 }	(630-2)	[9237]		12	-36
+Fore	H	3116	????	C130351-C		Lo De Po Co		921		K7 V M4 VI BD	{ +0 }	(721+3)	[1348]		7	42
+Fore	H	3119	????	B610110-A	NS	Lo		220		A9 V K6 VI	{ +2 }	(801-1)	[2359]		12	-8
+Fore	H	3212	????	C720452-B		De Po Ni He Ho		600		K8 V	{ +0 }	(A34+1)	[245C]		10	120
+Fore	H	3214	????	C7655A9-7		Ag Ni Ga Pr		800		F3 V M1 V	{ -1 }	(742+0)	[6447]		6	56
+Fore	H	3215	????	C200337-9		Va Lo		43?		A5 V K4 V	{ -1 }	(821+1)	[325B]		13	16
+Fore	H	3217	????	E62468B-7		Ni Fr Sa		321		M0 V BD	{ -3 }	(950-2)	[7357]		14	-90
+Fore	I	0129	????	C431210-A	S	Lo Po Co		720		F0 V	{ +0 }	(D11-3)	[226B]		8	-39
+Fore	I	0130	????	D310664-7	S	Na Ni Ho		110		K1 V BD	{ -3 }	(250+1)	[7383]		9	10
+Fore	I	0223	????	B789564-C		Ni Pr Sa		900		G8 V	{ +1 }	(247+4)	[566A]		7	224
+Fore	I	0224	????	E557676-1		Ag Ni Ho		530		O3 V G5 VI	{ -2 }	(550+1)	[5485]		9	25
+Fore	I	0226	????	D868203-8		Lo		300		M6 II	{ -3 }	(911+0)	[4178]		7	9
+Fore	I	0227	????	C654151-6		Lo Co Tu		800		F7 V	{ -2 }	(501+4)	[4134]		5	20
+Fore	I	0422	????	A568888-A	NS	Ph Pa Ri Ho		200		F1 V	{ +4 }	(97A+0)	[AC9B]		7	630
+Fore	I	0424	????	A444450-F	N	Ni Pa		700		K1 V	{ +1 }	(835+4)	[755B]		8	480
+Fore	I	0426	????	E63359B-3		Po Ni	A	720		M8 II	{ -3 }	(541+2)	[7241]		9	40
+Fore	I	0526	????	E412651-8		Ic Na Ni		930		K6 V M2 V BD	{ -3 }	(751-1)	[7379]		15	-35
+Fore	I	0527	????	C43889C-6		Ph Co	A	101		K7 V BD	{ -1 }	(579+2)	[A79A]		6	630
+Fore	I	0623	????	A877734-B	NS	Ag Pi		300		O7 V K7 VI K4 V F4 V	{ +4 }	(46C-3)	[5B38]		5	-864
+Fore	I	0723	????	E556675-2		Ag Ni Co		800		M5 V	{ -2 }	(851+0)	[5453]		13	40
+Fore	I	0730	????	E430568-9		De Po Ni		200		F5 III M6 V	{ -2 }	(442-2)	[1369]		8	-64
+Fore	I	0822	????	D73768C-6	S	Ni Co	A	700		G6 II	{ -3 }	(850-1)	[B379]		4	-40
+Fore	I	0825	????	E120400-B		De Po Ni		600		M1 II	{ -1 }	(B34-2)	[7369]		4	-264
+Fore	J	0926	????	E258875-4		Ph Pa		930		K0 V BD M8 V	{ -2 }	(973+2)	[9643]		13	378
+Fore	J	0930	????	A433120-B		Lo Po		900		K5 V BD	{ +1 }	(A01-3)	[226B]		3	-30
+Fore	J	1026	????	A851599-8		Po Ni		130		K2 V DM M0 V	{ -1 }	(544-2)	[3458]		10	-160
+Fore	J	1124	????	C62759D-5		Ni	R	920		A6 III K4 V M7 V	{ -2 }	(741+5)	[1327]		9	140
+Fore	J	1126	????	B000769-B		As Na Pi Ho		600		K8 V	{ +2 }	(76B-1)	[39AC]		11	-462
+Fore	J	1224	????	C220CEF-C	S	Na Hi De Po In Ho	R	330		F7 III	{ +2 }	(6BC+0)	[9E2H]		10	792
+Fore	J	1325	????	D445464-6		Ni Pa Re		730		F0 V	{ -3 }	(731+5)	[1164]		10	105
+Fore	J	1329	????	C440520-A		De Po Ni He Co		230		F7 V M6 VI	{ +0 }	(942-3)	[3565]		11	-216
+Fore	J	1330	????	B120853-C	N	Na De Po Ph Pi		130		K6 V	{ +2 }	(A7C-3)	[7A3C]		12	-2520
+Fore	J	1422	????	C876334-4		Lo		910		K0 V BD	{ -2 }	(A21-3)	[3194]		6	-60
+Fore	J	1423	????	E530303-9		Lo De Po		330		M8 V	{ -2 }	(D21+4)	[516C]		14	104
+Fore	J	1426	????	C8A7478-5		Fl Ni		91?		A6 V	{ -2 }	(730+1)	[5238]		9	21
+Fore	J	1427	????	A898574-8	S	Ag Ni		600		A2 V G8 VI K0 V	{ +0 }	(946+3)	[A56A]		12	648
+Fore	J	1428	????	C420CFG-E		Na Hi De Po In He Co	R	601		K2 V	{ +2 }	(4BB+2)	[CE1B]		10	968
+Fore	J	1429	????	E459001-5		Ho Sa		021		A4 V M1 V K8 VI	{ -3 }	(905+4)	[0000]		12	180
+Fore	J	1523	????	D255478-6		Ni Pa		430		F5 V M2 V	{ -3 }	(832+3)	[613A]		6	144
+Fore	J	1528	????	B22358D-B		Po Ni Co	A	100		K7 V	{ +1 }	(744-2)	[564D]		6	-224
+Fore	J	1622	????	B767200-C		Lo Ga		900		G2 II BD M2 V	{ +1 }	(611-3)	[3339]		8	-18
+Fore	J	1628	????	A754400-B	S	Ni Pa		920		K4 V BD	{ +1 }	(A35-4)	[5538]		10	-600
+Fore	J	1630	????	E767534-6		Ag Ni Ga Pr Ho Tr		920		K3 II	{ -2 }	(643-2)	[3387]		11	-144
+Fore	K	1724	????	B443877-7	S	Po Ph Pi		410		F6 V	{ +0 }	(875+0)	[5816]		9	280
+Fore	K	1725	????	A8837BA-9		Ri Co Tu	A	230		F9 V DK	{ +2 }	(E69-1)	[3958]		7	-756
+Fore	K	1726	????	C366334-7		Lo		50?		A9 Ia K8 V	{ -2 }	(821+0)	[6156]		4	16
+Fore	K	1728	????	A7A6520-D	N	Fl Ni		800		M6 II BD	{ +1 }	(943-3)	[564E]		12	-324
+Fore	K	1729	????	C656A9A-8		Hi Ga		720		K8 V BD BD	{ +0 }	(E97+1)	[EA79]		8	882
+Fore	K	1822	????	B21069B-7		Na Ni Co	A	701		M4 V	{ -1 }	(353+3)	[856A]		7	135
+Fore	K	1828	????	A5687A7-9	N	Ag Ri Ho		820		O8 V	{ +3 }	(E6D+1)	[6A56]		13	1092
+Fore	K	1926	????	D510469-4	S	Ni		500		F7 IV M6 V	{ -3 }	(730+5)	[7165]		8	105
+Fore	K	1927	????	X767686-?		Ag Ni Ga Ri	R	600		A0 V	{ -1 }	(750+2)	[4531]		7	70
+Fore	K	2021	????	CDFA466-8		Ni Ho		630		G6 V	{ -2 }	(730+1)	[9279]		6	21
+Fore	K	2022	????	A63156A-D		Po Ni Co		510		F3 V K3 V	{ +1 }	(A47-3)	[465D]		6	-840
+Fore	K	2023	????	C88A88A-7	S	Wa Ph Ri Co		700		M9 V BD M8 VI	{ +0 }	(478+1)	[9883]		4	224
+Fore	K	2121	????	B58A588-B		Wa Ni Pr Co		320		M6 V BD	{ +1 }	(E46+0)	[265A]		10	336
+Fore	K	2123	????	C7A5799-7	S	Fl		500		DM M3 V	{ -1 }	(664+2)	[567B]		3	288
+Fore	K	2128	????	C565258-5		Lo		620		F2 V M1 V BD	{ -2 }	(411-4)	[1133]		12	-16
+Fore	K	2225	????	C875554-9		Ag Ni Co Tu		900		A8 V K1 V K0 V	{ +0 }	(844+3)	[A535]		9	384
+Fore	K	2230	????	B656000-6	N	Ba Ga Di		000		K1 VI M5 VI BD	{ -1 }	(703+2)	[0000]		7	42
+Fore	K	2325	????	E99A488-9		Wa Ni Ho		400		A1 II M3 VI	{ -2 }	(230+4)	[4245]		12	24
+Fore	K	2326	????	B865388-8		Lo Ga		730		A4 III	{ -1 }	(821-1)	[425D]		8	-16
+Fore	K	2328	????	D343320-7	S	Lo Po		800		F2 V M6 V	{ -3 }	(721+0)	[2166]		9	14
+Fore	K	2422	????	E630465-6		De Po Ni Re		500		A2 IV	{ -3 }	(B32+0)	[5198]		5	66
+Fore	K	2427	????	B7C6777-6		Fl Co		800		K9 V BD	{ +0 }	(466-1)	[C784]		6	-144
+Fore	K	2428	????	A522565-C		Po Ni He Co		301		G0 V	{ +1 }	(845+4)	[667B]		7	640
+Fore	K	2429	????	C735894-5	S	Ph Ho		30?		A6 V M8 VI	{ -1 }	(974+1)	[7798]		9	252
+Fore	K	2430	????	E224833-4		Ph Pi Ho Sa		51?		F1 V	{ -2 }	(674+0)	[C677]		6	168
+Fore	L	2523	Hollis	A370642-C	NS	De Ni	
+Fore	L	2527	????	E200300-5		Va Lo		610		K3 V	{ -3 }	(821-1)	[1136]		9	-16
+Fore	L	2528	????	C659466-7	S	Ni Co		831		M2 III	{ -2 }	(832-3)	[1235]		12	-144
+Fore	L	2623	????	A96A48B-B	S	Wa Ni Co		400		A8 V K3 V	{ +1 }	(A35-3)	[357E]		13	-450
+Fore	L	2724	????	C646005-5		Ho Tr		000		DA	{ -2 }	(904+0)	[0000]		7	36
+Fore	L	2822	????	B466654-C	N	Ag Ni Ri Co		400		F1 V	{ +3 }	(C56+1)	[394E]		6	360
+Fore	L	2823	????	C455588-5		Ag Ni		620		A0 IV M1 V	{ -1 }	(741+0)	[5474]		12	28
+Fore	L	2829	????	B436640-A		Ni		100		O1 II	{ +1 }	(854-4)	[474A]		11	-640
+Fore	L	2923	????	A562544-A		Ni Pr Co		420		K1 V BD M1 VI	{ +1 }	(546+1)	[764B]		11	120
+Fore	L	2924	????	C676336-9		Lo		100		O3 III	{ -1 }	(821+1)	[128A]		8	16
+Fore	L	2925	????	E548420-2		Ni Pa Co		900		F7 IV	{ -3 }	(631-1)	[1151]		10	-18
+Fore	L	2926	????	A200665-B	N	Va Na Ni Ho		91?		B0 III G0 V DK	{ +1 }	(252+0)	[2788]		7	20
+Fore	L	2927	????	B877053-8	S			000		F5 V	{ -1 }	(408+5)	[0000]		9	160
+Fore	L	3021	????	A369549-C	N	Ni Pr		900		A9 V K4 V K3 V	{ +1 }	(342+2)	[164F]		7	48
+Fore	L	3027	????	C100425-B		Va Ni Ho		520		K7 V	{ +0 }	(C34-3)	[645C]		8	-432
+Fore	L	3028	????	C8A7553-A	S	Fl Ni		810		M5 V BD	{ +0 }	(B46+0)	[653B]		9	264
+Fore	L	3126	????	D552458-4	S	Po Ni Co Co		601		A8 V M0 V G7 VI	{ -3 }	(431-1)	[6156]		10	-12
+Fore	L	3129	????	E631200-5		Lo Po Ho Sa		300		K3 V BD BD	{ -3 }	(311+4)	[1153]		3	12
+Fore	L	3227	????	A954211-C		Lo Co		410		G8 IV BD	{ +1 }	(711-1)	[136A]		7	-7
+Fore	L	3229	Alenzar	C000414-9		As Ni	
+Fore	L	3230	Raschev	C8697C4-6			
+Fore	M	0131	????	C30088A-5		Va Na Ph Pi		200		G1 IV K4 VI DM	{ -1 }	(37B-3)	[7777]		12	-693
+Fore	M	0135	????	A625234-9		Lo Ho		130		K9 V DM	{ +0 }	(E11-3)	[228E]		6	-42
+Fore	M	0136	????	E744696-6		Ag Ni		430		K2 II	{ -2 }	(853-1)	[2418]		9	-120
+Fore	M	0232	????	DFD9100-9	S	Lo		100		K6 V	{ -2 }	(601-3)	[2198]		6	-18
+Fore	M	0235	????	B653320-8		Lo Po Co		13?		M3 II	{ -1 }	(B21+3)	[6257]		9	66
+Fore	M	0236	????	C765448-7		Ni Ga Pa		100		G2 V	{ -2 }	(534+2)	[5289]		5	120
+Fore	M	0239	????	E598561-5		Ag Ni		610		F1 III M2 V	{ -2 }	(442+4)	[1345]		7	128
+Fore	M	0332	????	C140722-8	S	De Po Pi		900		A6 V K6 VI	{ -1 }	(868+0)	[9615]		5	384
+Fore	M	0335	????	C2007CF-A	S	Va Na Pi Co	R	300		M2 V BD M0 V	{ +1 }	(767+2)	[781B]		12	588
+Fore	M	0336	????	E778212-4		Lo		400		A6 IV DG	{ -3 }	(311-1)	[1176]		7	-3
+Fore	M	0431	????	A347752-D		Ag Pi Sa		50?		A7 V M6 VI	{ +3 }	(66F-3)	[6A3C]		5	-1620
+Fore	M	0436	????	E867737-1		Ag Ga Ri Ho Co Tr		120		F0 V DM	{ +0 }	(764+2)	[9712]		11	336
+Fore	M	0437	????	A69A765-C	N	Wa Pi Co		300		F4 V	{ +2 }	(768+4)	[5968]		9	1344
+Fore	M	0439	????	B323641-8		Na Po Ni Co		120		G6 V	{ -1 }	(950+2)	[6537]		10	90
+Fore	M	0538	????	C631674-6		Na Po Ni Co		500		A2 V	{ -2 }	(451+0)	[8499]		7	20
+Fore	M	0633	????	D243786-2	S	Po Pi Ho		100		K9 V	{ -2 }	(360+0)	[A582]		4	18
+Fore	M	0634	????	C98A523-6	S	Wa Ni Pr		800		A1 III G8 V	{ -2 }	(940-1)	[5339]		3	-36
+Fore	M	0639	????	C668741-3		Ag Ri		500		A8 IV	{ +1 }	(668+1)	[A817]		10	288
+Fore	M	0732	????	X435876-0		Ph	R	730		A6 V DK G3 V M6 VI	{ -2 }	(874+0)	[B642]		14	224
+Fore	M	0734	????	B532362-B	S	Lo Po Co		400		A5 V DK	{ +1 }	(B21+2)	[541C]		9	44
+Fore	M	0735	????	B578386-7		Lo Co		920		F6 V M2 V	{ -1 }	(B21-2)	[1228]		11	-44
+Fore	M	0837	????	B510347-9		Lo Co Co		400		M9 V	{ +0 }	(621+0)	[131A]		10	12
+Fore	M	0839	????	C66877B-8	S	Ag Ri		610		F2 V	{ +1 }	(867-4)	[6857]		8	-1344
+Fore	M	0840	????	C4439EE-6		Hi Po In	R	820		M2 V	{ +0 }	(985-1)	[5923]		10	-360
+Fore	N	0935	????	X59A532-5		Wa Ni	R	420		K0 V BD	{ -3 }	(C41+2)	[6274]		8	96
+Fore	N	1032	????	B577466-A	S	Ni Pa		520		A2 III M0 V	{ +1 }	(C34-3)	[157E]		9	-432
+Fore	N	1039	????	X466974-3		Hi Pr Ri Ho	R	220		G4 V BD	{ +0 }	(A85+0)	[9928]		13	400
+Fore	N	1139	????	B645372-9	NS	Lo		210		K9 V	{ +1 }	(621+4)	[4449]		10	48
+Fore	N	1140	????	D310551-7	S	Ni		930		K1 III M6 V M1 V	{ -3 }	(343+0)	[5253]		15	36
+Fore	N	1234	????	D644421-6	S	Ni Pa		930		F6 V K7 VI K4 V	{ -3 }	(930-2)	[5197]		13	-54
+Fore	N	1239	????	A678673-B		Ag Ni Ho		600		F2 V M5 V	{ +2 }	(A54-2)	[887D]		11	-400
+Fore	N	1240	????	D454497-6	S	Ni Pa Ho		500		A7 V	{ -3 }	(433+2)	[1172]		9	72
+Fore	N	1335	????	A459379-A		Lo		430		K7 V M2 V M1 V	{ +1 }	(A21-2)	[343B]		9	-40
+Fore	N	1432	????	D669000-5	S	Ba Di		000		F9 V K0 V	{ -3 }	(407+4)	[0000]		4	112
+Fore	N	1534	????	B57788B-9		Ph Pa Pi		600		K2 V M0 V	{ +1 }	(578+3)	[6956]		7	840
+Fore	N	1536	????	E696166-7		Lo Co Tu		930		M7 V BD	{ -3 }	(B01+4)	[1169]		15	44
+Fore	N	1539	????	B510620-A		Na Ni Sa		201		A9 III M1 V G0 V	{ +1 }	(755+1)	[6759]		9	175
+Fore	N	1631	????	B150100-B		Lo De Po Co		800		M4 V BD	{ +1 }	(601+1)	[629D]		6	6
+Fore	N	1632	????	C654523-6		Ag Ni		600		F7 IV M1 VI	{ -1 }	(940-3)	[4434]		12	-108
+Fore	N	1634	????	B621222-A		Lo Po He Co		500		G5 V BD	{ +1 }	(911-2)	[336C]		8	-18
+Fore	N	1636	Avalar	A75599C-C	K	Cp	
+Fore	N	1637	????	C160103-8		Lo De		910		G3 V M1 V	{ -2 }	(A01-1)	[2166]		7	-10
+Fore	N	1639	????	E254779-5		Ag		420		K7 V BD	{ -1 }	(465+3)	[4672]		12	360
+Fore	N	1640	????	A424499-A	N	Ni Px Co		311		K7 V BD	{ +1 }	(836-3)	[7527]		11	-432
+Fore	O	1734	????	B996774-5		Ag Pi Co Tu		100		F4 V	{ +1 }	(367+1)	[5846]		8	126
+Fore	O	1738	????	B610235-8		Lo		600		M6 V	{ -1 }	(A11-1)	[3159]		12	-10
+Fore	O	1739	????	A8355AD-C		Ni Co	R	900		K3 IV BD M7 VI	{ +1 }	(747-5)	[167A]		4	-980
+Fore	O	1833	????	X7697CD-1		Ri Ho	R	820		F4 V M9 V BD	{ -1 }	(369+0)	[6691]		9	162
+Fore	O	1834	????	B120665-D		Na De Po Ni		80?		A0 V	{ +1 }	(B53+4)	[A76D]		3	660
+Fore	O	1840	????	B353031-A	NS	Po Co		000		G1 V M7 VI	{ +2 }	(609+0)	[0000]		10	54
+Fore	O	1936	????	D642699-2	S	Po Ni He		300		K5 III	{ -3 }	(A50-3)	[3382]		8	-150
+Fore	O	1938	????	C68A768-5		Wa Ri		730		A7 III	{ +0 }	(565+4)	[7773]		10	600
+Fore	O	2040	????	D100331-7	S	Va Lo		600		F1 V M1 V BD	{ -3 }	(721+2)	[1169]		6	28
+Fore	O	2135	????	D6A67BA-4	S	Fl	A	800		M7 V	{ -2 }	(462+1)	[3575]		5	48
+Fore	O	2136	????	C786598-4		Ag Ni Ga Pr		700		F0 IV K1 V M3 V	{ -1 }	(842+3)	[3424]		9	192
+Fore	O	2137	????	C333320-B		Lo Po		100		F1 IV DM M4 V	{ +0 }	(521+2)	[136A]		6	20
+Fore	O	2231	????	D579110-7		Lo		210		G7 V M9 VI M9 VI	{ -3 }	(701+2)	[1126]		9	14
+Fore	O	2236	????	C534985-7	S	Hi		900		G2 V	{ +0 }	(387+3)	[9925]		9	504
+Fore	O	2237	????	X520454-2		De Po Ni He Co	R	600		K0 V	{ -3 }	(233+1)	[2131]		3	18
+Fore	O	2334	????	B2109BC-B	N	Na Hi In	R	200		O8 IV	{ +3 }	(98A+1)	[9C5F]		8	720
+Fore	O	2335	????	C210302-9	S	Lo Co		300		G9 V	{ -1 }	(921+2)	[1226]		8	36
+Fore	O	2431	????	C200997-A		Va Na Hi In Ho		910		K5 III	{ +2 }	(B88-1)	[8B5C]		8	-704
+Fore	O	2433	????	C545511-9	S	Ag Ni		500		M7 V BD	{ +0 }	(345+1)	[4555]		12	60
+Fore	P	2532	????	D5316A9-6		Na Po Ni Px		900		F1 V	{ -3 }	(653+0)	[1367]		8	90
+Fore	P	2537	????	A9DA634-C		Ni		900		F7 V M9 V M5 V	{ +1 }	(657+4)	[272D]		10	840
+Fore	P	2632	????	B10068A-D		Va Na Ni Co		500		DA K3 V	{ +1 }	(957-1)	[875D]		5	-315
+Fore	P	2634	????	E665565-3		Ag Ni Ga Pr		110		G0 V M6 V BD	{ -2 }	(942+0)	[9345]		8	72
+Fore	P	2731	????	E223155-5		Lo Po Co		130		K9 V	{ -3 }	(C01+1)	[319A]		9	12
+Fore	P	2736	????	B663632-8		Ni Ri		500		K4 V	{ +0 }	(852+5)	[561C]		10	400
+Fore	P	2739	????	C11099A-9		Na Hi In		530		K4 V BD	{ +1 }	(C85+1)	[8A65]		9	480
+Fore	P	2740	????	A9A8776-A		Fl		800		F9 V K4 V K1 V M4 VI	{ +2 }	(968+2)	[795A]		7	864
+Fore	P	2833	????	B862353-9		Lo		830		F9 V	{ +0 }	(A21+2)	[237B]		10	40
+Fore	P	2834	????	C336479-B		Ni		900		F7 V	{ +0 }	(934+4)	[942A]		9	432
+Fore	P	2835	????	B36A67A-9		Wa Ni Ri Ho		510		K7 V M1 VI BD	{ +1 }	(B56-4)	[B79C]		10	-1320
+Fore	P	2836	????	B224546-C	N	Ni Px Ho		800		F9 V K0 V M5 VI	{ +1 }	(547+1)	[767F]		11	140
+Fore	P	2838	????	E58A345-6		Lo Wa		530		F5 V K5 VI	{ -3 }	(621-1)	[3127]		9	-12
+Fore	P	2934	????	C00067A-B		As Na Ni Co		50?		M0 V BD M5 VI	{ +0 }	(B54-2)	[7648]		11	-440
+Fore	P	2935	????	C465278-9		Lo Ho		720		F4 V M4 V	{ -1 }	(911-4)	[213E]		11	-36
+Fore	P	2937	????	C120666-6		Na De Po Ni		130		A3 IV K9 VI G3 V DM	{ -2 }	(654+1)	[94A3]		10	120
+Fore	P	2938	????	A362556-E		Ni Pr		910		F6 V	{ +1 }	(745+2)	[161B]		9	280
+Fore	P	2940	????	C622544-9	S	Po Ni He Ho		500		K5 V	{ -1 }	(343-4)	[745B]		9	-144
+Fore	P	3034	????	E776651-2		Ag Ni Co Tu		610		A7 III G8 VI G0 V	{ -2 }	(752+5)	[9497]		8	350
+Fore	P	3035	????	C9DA68C-7		Ni Sa	A	500		F4 V G6 VI	{ -2 }	(A51+3)	[6455]		7	150
+Fore	P	3037	????	E336405-9		Ni		11?		G2 V M7 VI	{ -2 }	(830-5)	[5269]		5	-120
+Fore	P	3131	????	B864874-7	S	Ph Pa Ri		200		K9 V BD	{ +1 }	(77C-2)	[794A]		9	-1176
+Fore	P	3134	????	D242456-6		Po Ni		710		K3 V	{ -3 }	(930-5)	[4156]		9	-135
+Fore	P	3135	????	E649767-2		Pi		910		K5 V	{ -2 }	(366+4)	[8537]		11	432
+Fore	P	3232	????	A000596-C	S	As Ni Co		610		M0 V BD	{ +1 }	(846-1)	[361C]		10	-192
+Fore	P	3238	????	B130144-9	NS	Lo De Po Ho		900		F2 V M8 VI	{ +1 }	(701+1)	[1279]		8	7

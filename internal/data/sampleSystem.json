@@ -1,0 +1,64 @@
+{
+	"Name": "Ganiba",
+	"SectorAbbr": "Fore",
+	"Sector":"Foreven",
+	"SectorHex":"3028",
+	"UWP": "A7897A9-B",
+	"TravelZone":"Green",
+	"Bases":"N",
+	"TradeClassifications":[
+		"Ri"
+	],
+	"PopulationDigit":3,
+	"PlanetoidBelts":0,
+	"GasGiants":2,
+	"TotalWorlds":11,
+	"Allegiance":"CsIm",
+	"Importance":3,
+	"Economic":{
+		"Resources":7,
+		"Labor":6,
+		"Infrastructure":7,
+		"Efficiency":2
+	},
+	"Cultural":{
+		"Homogenity":6,
+		"Acceptance":10,
+		"Strangeness":5,
+		"Symbols":13
+	},
+	"Nobility":{
+		"Knight":true,
+		"Baron":true
+	},
+	"ResourceUnits":588,
+	"Stellar":{ 
+		"Primary":{
+			"SpectralType": "K",
+			"SpectralDecimal": 4,
+			"SpectralSize": "V",
+			"HabitableZoneOrbit": 2
+		},
+		"Secondary":{
+			"SpectralType": "M",
+			"SpectralDecimal": 0,
+			"SpectralSize": "D",
+			"HabitableZoneOrbit": 0,
+			"Orbit":7,
+			"Companion": {
+				"SpectralType": "BD",
+				"SpectralDecimal": 0,
+				"SpectralSize": "",
+				"HabitableZoneOrbit": 0,
+				"Orbit":0
+				}
+		},
+		"Tertiary":{
+			"SpectralType": "BD",
+			"SpectralDecimal": 0,
+			"SpectralSize": "",
+			"HabitableZoneOrbit": 0,
+			"Orbit":14
+		}
+	}
+}

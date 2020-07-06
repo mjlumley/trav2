@@ -1,0 +1,8 @@
+{
+    "DatabaseFile": "./traveller.db",
+    "DataDir":"./data/",
+    "WorldOutputFile": "worlds.tab",
+    "SectorOutputFile": "sector.tab",
+    "WorldGenNumber": 16,
+    "ForevenFile": "foreven.tab"
+}

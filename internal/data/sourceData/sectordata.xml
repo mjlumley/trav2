@@ -1,0 +1,3580 @@
+<Universe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Sector Abbreviation="Caes" Tags="Official OTU">
+<X>0</X>
+<Y>-21</Y>
+<Milieu>M1105</Milieu>
+<Name>Caesillian</Name>
+</Sector>
+<Sector Abbreviation="Chti" Tags="OTU">
+<X>-7</X>
+<Y>-8</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chtierabl</Name>
+</Sector>
+<Sector Abbreviation="Dats" Tags="OTU">
+<X>-5</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name>Datsatl</Name>
+</Sector>
+<Sector Abbreviation="Gakg" Tags="OTU">
+<X>-4</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Gakghang</Name>
+<Name Lang="zh">Ianshaplzdier</Name>
+</Sector>
+<Sector Abbreviation="Thak" Tags="OTU">
+<X>-3</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Thaku Fung</Name>
+<Name Lang="zh">Zhiaqrqiats</Name>
+</Sector>
+<Sector Abbreviation="Rzak" Tags="OTU">
+<X>-2</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Rzakki</Name>
+</Sector>
+<Sector Abbreviation="List" Tags="OTU">
+<X>-1</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Listanaya</Name>
+</Sector>
+<Sector Abbreviation="Vegf" Tags="OTU">
+<X>0</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Veg Fergakh</Name>
+<Name Lang="va" Source="Underdeveloped">Veg Vergakh</Name>
+</Sector>
+<Sector Abbreviation="Dfot" Tags="OTU">
+<X>1</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Dfotseth</Name>
+<Name Lang="va">Ugulorkurr</Name>
+</Sector>
+<Sector Abbreviation="Irug" Tags="OTU">
+<X>2</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Irugangog</Name>
+<Name Lang="va" Source="Underdeveloped">Irugangong</Name>
+<Name Lang="va">Ksongrru</Name>
+</Sector>
+<Sector Abbreviation="Fing" Tags="OTU">
+<X>3</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Finggvakhou</Name>
+</Sector>
+<Sector Abbreviation="Zort" Tags="OTU">
+<X>4</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name>Zortakh</Name>
+</Sector>
+<Sector Abbreviation="Span" Tags="OTU">
+<X>5</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name>Spangele</Name>
+</Sector>
+<Sector Abbreviation="Nadi" Tags="OTU">
+<X>6</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name>Nadir</Name>
+</Sector>
+<Sector Abbreviation="Harb" Tags="OTU">
+<X>7</X>
+<Y>-5</Y>
+<Milieu>M1105</Milieu>
+<Name>Harbinger</Name>
+</Sector>
+<Sector Abbreviation="Chit" Tags="OTU">
+<X>-5</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chit Botshti</Name>
+<Name Lang="va">Ugoede</Name>
+</Sector>
+<Sector Abbreviation="Ghoe" Tags="OTU">
+<X>-4</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Ghoekhnael</Name>
+<Name Lang="zh">Anzsidiadl</Name>
+</Sector>
+<Sector Abbreviation="Ksin" Tags="OTU">
+<X>-3</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Ksinanirz</Name>
+<Name Lang="zh">Zheranzanj</Name>
+</Sector>
+<Sector Abbreviation="Zaok" Tags="OTU">
+<X>-2</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Zao Kfeng Ig Grilokh</Name>
+</Sector>
+<Sector Abbreviation="Knae" Tags="OTU">
+<X>-1</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Knaeleng</Name>
+</Sector>
+<Sector Abbreviation="Khar" Tags="OTU">
+<X>0</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Kharrthon</Name>
+</Sector>
+<Sector Abbreviation="Oegh" Tags="OTU">
+<X>1</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Oeghz Vaerrghr</Name>
+</Sector>
+<Sector Abbreviation="Kfaz" Tags="OTU">
+<X>2</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Kfazz Ghik</Name>
+</Sector>
+<Sector Abbreviation="Angf" Tags="OTU">
+<X>3</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Angfutsag</Name>
+<Name Lang="va">Gzerzarssou</Name>
+<Name>Puragaaku</Name>
+</Sector>
+<Sector Abbreviation="Rfig" Tags="OTU">
+<X>4</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Rfigh</Name>
+</Sector>
+<Sector Abbreviation="Tarx" Tags="OTU">
+<X>5</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Tar'G'kell'p</Name>
+</Sector>
+<Sector Abbreviation="Ktee" Tags="OTU">
+<X>6</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Kteex!</Name>
+</Sector>
+<Sector Abbreviation="Koog" Tags="OTU">
+<X>7</X>
+<Y>-4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Koog</Name>
+</Sector>
+<Sector Abbreviation="Sidi" Tags="OTU">
+<X>-8</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Sidiadl</Name>
+</Sector>
+<Sector Abbreviation="Zdie" Tags="OTU">
+<X>-7</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdiedeiant</Name>
+</Sector>
+<Sector Abbreviation="Stia" Tags="OTU">
+<X>-6</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Stiatlchepr</Name>
+</Sector>
+<Sector Abbreviation="Itvi" Tags="OTU">
+<X>-5</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Itvikiastaf</Name>
+<Name Lang="va">Aerenfors</Name>
+</Sector>
+<Sector Abbreviation="Knoe" Tags="OTU">
+<X>-4</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Knoellighz</Name>
+<Name Lang="va" Source="Consolidated Traveller Region Name List">Khoellighz</Name>
+<Name Lang="zh">Tlabrieish</Name>
+</Sector>
+<Sector Abbreviation="Dhue" Tags="OTU">
+<X>-3</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Dhuerorrg</Name>
+<Name Lang="zh">Tazhdapl</Name>
+</Sector>
+<Sector Abbreviation="Ngat" Tags="OTU">
+<X>-2</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Ngathksirz</Name>
+</Sector>
+<Sector Abbreviation="Fadz" Tags="OTU">
+<X>-1</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Fa Dzaets</Name>
+</Sector>
+<Sector Abbreviation="Gzae" Tags="OTU">
+<X>0</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Gzaekfueg</Name>
+<Name Lang="va" Source="Unknown">Gzaekfueg</Name>
+</Sector>
+<Sector Abbreviation="Gash" Tags="InReview OTU">
+<X>1</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name>Gashikan</Name>
+<Name Lang="va">Lloellerz</Name>
+</Sector>
+<Sector Abbreviation="Tren" Tags="InReview OTU">
+<X>2</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name>Trenchans</Name>
+<Name>Trenchan</Name>
+<Name Lang="va">Rukhs Dall</Name>
+</Sector>
+<Sector Abbreviation="Ktii" Tags="OTU">
+<X>3</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Ktiin'gzat</Name>
+<Name Lang="va">Ogzuekhfos</Name>
+</Sector>
+<Sector Abbreviation="Mugh" Tags="OTU">
+<X>4</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Mugheen't</Name>
+<Name Lang="va">Ogadogorz</Name>
+</Sector>
+<Sector Abbreviation="Grik" Tags="OTU">
+<X>5</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Grikr!ng</Name>
+</Sector>
+<Sector Abbreviation="Ukaa" Tags="OTU">
+<X>6</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Ukaarriit!!b</Name>
+<Name Lang="kk">Ukoarriit!!b</Name>
+</Sector>
+<Sector Abbreviation="Krin" Tags="OTU">
+<X>7</X>
+<Y>-3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Kring Noor</Name>
+</Sector>
+<Sector Abbreviation="Plia" Tags="OTU">
+<X>-9</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pliabriebl</Name>
+</Sector>
+<Sector Abbreviation="Eiap" Tags="OTU">
+<X>-8</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Eiaplial</Name>
+</Sector>
+<Sector Abbreviation="Zhda" Tags="OTU">
+<X>-7</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhdant</Name>
+<Name>Zhodane</Name>
+</Sector>
+<Sector Abbreviation="Tien" Tags="InReview OTU">
+<X>-6</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tienspevnekr</Name>
+</Sector>
+<Sector Abbreviation="Ziaf" Tags="Official OTU">
+<X>-5</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ziafrplians</Name>
+<Name Lang="va">Usingou</Name>
+</Sector>
+<Sector Abbreviation="Gvur" Tags="Official OTU">
+<X>-4</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Gvurrdon</Name>
+<Name Lang="zh">Briakqra'</Name>
+</Sector>
+<Sector Abbreviation="Tugl" Tags="InReview OTU">
+<X>-3</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Tuglikki</Name>
+<Name Lang="zh">Dravr</Name>
+</Sector>
+<Sector Abbreviation="Prov" Tags="InReview OTU">
+<X>-2</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name>Provence</Name>
+<Name Lang="va">Orraenang</Name>
+<Name Lang="vi">Amshagi</Name>
+</Sector>
+<Sector Abbreviation="Wind" Tags="InReview OTU">
+<X>-1</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name>Windhorn</Name>
+<Name Lang="va">Gotzdzo</Name>
+<Name Lang="vi">Kishadikhu</Name>
+</Sector>
+<Sector Abbreviation="Mesh" Tags="InReview OTU">
+<X>0</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name>Meshan</Name>
+</Sector>
+<Sector Abbreviation="Mend" Tags="InReview OTU">
+<X>1</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name>Mendan</Name>
+<Name Lang="va">Gotzdzo</Name>
+</Sector>
+<Sector Abbreviation="Amdu" Tags="InReview OTU">
+<X>2</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name>Amdukan</Name>
+<Name Lang="va">Outhofos</Name>
+</Sector>
+<Sector Abbreviation="Arzu" Tags="InReview OTU">
+<X>3</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="va">Arzul</Name>
+<Name Lang="kk">Ingukrax</Name>
+</Sector>
+<Sector Abbreviation="Gnxh" Tags="OTU">
+<X>4</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Gn'hk'r</Name>
+<Name Lang="va">Gelath</Name>
+</Sector>
+<Sector Abbreviation="Gur" Tags="OTU">
+<X>5</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Gur</Name>
+</Sector>
+<Sector Abbreviation="Unxk" Tags="OTU">
+<X>6</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Un'k!!k'ng</Name>
+</Sector>
+<Sector Abbreviation="Xaag" Tags="OTU">
+<X>7</X>
+<Y>-2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Xaagr</Name>
+</Sector>
+<Sector Abbreviation="Tsad" Tags="OTU">
+<X>-8</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tsadra</Name>
+<Name>Farway</Name>
+</Sector>
+<Sector Abbreviation="Yikl" Tags="OTU">
+<X>-7</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Yiklerzdanzh</Name>
+<Name>Horizon's Edge</Name>
+</Sector>
+<Sector Abbreviation="Farf" Tags="InReview OTU">
+<X>-6</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Far Frontiers</Name>
+<Name Lang="zh">Afachtiabr</Name>
+</Sector>
+<Sector Abbreviation="Fore" Tags="Preserve OTU">
+<X>-5</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Foreven</Name>
+<Name Lang="zh">Iakr</Name>
+</Sector>
+<Sector Abbreviation="Spin" Tags="Official OTU">
+<X>-4</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Spinward Marches</Name>
+<Name Lang="zh">Tloql</Name>
+</Sector>
+<Sector Abbreviation="Dene" Tags="Official OTU">
+<X>-3</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Deneb</Name>
+<Name Lang="zh">Nieklsdia</Name>
+</Sector>
+<Sector Abbreviation="Corr" Tags="Official OTU">
+<X>-2</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Corridor</Name>
+<Name Lang="vi">Amshagi</Name>
+<Name Lang="vi">Eneri</Name>
+<Name Lang="va">Roughantz</Name>
+<Name Lang="va">Llananae Tourz</Name>
+</Sector>
+<Sector Abbreviation="Vlan" Tags="Official OTU">
+<X>-1</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Vland</Name>
+</Sector>
+<Sector Abbreviation="Lish" Tags="Official OTU">
+<X>0</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Lishun</Name>
+</Sector>
+<Sector Abbreviation="Anta" Tags="Official OTU">
+<X>1</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Antares</Name>
+<Name Lang="vi">Mikasirka</Name>
+</Sector>
+<Sector Abbreviation="Empt" Tags="Official OTU">
+<X>2</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Empty Quarter</Name>
+<Name Lang="vi">Gushgus</Name>
+</Sector>
+<Sector Abbreviation="Star" Tags="InReview OTU">
+<X>3</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name>Star's End</Name>
+</Sector>
+<Sector Abbreviation="Ghxh" Tags="OTU">
+<X>4</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Gh!hken</Name>
+</Sector>
+<Sector Abbreviation="Raak" Tags="OTU">
+<X>6</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Raakaan</Name>
+</Sector>
+<Sector Abbreviation="Uuk" Tags="OTU">
+<X>7</X>
+<Y>-1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Uuk</Name>
+</Sector>
+<Sector Abbreviation="Astr" Tags="OTU">
+<X>-8</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Astron</Name>
+<Name Lang="zh">Shiants</Name>
+</Sector>
+<Sector Abbreviation="Fula" Tags="OTU">
+<X>-7</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Fulani</Name>
+<Name Lang="zh">Chtedria</Name>
+</Sector>
+<Sector Abbreviation="Vang" Tags="InReview OTU">
+<X>-6</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Vanguard Reaches</Name>
+<Name Lang="as">Telehfaeikh</Name>
+<Name Lang="zh">Steblenzh</Name>
+</Sector>
+<Sector Abbreviation="Beyo" Tags="InReview OTU">
+<X>-5</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>The Beyond</Name>
+<Name>Beyond</Name>
+<Name Lang="as">Lerlairlaii</Name>
+<Name Lang="zh">Zhdiakltlatl</Name>
+</Sector>
+<Sector Abbreviation="Troj" Tags="Official OTU">
+<X>-4</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Trojan Reach</Name>
+<Name>Trojan Reaches</Name>
+<Name Lang="as">Hlaoirloahaurl</Name>
+<Name Lang="zh">Idrflanta</Name>
+</Sector>
+<Sector Abbreviation="Reft" Tags="Official OTU">
+<X>-3</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Reft</Name>
+<Name>Reft Sector</Name>
+<Name Lang="zh">Bransakral</Name>
+<Name Lang="vi">Sushinar</Name>
+</Sector>
+<Sector Abbreviation="Gush" Tags="Official OTU">
+<X>-2</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Gushemege</Name>
+</Sector>
+<Sector Abbreviation="Dagu" Tags="Official OTU">
+<X>-1</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Dagudashaag</Name>
+<Name>Dagudashag</Name>
+</Sector>
+<Sector Abbreviation="Core" Tags="Official OTU">
+<X>0</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Core</Name>
+<Name Lang="vi">Ukan</Name>
+</Sector>
+<Sector Abbreviation="Forn" Tags="Official OTU">
+<X>1</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Fornast</Name>
+<Name Lang="vi">Rishurir</Name>
+</Sector>
+<Sector Abbreviation="Ley" Tags="Official OTU">
+<X>2</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Ley</Name>
+<Name>Ley Sector</Name>
+<Name Lang="vi">Makhuniim</Name>
+</Sector>
+<Sector Abbreviation="Gate" Tags="InReview OTU">
+<X>3</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Gateway</Name>
+</Sector>
+<Sector Abbreviation="Lure" Tags="OTU">
+<X>4</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Luretiir!girr</Name>
+<Name Lang="kk">Luretir!girr</Name>
+<Name Lang="vi">Emaragamigu</Name>
+</Sector>
+<Sector Abbreviation="Barx" Tags="OTU">
+<X>7</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Bar'kakr</Name>
+</Sector>
+<Sector Abbreviation="Mavu" Tags="OTU">
+<X>-9</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Mavuzog</Name>
+</Sector>
+<Sector Abbreviation="Thet" Tags="InReview OTU">
+<X>-8</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Theta Borealis</Name>
+</Sector>
+<Sector Abbreviation="Ther" Tags="OTU">
+<X>-7</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Theron</Name>
+<Name Lang="as">Iykhaiser</Name>
+</Sector>
+<Sector Abbreviation="Iphi" Tags="OTU">
+<X>-6</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Iphigenaia</Name>
+<Name Lang="as">Kyatulyare'</Name>
+</Sector>
+<Sector Abbreviation="Touc" Tags="InReview OTU">
+<X>-5</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Touchstone</Name>
+<Name Lang="as">Weasuirlaoa</Name>
+</Sector>
+<Sector Abbreviation="Rift" Tags="Official OTU">
+<X>-4</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Riftspan Reaches</Name>
+<Name Lang="as">Iiyoihakh</Name>
+</Sector>
+<Sector Abbreviation="Verg" Tags="Official OTU">
+<X>-3</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Verge</Name>
+<Name Lang="as">Khtiyhkokaeiw</Name>
+<Name Lang="vi">Shaakasi</Name>
+</Sector>
+<Sector Abbreviation="Ilel" Tags="Official OTU">
+<X>-2</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Ilelish</Name>
+</Sector>
+<Sector Abbreviation="Zaru" Tags="Official OTU">
+<X>-1</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Zarushagar</Name>
+</Sector>
+<Sector Abbreviation="Mass" Tags="Official OTU">
+<X>0</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name Source="DGP">Massilia</Name>
+<Name Source="GDW">Massila</Name>
+<Name Lang="vi">Masilaa</Name>
+</Sector>
+<Sector Abbreviation="Delp" Tags="Official OTU">
+<X>1</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Delphi</Name>
+<Name Lang="vi">Manadish Khurem</Name>
+</Sector>
+<Sector Abbreviation="Glim" Tags="Official OTU">
+<X>2</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Glimmerdrift Reaches</Name>
+<Name>Glimmerdrift</Name>
+</Sector>
+<Sector Abbreviation="Cruc" Tags="InReview OTU">
+<X>3</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Crucis Margin</Name>
+</Sector>
+<Sector Abbreviation="Kaag" Tags="OTU">
+<X>4</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Kaa G!'kul</Name>
+<Name Lang="hv">Numbis</Name>
+<Name Lang="vi">Galiin</Name>
+</Sector>
+<Sector Abbreviation="Gzir" Tags="OTU">
+<X>5</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Kk">Gzirr!k'l</Name>
+</Sector>
+<Sector Abbreviation="Kxtr" Tags="OTU">
+<X>6</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Kk">K'trekreer</Name>
+</Sector>
+<Sector Abbreviation="Nuug" Tags="OTU">
+<X>7</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="kk">Nuughe</Name>
+</Sector>
+<Sector Abbreviation="Hare" Tags="OTU">
+<X>-9</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Harea</Name>
+</Sector>
+<Sector Abbreviation="Khae" Tags="OTU">
+<X>-8</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Khaeaw</Name>
+</Sector>
+<Sector Abbreviation="Faoh" Tags="OTU">
+<X>-7</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Faoheiroi'iyhao</Name>
+</Sector>
+<Sector Abbreviation="Ftao" Tags="OTU">
+<X>-6</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Ftaoiyekyu</Name>
+</Sector>
+<Sector Abbreviation="Afaw" Tags="InReview OTU">
+<X>-5</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Afawahisa</Name>
+</Sector>
+<Sector Abbreviation="Hlak" Tags="Official OTU">
+<X>-4</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Hlakhoi</Name>
+</Sector>
+<Sector Abbreviation="Eali" Tags="Official OTU">
+<X>-3</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Ealiyasiyw</Name>
+</Sector>
+<Sector Abbreviation="Reav" Tags="Official OTU">
+<X>-2</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Reaver's Deep</Name>
+<Name>Reavers' Deep</Name>
+<Name>Reavers Deep</Name>
+<Name Lang="as">Aeitle Sakh</Name>
+</Sector>
+<Sector Abbreviation="Daib" Tags="Official OTU">
+<X>-1</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Daibei</Name>
+<Name Lang="vi">Lankhisidam</Name>
+</Sector>
+<Sector Abbreviation="Dias" Tags="Official OTU">
+<X>0</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Diaspora</Name>
+<Name Lang="vi">Nakulakak</Name>
+</Sector>
+<Sector Abbreviation="Olde" Tags="Official OTU">
+<X>1</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Old Expanses</Name>
+<Name Lang="vi">Mikadira</Name>
+</Sector>
+<Sector Abbreviation="Hint" Tags="Official OTU">
+<X>2</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Hinterworlds</Name>
+</Sector>
+<Sector Abbreviation="Leon" Tags="OTU">
+<X>3</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Leonidae</Name>
+</Sector>
+<Sector Abbreviation="Exto" Tags="OTU">
+<X>4</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name>Extolian</Name>
+<Name Lang="kk">Krurrihkugr</Name>
+</Sector>
+<Sector Abbreviation="Rice" Tags="OTU">
+<X>5</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Ricenden</Name>
+<Name Lang="kk">Gnoghikt!</Name>
+</Sector>
+<Sector Abbreviation="Blas" Tags="OTU">
+<X>6</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Blaskon</Name>
+</Sector>
+<Sector Abbreviation="Nooq" Tags="OTU">
+<X>7</X>
+<Y>2</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Nooq</Name>
+<Name Lang="Kk">Hkimbiipam</Name>
+</Sector>
+<Sector Abbreviation="Tlya" Tags="OTU">
+<X>-9</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Tlyasea</Name>
+</Sector>
+<Sector Abbreviation="Hkak" Tags="OTU">
+<X>-8</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Hkakhaeaw</Name>
+</Sector>
+<Sector Abbreviation="Esai" Tags="OTU">
+<X>-7</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Esai'yo</Name>
+</Sector>
+<Sector Abbreviation="Waro" Tags="OTU">
+<X>-6</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Waroatahe</Name>
+</Sector>
+<Sector Abbreviation="Karl" Tags="OTU">
+<X>-5</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Karleaya</Name>
+</Sector>
+<Sector Abbreviation="Stai" Tags="Official OTU">
+<X>-4</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Staihaia'yo</Name>
+</Sector>
+<Sector Abbreviation="Iwah" Tags="Official OTU">
+<X>-3</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Iwahfuah</Name>
+<Name>Zodia</Name>
+</Sector>
+<Sector Abbreviation="Dark" Tags="Official OTU">
+<X>-2</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name>Dark Nebula</Name>
+<Name Lang="as">I'aheako</Name>
+</Sector>
+<Sector Abbreviation="Magy" Tags="Official OTU">
+<X>-1</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name>Magyar</Name>
+<Name Lang="vi">Magaar</Name>
+</Sector>
+<Sector Abbreviation="Solo" Tags="Official OTU">
+<X>0</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name>Solomani Rim</Name>
+<Name Lang="vi">Kushuggi</Name>
+</Sector>
+<Sector Abbreviation="Alph" Tags="Official OTU">
+<X>1</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name>Alpha Crucis</Name>
+<Name Lang="vi">Amkarim</Name>
+</Sector>
+<Sector Abbreviation="Spic" Tags="InReview OTU">
+<X>2</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name>Spica</Name>
+</Sector>
+<Sector Abbreviation="Phla" Tags="OTU">
+<X>3</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Phlask</Name>
+</Sector>
+<Sector Abbreviation="Cent" Tags="OTU">
+<X>4</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Centrax</Name>
+</Sector>
+<Sector Abbreviation="Wren" Tags="OTU">
+<X>5</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Wrenton</Name>
+</Sector>
+<Sector Abbreviation="Folg" Tags="OTU">
+<X>6</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Folgore</Name>
+</Sector>
+<Sector Abbreviation="Aver" Tags="OTU">
+<X>7</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Avereguar</Name>
+</Sector>
+<Sector Abbreviation="Koli" Tags="OTU">
+<X>8</X>
+<Y>3</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Kolire</Name>
+</Sector>
+<Sector Abbreviation="Yahe" Tags="OTU">
+<X>-8</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Yahehwe</Name>
+</Sector>
+<Sector Abbreviation="Kefi" Tags="OTU">
+<X>-7</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Kefiykhta</Name>
+</Sector>
+<Sector Abbreviation="Heak" Tags="OTU">
+<X>-6</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Heakhafaw</Name>
+</Sector>
+<Sector Abbreviation="Etak" Tags="OTU">
+<X>-5</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Etakhasoa</Name>
+</Sector>
+<Sector Abbreviation="Akti" Tags="Official OTU">
+<X>-4</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Aktifao</Name>
+</Sector>
+<Sector Abbreviation="Uist" Tags="Official OTU">
+<X>-3</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Uistilrao</Name>
+<Name Lang="as">Uistilao</Name>
+</Sector>
+<Sector Abbreviation="Ustr" Tags="Official OTU">
+<X>-2</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name>Ustral Quadrant</Name>
+<Name Lang="as">Ftahtuak</Name>
+</Sector>
+<Sector Abbreviation="Cano" Tags="InReview OTU">
+<X>-1</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name>Canopus</Name>
+</Sector>
+<Sector Abbreviation="Alde" Tags="InReview OTU">
+<X>0</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name>Aldebaran</Name>
+</Sector>
+<Sector Abbreviation="Newo" Tags="InReview OTU">
+<X>1</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name>Neworld</Name>
+</Sector>
+<Sector Abbreviation="Lang" Tags="InReview OTU">
+<X>2</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Langere</Name>
+</Sector>
+<Sector Abbreviation="Drak" Tags="OTU">
+<X>3</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Drakken</Name>
+</Sector>
+<Sector Abbreviation="Lors" Tags="OTU">
+<X>4</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Lorspane</Name>
+</Sector>
+<Sector Abbreviation="Porl" Tags="OTU">
+<X>5</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Porlock</Name>
+</Sector>
+<Sector Abbreviation="Kidu" Tags="OTU">
+<X>6</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="Hv">Kidunal</Name>
+</Sector>
+<Sector Abbreviation="Tree" Tags="OTU">
+<X>7</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name>Treece</Name>
+</Sector>
+<Sector Abbreviation="Genf" Tags="OTU">
+<X>8</X>
+<Y>4</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Genfert</Name>
+</Sector>
+<Sector Abbreviation="Ohie" Tags="OTU">
+<X>-8</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Ohieraoi</Name>
+</Sector>
+<Sector Abbreviation="Fahr" Tags="OTU">
+<X>-7</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Fahreahluis</Name>
+</Sector>
+<Sector Abbreviation="Hfiy" Tags="OTU">
+<X>-6</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Hfiywitir</Name>
+</Sector>
+<Sector Abbreviation="Irla" Tags="OTU">
+<X>-5</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Irlaftalea</Name>
+</Sector>
+<Sector Abbreviation="Teah" Tags="OTU">
+<X>-4</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Teahloarifu</Name>
+<Name Lang="as" Source="GURPS Traveller: Alien Races 2">Tahloarifu</Name>
+</Sector>
+<Sector Abbreviation="Ahki" Tags="OTU">
+<X>-3</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="as">Ahkiweahi'</Name>
+<Name Lang="so">Seven Sisters</Name>
+</Sector>
+<Sector Abbreviation="Bann" Tags="OTU">
+<X>-2</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Banners</Name>
+<Name Lang="as">Iyiyukhtoi'</Name>
+</Sector>
+<Sector Abbreviation="Hans" Tags="OTU">
+<X>-1</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Hanstone</Name>
+<Name Lang="as">Ftetlao'</Name>
+</Sector>
+<Sector Abbreviation="Malo" Tags="OTU">
+<X>0</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Malorn</Name>
+</Sector>
+<Sector Abbreviation="Hadj" Tags="OTU">
+<X>1</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Hadji</Name>
+</Sector>
+<Sector Abbreviation="Stor" Tags="OTU">
+<X>2</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Storr</Name>
+</Sector>
+<Sector Abbreviation="Mikh" Tags="OTU">
+<X>3</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Mikhail</Name>
+<Name>Gamesh Nandroze</Name>
+</Sector>
+<Sector Abbreviation="Darr" Tags="OTU">
+<X>4</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Darret</Name>
+</Sector>
+<Sector Abbreviation="Atau" Tags="OTU">
+<X>5</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Ataurre</Name>
+</Sector>
+<Sector Abbreviation="Kato" Tags="OTU">
+<X>6</X>
+<Y>5</Y>
+<Milieu>M1105</Milieu>
+<Name>Katoonah</Name>
+</Sector>
+<Sector Abbreviation="Holo" Tags="OTU">
+<X>-1</X>
+<Y>6</Y>
+<Milieu>M1105</Milieu>
+<Name>Holowon</Name>
+</Sector>
+<Sector Abbreviation="Amde" Tags="OTU">
+<X>0</X>
+<Y>6</Y>
+<Milieu>M1105</Milieu>
+<Name>Amderstun</Name>
+</Sector>
+<Sector Abbreviation="Muar" Tags="OTU">
+<X>5</X>
+<Y>6</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Muarne</Name>
+</Sector>
+<Sector Abbreviation="Lanc" Tags="OTU">
+<X>6</X>
+<Y>6</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="hv">Lancask</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-175</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Yejiariebr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-174</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhiejqrinzho</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-173</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Klajipl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-172</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kazhekliepr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-171</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chiajavlazh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-170</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Dliaprqriez</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-169</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pranzaklbraz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-168</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Stienzarikl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-167</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdechrebrvle</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-166</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tlialiedla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-165</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Fraklbizh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-164</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tliblnzheflets</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-163</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nzievi</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-162</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Preiel</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-161</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nezhatliebr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-160</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Siantsaia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-159</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nchadla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-158</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nchefrij</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-157</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdielbeppria</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-156</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tavrbovliepl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-155</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Antsrish</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-154</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kepridlnchots</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-153</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Evred</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-152</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chtatiate</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-151</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Dliebriatia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-150</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kliadli</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-149</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Riadrazh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-148</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Iekrqre</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-147</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Jiechnzhitsonj</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-146</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Aplie</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-145</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Eble</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-144</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Vlofrkla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-143</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Jdibrirvianj</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-142</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ijar</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-141</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Frajbriekrensh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-140</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Peklprozqratl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-139</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Flaflzhevrients</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-138</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Anshnzhins</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-137</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Lotsar</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-136</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Niabrefvronz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-135</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ienza</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-134</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Vravrzha</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-133</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Abresh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-132</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kernzhez'a</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-131</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tlinchjiee</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-130</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Iate</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-129</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Drachabre</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-128</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Jdodiafldla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-127</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zii</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-126</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Drierii</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-125</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Voblezitl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-124</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhetsefr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-123</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Shiazhanche</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-122</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ploblvla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-121</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ezhebl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-120</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Praklfrintsniadl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-119</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Feflolents</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-118</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Dlavvreplents</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-117</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zietsebl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-116</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhejnzhiikl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-115</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Riafrtafrpriafr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-114</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tlensbladrzhianzh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-113</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Sheqraflal</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-112</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pliajenzh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-111</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nseianzh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-110</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nzhajdibr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-109</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nzhiaapl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-108</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Doklzots</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-107</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Driklfetvipr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-106</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Jdencheplia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-105</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Shenzhtsenzh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-104</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nialkridla</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-103</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Enchakl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-102</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Riekllezha</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-101</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Yikvrior</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-100</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Fretvlobrpriet</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-99</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pliantiblbra</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-98</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Plablshashchesh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-97</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Viashchieshiadl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-96</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tlabraplzhied</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-95</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Afdranz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-94</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Itsfiebl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-93</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhevreklnchi</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-92</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Stiaklentsiefl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-91</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Difralfler</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-90</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Eie</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-89</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tselidl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-88</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhiatienjiaz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-87</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nili</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-86</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zenzhej</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-85</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Shiadldriadash</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-84</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Inshzish</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-83</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nshofref</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-82</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Qrecha</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-81</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Aed</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-80</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdafeflzadr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-79</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdietablie</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-78</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Fiaftashe</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-77</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tlapltsia'o</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-76</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Azaz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-75</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ichnzhipr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-74</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Eblia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-73</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ze'shavrav</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-72</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ravrazhe</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-71</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ablaz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-70</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Idekl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-69</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Shiblbropli</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-68</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zdienzfiaia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-67</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Driebliepl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-66</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ntetszif</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-65</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Iebtladl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-64</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Febiaiadl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-63</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tenshlatsvo</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-62</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Loplia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-61</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ijidl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-60</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Niechnchialbli</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-59</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Qlivinchezh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-58</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ee</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-57</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Bliaazh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-56</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ekrbriansh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-55</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Biaqrpraze</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-54</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Sieriatsklinzh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-53</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zentse</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-52</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tledrbreplebr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-51</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Vietrienzhits</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-50</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chtetaravl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-49</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nzhenzie</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-48</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Brelia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-47</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pivchavia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-46</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nzhernzhi</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-45</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ianse</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-44</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhechinje</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-43</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Jdeblinsiqr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-42</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Aviel</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-41</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Prashtsintsanch</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-40</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Qrefrnzhariefl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-39</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ieviash</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-38</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Stotsshiflezh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-37</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Frizhkladlncha</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-36</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chtijashal</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-35</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Chetliashal</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-34</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Etlnchofr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-33</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zabrziklezh</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-32</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kozhdanzhinz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-31</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Flablenti</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-30</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Setjefrshiatl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-29</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Kiafldliezhjol</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-28</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tsafrnchia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-27</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ienjaz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-26</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Vedrabr</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-25</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Driaflfiazlats</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-24</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Brianch</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-23</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Dliea</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-22</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Pofdriblnchitl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-21</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Nevlieri</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-20</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tatlnjaie</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-19</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Bliatsiebl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-18</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Favkranish</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-17</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zhenzhbrivtlo</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-16</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Vikrvidrvria</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-15</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Plontarbli</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-14</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Azhpliabl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-13</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Prinjobliedl</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-12</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Ia</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-11</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Zietssha</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-10</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Proanz</Name>
+</Sector>
+<Sector Tags="ZCR">
+<X>-7</X>
+<Y>-9</Y>
+<Milieu>M1105</Milieu>
+<Name Lang="zh">Tsebntsiatldlants</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>6</X>
+<Y>8</Y>
+<Milieu>M1105</Milieu>
+<Name>Nievoak</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>6</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Alnitak</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>6</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Mintaka</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>5</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Sigma Orionis</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>6</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Pi-4 Orionis</Name>
+</Sector>
+<Sector Tags="OrionOB1">
+<X>8</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Joyce's Void</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Fallow</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Extent</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Shadow Rift</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Bourne</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Divide</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Halcyon</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Far Home</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Course</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Abyss</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Chasm</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Gulf</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Deep</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Reikan</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Ulund</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Navarre</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-23</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Suluru</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Hirada</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Coro</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Palladian</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-23</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Remoran</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Archos</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Mycene</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Celeste</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-23</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Magister</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Jontell</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Lucent</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Murian</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-23</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Lon Beon</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Thrax</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Kineda</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Orsen</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-23</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Denison</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-22</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Wayland</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-21</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Quell</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-20</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Yearn</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Leiden</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Mageera</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Elysium</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Coraline</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Wraith</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>9</Y>
+<Milieu>M1105</Milieu>
+<Name>Amarada</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Forge</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Garadin</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Median</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Tirell</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Serenity</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Perfection</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-13</X>
+<Y>10</Y>
+<Milieu>M1105</Milieu>
+<Name>Ledge</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-19</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Phanic</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-18</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Burden</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-17</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Omicus</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-16</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Hollow</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Shandara</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Range</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-13</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Tarchon</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-12</X>
+<Y>11</Y>
+<Milieu>M1105</Milieu>
+<Name>Revenant</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Kataran</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Cauldron</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-13</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Kalash</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-12</X>
+<Y>12</Y>
+<Milieu>M1105</Milieu>
+<Name>Turoman</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Valiance</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Toller</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-13</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Palatine</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-12</X>
+<Y>13</Y>
+<Milieu>M1105</Milieu>
+<Name>Argent</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-15</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Stand</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-14</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Samardin</Name>
+</Sector>
+<Sector Tags="Faraway DistantFringe">
+<X>-13</X>
+<Y>14</Y>
+<Milieu>M1105</Milieu>
+<Name>Pestilent</Name>
+</Sector>
+<Sector Abbreviation="Daib" Tags="OTU">
+<X>-1</X>
+<Y>2</Y>
+<Milieu>IW</Milieu>
+<Name>Daibei</Name>
+<Name Lang="vi">Lankhisidam</Name>
+</Sector>
+<Sector Abbreviation="Solo" Tags="OTU">
+<X>0</X>
+<Y>3</Y>
+<Milieu>IW</Milieu>
+<Name>Solomani Rim</Name>
+<Name Lang="vi">Kushuggi</Name>
+</Sector>
+<Sector Abbreviation="Solo" Tags="OTU">
+<X>1</X>
+<Y>3</Y>
+<Milieu>IW</Milieu>
+<Name>Alpha Crucis</Name>
+<Name Lang="vi">Amkarim</Name>
+</Sector>
+<Sector Abbreviation="Magy" Tags="OTU">
+<X>-1</X>
+<Y>3</Y>
+<Milieu>IW</Milieu>
+<Name>Magyar</Name>
+<Name Lang="vi">Magaar</Name>
+</Sector>
+<Sector Abbreviation="Corr" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-1</Y>
+<Milieu>M0</Milieu>
+<Name>Corridor</Name>
+<Name Lang="vi">Amshagi</Name>
+<Name Lang="vi">Eneri</Name>
+<Name Lang="va">Roughantz</Name>
+<Name Lang="va">Llananae Tourz</Name>
+</Sector>
+<Sector Abbreviation="Vlan" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-1</Y>
+<Milieu>M0</Milieu>
+<Name>Vland</Name>
+</Sector>
+<Sector Abbreviation="Lish" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>-1</Y>
+<Milieu>M0</Milieu>
+<Name>Lishun</Name>
+</Sector>
+<Sector Abbreviation="Anta" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>-1</Y>
+<Milieu>M0</Milieu>
+<Name>Antares</Name>
+<Name Lang="vi">Mikasirka</Name>
+</Sector>
+<Sector Abbreviation="Gush" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>0</Y>
+<Milieu>M0</Milieu>
+<Name>Gushemege</Name>
+</Sector>
+<Sector Abbreviation="Dagu" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>0</Y>
+<Milieu>M0</Milieu>
+<Name>Dagudashaag</Name>
+<Name>Dagudashag</Name>
+</Sector>
+<Sector Abbreviation="Core" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>0</Y>
+<Milieu>M0</Milieu>
+<Name>Core</Name>
+<Name Lang="vi">Ukan</Name>
+</Sector>
+<Sector Abbreviation="Ilel" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>1</Y>
+<Milieu>M0</Milieu>
+<Name>Ilelish</Name>
+</Sector>
+<Sector Abbreviation="Mass" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>1</Y>
+<Milieu>M0</Milieu>
+<Name Source="DGP">Massilia</Name>
+<Name Source="GDW">Massila</Name>
+<Name Lang="vi">Masilaa</Name>
+</Sector>
+<Sector Abbreviation="Delp" Tags="Preserve OTU">
+<X>1</X>
+<Y>1</Y>
+<Milieu>M0</Milieu>
+<Name>Delphi</Name>
+<Name Lang="vi">Manadish Khurem</Name>
+</Sector>
+<Sector Abbreviation="Forn" Tags="Preserve OTU">
+<X>1</X>
+<Y>0</Y>
+<Milieu>M0</Milieu>
+<Name>Fornast</Name>
+<Name Lang="vi">Rishurir</Name>
+</Sector>
+<Sector Abbreviation="Zaru" Tags="Preserve OTU">
+<X>-1</X>
+<Y>1</Y>
+<Milieu>M0</Milieu>
+<Name>Zarushagar</Name>
+</Sector>
+<Sector Abbreviation="Ley" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>0</Y>
+<Milieu>M990</Milieu>
+<Name>Ley</Name>
+<Name>Ley Sector</Name>
+<Name Lang="vi">Makhuniim</Name>
+</Sector>
+<Sector Abbreviation="Gate" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>0</Y>
+<Milieu>M990</Milieu>
+<Name>Gateway</Name>
+</Sector>
+<Sector Abbreviation="Glim" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>1</Y>
+<Milieu>M990</Milieu>
+<Name>Glimmerdrift Reaches</Name>
+</Sector>
+<Sector Abbreviation="Cruc" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>1</Y>
+<Milieu>M990</Milieu>
+<Name>Crucis Margin</Name>
+</Sector>
+<Sector Abbreviation="Magy" Tags="Unofficial OTU">
+<X>-1</X>
+<Y>3</Y>
+<Milieu>M990</Milieu>
+<Name>Magyar</Name>
+<Name Lang="vi">Magaar 990</Name>
+</Sector>
+<Sector Abbreviation="Daib" Tags="Unofficial OTU">
+<X>-1</X>
+<Y>2</Y>
+<Milieu>M990</Milieu>
+<Name>Daibei</Name>
+<Name Lang="vi">Lankhisidam</Name>
+</Sector>
+<Sector Abbreviation="Dias" Tags="Unofficial OTU">
+<X>0</X>
+<Y>2</Y>
+<Milieu>M990</Milieu>
+<Name>Diaspora</Name>
+<Name Lang="vi">Nakulakak</Name>
+</Sector>
+<Sector Abbreviation="Spin" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>-1</Y>
+<Milieu>M1120</Milieu>
+<Name>Spinward Marches</Name>
+<Name Lang="zh">Tloql</Name>
+</Sector>
+<Sector Abbreviation="Mass" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>1</Y>
+<Milieu>M1120</Milieu>
+<Name Source="DGP">Massilia</Name>
+<Name Source="GDW">Massila</Name>
+<Name Lang="vi">Masilaa</Name>
+</Sector>
+<Sector Abbreviation="Dias" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>2</Y>
+<Milieu>M1120</Milieu>
+<Name>Diaspora</Name>
+<Name Lang="vi">Nakulakak</Name>
+</Sector>
+<Sector Abbreviation="Fore" Tags="Preserve OTU">
+<X>-5</X>
+<Y>-1</Y>
+<Milieu>M1120</Milieu>
+<Name>Foreven</Name>
+<Name Lang="zh">Iakr</Name>
+</Sector>
+<Sector Abbreviation="Hint" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>2</Y>
+<Milieu>M1120</Milieu>
+<Name>Hinterworlds</Name>
+</Sector>
+<Sector Abbreviation="Corr" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-1</Y>
+<Milieu>M1120</Milieu>
+<Name>Corridor</Name>
+<Name Lang="vi">Amshagi</Name>
+<Name Lang="vi">Eneri</Name>
+<Name Lang="va">Roughantz</Name>
+<Name Lang="va">Llananae Tourz</Name>
+</Sector>
+<Sector Abbreviation="Eali" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>2</Y>
+<Milieu>M1120</Milieu>
+<Name Lang="as">Ealiyasiyw</Name>
+</Sector>
+<Sector Abbreviation="Rift" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>1</Y>
+<Milieu>M1120</Milieu>
+<Name>Riftspan Reaches</Name>
+<Name Lang="as">Iiyoihakh</Name>
+</Sector>
+<Sector Abbreviation="Dene" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>-1</Y>
+<Milieu>M1120</Milieu>
+<Name>Deneb</Name>
+<Name Lang="zh">Nieklsdia</Name>
+</Sector>
+<Sector Abbreviation="Vlan" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-1</Y>
+<Milieu>M1120</Milieu>
+<Name>Vland</Name>
+</Sector>
+<Sector Abbreviation="Gush" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>0</Y>
+<Milieu>M1120</Milieu>
+<Name>Gushemege</Name>
+</Sector>
+<Sector Abbreviation="Dagu" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>0</Y>
+<Milieu>M1120</Milieu>
+<Name>Dagudashaag</Name>
+<Name>Dagudashag</Name>
+</Sector>
+<Sector Abbreviation="Core" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>0</Y>
+<Milieu>M1120</Milieu>
+<Name>Core</Name>
+<Name Lang="vi">Ukan</Name>
+</Sector>
+<Sector Abbreviation="Spin" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Spinward Marches</Name>
+</Sector>
+<Sector Abbreviation="Dene" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Deneb</Name>
+<Name Lang="zh">Nieklsdia</Name>
+</Sector>
+<Sector Abbreviation="Lish" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Lishun</Name>
+</Sector>
+<Sector Abbreviation="Zarushagar" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>1</Y>
+<Milieu>M1201</Milieu>
+<Name>Zarushagar</Name>
+</Sector>
+<Sector Abbreviation="Mass" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>1</Y>
+<Milieu>M1201</Milieu>
+<Name>Massilia</Name>
+<Name Lang="vi">Masilaa</Name>
+</Sector>
+<Sector Abbreviation="Dias" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>2</Y>
+<Milieu>M1201</Milieu>
+<Name>Diaspora</Name>
+<Name Lang="vi">Nakulakak</Name>
+</Sector>
+<Sector Abbreviation="Solo" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>3</Y>
+<Milieu>M1201</Milieu>
+<Name>Solomani Rim</Name>
+<Name Lang="vi">Kushuggi</Name>
+</Sector>
+<Sector Abbreviation="Old Expanses" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>2</Y>
+<Milieu>M1201</Milieu>
+<Name>Old Expanses</Name>
+<Name Lang="vi">Mikadira</Name>
+</Sector>
+<Sector Abbreviation="Reft" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>Reft</Name>
+<Name>Reft Sector</Name>
+<Name Lang="zh">Bransakral</Name>
+<Name Lang="vi">Sushinar</Name>
+</Sector>
+<Sector Abbreviation="Troj" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>Trojan Reach</Name>
+<Name>Trojan Reaches</Name>
+<Name Lang="as">Hlaoirloahaurl</Name>
+<Name Lang="zh">Idrflanta</Name>
+</Sector>
+<Sector Abbreviation="Vlan" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Vland</Name>
+</Sector>
+<Sector Abbreviation="Alph" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>3</Y>
+<Milieu>M1201</Milieu>
+<Name>Alpha Crucis</Name>
+<Name>Alpha Leonis</Name>
+<Name Lang="vi">Amkarim</Name>
+</Sector>
+<Sector Abbreviation="Anta" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Antares</Name>
+<Name Lang="vi">Mikasirka</Name>
+</Sector>
+<Sector Abbreviation="Empt" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Empty Quarter</Name>
+<Name Lang="vi">Gushgus</Name>
+</Sector>
+<Sector Abbreviation="Hint" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>2</Y>
+<Milieu>M1201</Milieu>
+<Name>Hinterworlds</Name>
+</Sector>
+<Sector Abbreviation="Reav" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>2</Y>
+<Milieu>M1201</Milieu>
+<Name>Reaver's Deep</Name>
+<Name>Reavers' Deep</Name>
+<Name>Reavers Deep</Name>
+<Name Lang="as">Aeitle Sakh</Name>
+</Sector>
+<Sector Abbreviation="Corr" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-1</Y>
+<Milieu>M1201</Milieu>
+<Name>Corridor</Name>
+<Name Lang="vi">Amshagi</Name>
+<Name Lang="vi">Eneri</Name>
+<Name Lang="va">Roughantz</Name>
+<Name Lang="va">Llananae Tourz</Name>
+</Sector>
+<Sector Abbreviation="Gush" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>Gushemege</Name>
+</Sector>
+<Sector Abbreviation="Spic" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>3</Y>
+<Milieu>M1201</Milieu>
+<Name>Spica</Name>
+</Sector>
+<Sector Abbreviation="Phla" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>3</Y>
+<Milieu>M1201</Milieu>
+<Name Lang="Hv">Phlask</Name>
+</Sector>
+<Sector Abbreviation="Core" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>Core</Name>
+<Name Lang="vi">Ukan</Name>
+</Sector>
+<Sector Abbreviation="Forn" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>Fornast</Name>
+<Name Lang="vi">Rishurir</Name>
+</Sector>
+<Sector Abbreviation="Lang" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>4</Y>
+<Milieu>M1201</Milieu>
+<Name Lang="hv">Langere</Name>
+<Name Lang="hv">Langer</Name>
+</Sector>
+<Sector Abbreviation="Rift" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>1</Y>
+<Milieu>M1201</Milieu>
+<Name>Riftspan Reaches</Name>
+<Name Lang="as">Iiyoihakh</Name>
+</Sector>
+<Sector Abbreviation="Leon" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>2</Y>
+<Milieu>M1201</Milieu>
+<Name>Leonidae</Name>
+</Sector>
+<Sector Abbreviation="Beyo" Tags="Unreviewed OTU">
+<X>-5</X>
+<Y>0</Y>
+<Milieu>M1201</Milieu>
+<Name>The Beyond</Name>
+<Name>Beyond</Name>
+<Name Lang="as">Lerlairlaii</Name>
+<Name Lang="zh">Zhdiakltlatl</Name>
+</Sector>
+<Sector Abbreviation="Gvur" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>-2</Y>
+<Milieu>M1201</Milieu>
+<Name Lang="va">Gvurrdon</Name>
+<Name Lang="zh">Briakqra'</Name>
+</Sector>
+<Sector Abbreviation="Tugl" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>-2</Y>
+<Milieu>M1201</Milieu>
+<Name Lang="va">Tuglikki</Name>
+<Name Lang="zh">Dravr</Name>
+</Sector>
+<Sector Abbreviation="Prov" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-2</Y>
+<Milieu>M1201</Milieu>
+<Name>Provence</Name>
+<Name Lang="va">Orraenang</Name>
+<Name Lang="vi">Amshagi</Name>
+</Sector>
+<Sector Abbreviation="Wind" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-2</Y>
+<Milieu>M1201</Milieu>
+<Name>Windhorn</Name>
+<Name Lang="va">Gotzdzo</Name>
+<Name Lang="vi">Kishadikhu</Name>
+</Sector>
+<Sector Abbreviation="Mesh" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>-2</Y>
+<Milieu>M1201</Milieu>
+<Name>Meshan</Name>
+</Sector>
+<Sector Abbreviation="Gush" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Gushemege</Name>
+</Sector>
+<Sector Abbreviation="Dagu" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Dagudashaag</Name>
+</Sector>
+<Sector Abbreviation="Ilel" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Ilelish</Name>
+</Sector>
+<Sector Abbreviation="Zaru" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Zarushagar</Name>
+</Sector>
+<Sector Abbreviation="Spin" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Spinward Marches</Name>
+<Name Lang="zh">Tloql</Name>
+</Sector>
+<Sector Abbreviation="Dene" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Deneb</Name>
+</Sector>
+<Sector Abbreviation="Troj" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Trojan Reach</Name>
+<Name>Trojan Reaches</Name>
+<Name Lang="as">Hlaoirloahaurl</Name>
+<Name Lang="zh">Idrflanta</Name>
+</Sector>
+<Sector Abbreviation="Reft" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Reft</Name>
+<Name>Reft Sector</Name>
+<Name Lang="zh">Bransakral</Name>
+<Name Lang="vi">Sushinar</Name>
+</Sector>
+<Sector Abbreviation="Dias" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Diaspora</Name>
+<Name Lang="vi">Nakulakak</Name>
+</Sector>
+<Sector Abbreviation="Olde" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Old Expanses</Name>
+<Name Lang="vi">Mikadira</Name>
+</Sector>
+<Sector Abbreviation="Solo" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name>Solomani Rim</Name>
+<Name Lang="vi">Kushuggi</Name>
+</Sector>
+<Sector Abbreviation="Alph" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name>Alpha Crucis</Name>
+<Name Lang="vi">Amkarim</Name>
+</Sector>
+<Sector Abbreviation="Gvur" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="va">Gvurrdon</Name>
+<Name Lang="zh">Briakqra'</Name>
+</Sector>
+<Sector Abbreviation="Rift" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Riftspan Reaches</Name>
+<Name Lang="as">Iiyoihakh</Name>
+</Sector>
+<Sector Abbreviation="Hlak" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Hlakhoi</Name>
+</Sector>
+<Sector Abbreviation="Stai" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Staihaia'yo</Name>
+</Sector>
+<Sector Abbreviation="Akti" Tags="Unreviewed OTU">
+<X>-4</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Aktifao</Name>
+</Sector>
+<Sector Abbreviation="Tugl" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="va">Tuglikki</Name>
+<Name Lang="zh">Dravr</Name>
+</Sector>
+<Sector Abbreviation="Verg" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Verge</Name>
+<Name Lang="as">Khtiyhkokaeiw</Name>
+<Name Lang="vi">Shaakasi</Name>
+</Sector>
+<Sector Abbreviation="Eali" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Ealiyasiyw</Name>
+</Sector>
+<Sector Abbreviation="Iwah" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Iwahfuah</Name>
+<Name>Zodia</Name>
+</Sector>
+<Sector Abbreviation="Uist" Tags="Unreviewed OTU">
+<X>-3</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="as">Uistilrao</Name>
+<Name Lang="as">Uistilao</Name>
+</Sector>
+<Sector Abbreviation="Prov" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name>Provence</Name>
+<Name Lang="va">Orraenang</Name>
+<Name Lang="vi">Amshagi</Name>
+</Sector>
+<Sector Abbreviation="Corr" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Corridor</Name>
+<Name Lang="vi">Amshagi</Name>
+<Name Lang="vi">Eneri</Name>
+<Name Lang="va">Roughantz</Name>
+<Name Lang="va">Llananae Tourz</Name>
+</Sector>
+<Sector Abbreviation="Reav" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Reaver's Deep</Name>
+<Name>Reavers' Deep</Name>
+<Name>Reavers Deep</Name>
+<Name Lang="as">Aeitle Sakh</Name>
+</Sector>
+<Sector Abbreviation="Dark" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name>Dark Nebula</Name>
+<Name Lang="as">I'aheako</Name>
+</Sector>
+<Sector Abbreviation="Ustr" Tags="Unreviewed OTU">
+<X>-2</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name>Ustral Quadrant</Name>
+<Name Lang="as">Ftahtuak</Name>
+</Sector>
+<Sector Abbreviation="Wind" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name>Windhorn</Name>
+<Name Lang="va">Gotzdzo</Name>
+<Name Lang="vi">Kishadikhu</Name>
+</Sector>
+<Sector Abbreviation="Vlan" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Vland</Name>
+</Sector>
+<Sector Abbreviation="Daib" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Daibei</Name>
+<Name Lang="vi">Lankhisidam</Name>
+</Sector>
+<Sector Abbreviation="Magy" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name>Magyar</Name>
+<Name Lang="vi">Magaar</Name>
+</Sector>
+<Sector Abbreviation="Cano" Tags="Unreviewed OTU">
+<X>-1</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name>Canopus</Name>
+</Sector>
+<Sector Abbreviation="Mesh" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name>Meshan</Name>
+</Sector>
+<Sector Abbreviation="Lish" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Lishun</Name>
+</Sector>
+<Sector Abbreviation="Core" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Core</Name>
+<Name Lang="vi">Ukan</Name>
+</Sector>
+<Sector Abbreviation="Mass" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name Source="DGP">Massilia</Name>
+<Name Source="GDW">Massila</Name>
+<Name Lang="vi">Masilaa</Name>
+</Sector>
+<Sector Abbreviation="Alde" Tags="Unreviewed OTU">
+<X>0</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name>Aldebaran</Name>
+</Sector>
+<Sector Abbreviation="Mend" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name>Mendan</Name>
+<Name Lang="va">Gotzdzo</Name>
+</Sector>
+<Sector Abbreviation="Anta" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Antares</Name>
+<Name Lang="vi">Mikasirka</Name>
+</Sector>
+<Sector Abbreviation="Forn" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Fornast</Name>
+<Name Lang="vi">Rishurir</Name>
+</Sector>
+<Sector Abbreviation="Delp" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Delphi</Name>
+<Name Lang="vi">Manadish Khurem</Name>
+</Sector>
+<Sector Abbreviation="Newo" Tags="Unreviewed OTU">
+<X>1</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name>Neworld</Name>
+</Sector>
+<Sector Abbreviation="Amdu" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name>Amdukan</Name>
+<Name Lang="va">Outhofos</Name>
+</Sector>
+<Sector Abbreviation="Empt" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Empty Quarter</Name>
+<Name Lang="vi">Gushgus</Name>
+</Sector>
+<Sector Abbreviation="Ley" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Ley</Name>
+<Name>Ley Sector</Name>
+<Name Lang="vi">Makhuniim</Name>
+</Sector>
+<Sector Abbreviation="Glim" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Glimmerdrift Reaches</Name>
+<Name>Glimmerdrift</Name>
+</Sector>
+<Sector Abbreviation="Hint" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Hinterworlds</Name>
+</Sector>
+<Sector Abbreviation="Spic" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name>Spica</Name>
+</Sector>
+<Sector Abbreviation="Lang" Tags="Unreviewed OTU">
+<X>2</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="hv">Langer</Name>
+<Name Lang="hv">Langere</Name>
+</Sector>
+<Sector Abbreviation="Arzu" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>-2</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="va">Arzul</Name>
+<Name Lang="kk">Ingukrax</Name>
+</Sector>
+<Sector Abbreviation="Star" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>-1</Y>
+<Milieu>M1248</Milieu>
+<Name>Star's End</Name>
+</Sector>
+<Sector Abbreviation="Gate" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>0</Y>
+<Milieu>M1248</Milieu>
+<Name>Gateway</Name>
+</Sector>
+<Sector Abbreviation="Cruc" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>1</Y>
+<Milieu>M1248</Milieu>
+<Name>Crucis Margin</Name>
+</Sector>
+<Sector Abbreviation="Leon" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>2</Y>
+<Milieu>M1248</Milieu>
+<Name>Leonidae</Name>
+</Sector>
+<Sector Abbreviation="Phla" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>3</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="Hv">Phlask</Name>
+</Sector>
+<Sector Abbreviation="Drak" Tags="Unreviewed OTU">
+<X>3</X>
+<Y>4</Y>
+<Milieu>M1248</Milieu>
+<Name Lang="hv">Drakken</Name>
+</Sector>
+<Sector Abbreviation="Gvur" Tags="OTU">
+<X>-4</X>
+<Y>-2</Y>
+<Milieu>M1900</Milieu>
+<Name Lang="va">Gvurrdon</Name>
+<Name Lang="zh">Briakqra'</Name>
+</Sector>
+<Sector Abbreviation="Spin" Tags="OTU">
+<X>-4</X>
+<Y>-1</Y>
+<Milieu>M1900</Milieu>
+<Name>Spinward Marches</Name>
+</Sector>
+<Sector Abbreviation="JGLe" Tags="Apocryphal Faraway">
+<X>160</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Ley (Judges Guild)</Name>
+</Sector>
+<Sector Abbreviation="JGMA" Tags="Apocryphal Faraway">
+<X>161</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Maranatha-Alkahest (Judges Guild)</Name>
+<Name>Maranatha-Alkahest</Name>
+</Sector>
+<Sector Abbreviation="JGGR" Tags="Apocryphal Faraway">
+<X>160</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Glimmerdrift Reaches (Judges Guild)</Name>
+</Sector>
+<Sector Abbreviation="JGCM" Tags="Apocryphal Faraway">
+<X>161</X>
+<Y>1</Y>
+<Milieu>M1105</Milieu>
+<Name>Crucis Margin (Judges Guild)</Name>
+</Sector>
+<Sector Abbreviation="VR91" Tags="Apocryphal Faraway">
+<X>152</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Vanguard Reaches (Paranoia Press 1991)</Name>
+</Sector>
+<Sector Abbreviation="BE91" Tags="Apocryphal Faraway">
+<X>153</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>The Beyond (Paranoia Press 1991)</Name>
+</Sector>
+<Sector Tags="Faraway">
+<X>60</X>
+<Y>60</Y>
+<Milieu>M1105</Milieu>
+<Name>Varan</Name>
+</Sector>
+<Sector Abbreviation="JZBe" Tags="Faraway Alternate">
+<X>70</X>
+<Y>70</Y>
+<Milieu>M1105</Milieu>
+<Name>The Beyond (Jeff Zeitlin)</Name>
+<Name Lang="as">Lerlairlaii</Name>
+<Name Lang="zh">Zhdiakltlatl</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>70</X>
+<Y>60</Y>
+<Milieu>M1105</Milieu>
+<Name>Precipice</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>70</X>
+<Y>69</Y>
+<Milieu>M1105</Milieu>
+<Name>Foreven (Imperium Staple)</Name>
+</Sector>
+<Sector Abbreviation="FTTT" Tags="Apocryphal Faraway">
+<X>68</X>
+<Y>70</Y>
+<Milieu>M1105</Milieu>
+<Name>Fulani (Terra Traveller Times)</Name>
+</Sector>
+<Sector Abbreviation="MNCR" Tags="Apocryphal Faraway">
+<X>75</X>
+<Y>68</Y>
+<Milieu>M1105</Milieu>
+<Name>Meshan (North Coast Roleplaying)</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>72</X>
+<Y>60</Y>
+<Milieu>M1105</Milieu>
+<Name>Morning Star</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>70</X>
+<Y>61</Y>
+<Milieu>M1105</Milieu>
+<Name>Anniversary</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>70</X>
+<Y>62</Y>
+<Milieu>M1105</Milieu>
+<Name>Marischal</Name>
+</Sector>
+<Sector Tags="Apocryphal Faraway">
+<X>163</X>
+<Y>0</Y>
+<Milieu>M1105</Milieu>
+<Name>Tagret</Name>
+</Sector>
+<Sector Abbreviation="Cali" Tags="Unreviewed Faraway">
+<X>247</X>
+<Y>-248</Y>
+<Milieu>M1105</Milieu>
+<Name>Calidan</Name>
+</Sector>
+</Universe>
