@@ -1,4 +1,4 @@
-# Traveller Command-line utility
+# Traveller RPG Utility
 
 > Note: We are **STILL UNDER CONSTRUCTION** here. You best look away until I'm properly dressed.
 
