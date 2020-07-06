@@ -1,5 +1,7 @@
 # Traveller Command-line utility
 
+> Note: We are **STILL UNDER CONSTRUCTION** here. You best look away until I'm properly dressed.
+
 A golang command-line utility for Traveller RPG. Also known as **The Traveller's Tool**.
 
 This currently does the following:
