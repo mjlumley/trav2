@@ -7,14 +7,14 @@ A utility for Traveller RPG. Also known as **The Traveller's Tool**. Written in 
 This currently does the following:
 
 - Generates words in the Aslan, Darrian, Droyne, K'kree, Vargr, Vilani and Zhodani languages.
-- All the above (partially) implemented using the imgui-go user interface library.
+- All the above (partially) implemented using the [imgui-go](https://github.com/inkyblackness/imgui-go) user interface library.
 - Tested in Linux shells and Powershell/cmd.
 
 The focus is on "Classic compatible" versions of Traveller, so primarily the following:
 
 - Classic Traveller, including Books 4 to 8
 - MegaTraveller
-- Moongoose Traveller, both versions
+- Moongoose Traveller, both original and 2nd Edition
 - Traveller5
 
 ## Usage
@@ -58,7 +58,7 @@ This is the second major version of this software.
 
 The first version used the [tview](https://github.com/rivo/tview) library for user interface, until I ran into complications with deadlocks and the library itself. I always felt like I was fighting with tview to get it to do what I wanted, and the callbacks were a killer. I was able to implement world and sector generation, and that code will be ported over to the new version.
 
-This second major version uses the [imgui-go](https://github.com/inkyblackness/imgui-go) user interface which is an immediate-mode graphical user interface. It looks nice, and only took me a few hours mucking around to get a basic display up and running. Imgui-go is a golang wrapper around the C++ Dear ImGui library.
+This second major version uses the [imgui-go](https://github.com/inkyblackness/imgui-go) user interface which is an immediate-mode graphical user interface. It looks nice, and only took me a few hours mucking around to get a basic display up and running. Imgui-go is a golang wrapper around the C++ [Dear ImGui](https://github.com/ocornut/imgui) library.
 
 ## Dependencies
 
@@ -68,4 +68,4 @@ This application uses the following packages:
 - <https://github.com/dustin/go-humanize> to output numbers etc in a more readable fashion.
 - <https://github.com/mattn/go-sqlite3> as the support database is a Sqlite file.
 - <https://github.com/atotto/clipboard> to copy screen info to the clipboard. **OLD**
-- GFLW  & Open GL3 libraries.
+- GFLW &amp; Open GL3 libraries.
