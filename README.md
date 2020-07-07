@@ -2,13 +2,20 @@
 
 > Note: We are **STILL UNDER CONSTRUCTION** here. You best look away until I'm properly dressed.
 
-A golang command-line utility for Traveller RPG. Also known as **The Traveller's Tool**.
+A utility for Traveller RPG. Also known as **The Traveller's Tool**. Written in [go](https://golang.org).
 
 This currently does the following:
 
 - Generates words in the Aslan, Darrian, Droyne, K'kree, Vargr, Vilani and Zhodani languages.
 - All the above (partially) implemented using the imgui-go user interface library.
 - Tested in Linux shells and Powershell/cmd.
+
+The focus is on "Classic compatible" versions of Traveller, so primarily the following:
+
+- Classic Traveller, including Books 4 to 8
+- MegaTraveller
+- Moongoose Traveller, both versions
+- Traveller5
 
 ## Usage
 
